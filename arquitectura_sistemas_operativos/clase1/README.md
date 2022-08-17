@@ -106,7 +106,7 @@ A diferencia de los anteriores, actúan varios computadores de manera transparen
 
 ## :star:  ACTIVIDAD :
 
-1- REALIZAR  CUESTIONARIO PAR ALA ASISTENCIA EN EL AULA DEL CAMPUS  DE 19 A 21HS. 
+1- REALIZAR  CUESTIONARIO PARA LA ASISTENCIA EN EL AULA DEL CAMPUS  DE 19 A 21HS. 
 
 2- Responde las siguientes preguntas sobre la lo visto de sistemas operativo: (Actividad Grupal) Fecha de entrega 24/08. Nombre del grupo y los integrantes que participaron. 
 
