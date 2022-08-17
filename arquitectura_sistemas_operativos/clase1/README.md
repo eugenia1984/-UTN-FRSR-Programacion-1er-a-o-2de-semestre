@@ -145,8 +145,11 @@ En esta clasificación se encuentran los más conocidos por nosotros como las di
 
 ## :star:  ACTIVIDAD :
 
-1- REALIZAR  CUESTIONARIO PARA LA ASISTENCIA EN EL AULA DEL CAMPUS  DE 19 A 21HS. ->> Ya se hizo en el campus
+- REALIZAR  CUESTIONARIO PARA LA ASISTENCIA EN EL AULA DEL CAMPUS  DE 19 A 21HS. ->> Ya se hizo en el campus
 
+1- REalizar un **Mapa Mental** con **MindMeinster** (actividad grupal) y dasarrollar los puntos principales sobre Sistemas Opoerativos. 
+
+Entregar uno solo por grupo con nombre de los integrantes.
 
 2- Responde las siguientes preguntas sobre la lo visto de sistemas operativo: (Actividad Grupal) Fecha de entrega 24/08. Nombre del grupo y los integrantes que participaron. Enviar al correo dela profesora 1 solo trabajo grupo
 
