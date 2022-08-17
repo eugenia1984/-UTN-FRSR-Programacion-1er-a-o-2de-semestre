@@ -106,17 +106,15 @@ A diferencia de los anteriores, actúan varios computadores de manera transparen
 
 ## :star:  ACTIVIDAD :
 
-1- REALIZAR  CUESTIONARIO PARA LA ASISTENCIA EN EL AULA DEL CAMPUS  DE 19 A 21HS. 
+1- REALIZAR  CUESTIONARIO PARA LA ASISTENCIA EN EL AULA DEL CAMPUS  DE 19 A 21HS. ->> Ya se hizo en el campus
 
-2- Responde las siguientes preguntas sobre la lo visto de sistemas operativo: (Actividad Grupal) Fecha de entrega 24/08. Nombre del grupo y los integrantes que participaron. 
+2- Responde las siguientes preguntas sobre la lo visto de sistemas operativo: (Actividad Grupal) Fecha de entrega 24/08. Nombre del grupo y los integrantes que participaron. Enviar al correo dela profesora 1 solo trabajo grupo
 
-Enviar al correo dela profesora 1 solo trabajo grupo
+A-  ¿ Cuáles son las funcionalidades  básicas de un sistema Operativo? Desarrollar
 
-A-  ¿Cuáles son las funcionalidades  básicas de un sistema Operativo? Desarrollar
+B-  ¿ Cuáles son las características fundamentales de un Sistema Operativo?
 
-B-  ¿Cuáles son las características fundamentales de un Sistema Operativo?
-
-C- Busaca ejemplos 2 o 3 de cada uno de  sistemas multiusuario y monotarea, y de  multitarea y monousuario.
+C- Busca ejemplos 2 o 3 de cada uno de  sistemas multiusuario y monotarea, y de  multitarea y monousuario.
 
 D- Busca en Internet dos versiones de sistemas operativos únicamente textuales y explica por qué no presentan interfaz gráfica. Busca dos versiones gráficas de sistemas operativos
 
