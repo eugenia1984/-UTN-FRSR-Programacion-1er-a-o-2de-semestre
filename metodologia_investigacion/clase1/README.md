@@ -103,6 +103,8 @@ para ello utilizaremos los comandos:
 
 1. Responder cuestionario para asistencia de 21 a 23 hs.​
 
+->> Ya está respondido
+
 2. Realizar trabajo grupal sobre Github, enviar al correo de la profesora​
 
 A) ¿Qué es GitHub?​
@@ -112,5 +114,7 @@ B) ¿Cuál es la diferencia entre Git y GitHub?​
 C) Realizar un gráfico  de como trabajamos de manera local y remota?​
 
 3. Crear una cuenta en GITHUB
+
+->> Ya la tenia creada mi uusario es [**eugenia1984**](https://github.com/eugenia1984)
 
 ---
