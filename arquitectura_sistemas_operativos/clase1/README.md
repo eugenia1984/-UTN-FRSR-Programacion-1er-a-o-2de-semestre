@@ -1,4 +1,4 @@
-# Clase 1 : Introducción a los Sistemas Operativos
+# Clase 1 : 17/08 - Introducción a los Sistemas Operativos
 
 ---
 
