@@ -32,7 +32,7 @@ Código de acceso: 123321
 
 ## CLASES
 
-- clase 1 - Repaso FRASE NOMINAL
+- [clase 1 - Repaso FRASE NOMINAL](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/frase_nominal)
 
 ---
 
