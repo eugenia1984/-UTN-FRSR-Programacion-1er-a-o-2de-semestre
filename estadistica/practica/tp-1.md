@@ -4,7 +4,6 @@
 
 NOMBRE DEL GRUPO: ERROR 404
 
-INTEGRANTES:
 
 ---
 
@@ -45,6 +44,7 @@ Con los resultados obtenidos, elaborar
 | azul | 5 | 5/20 = 0,25 | 9 | 0,45 |
 | amarillo | 5 | 5/20 = 0,25 | 14 | 0,70 |
 | rojo | 6 | 6/20 = 0,30 | 20 | 1,00 |
+| total | 20 | - | 1 | - |
 
 Moda = rojo
 
@@ -96,22 +96,32 @@ Con los datos obtenidos, elaborar
 Los ordeno de menor a mayor:
 
  0; 0; 0; 0; 0; 0; 0; 0; 1; 1; 1; 1; 1; 1; 1; 2; 2; 2; 2; 2; 2; 2; 3; 3; 3; 3; 3; 4; 4; 4;  
+ 
+ | Rango | 4 |
+ | ----- | - |
+ | Muestra | 30 |
+ | Valor maximo | 4 |
+ | Valor minimo | 0 |
+ | Sturges | 5,874500141 |
+ | Amplitud | 0,8 |
+ 
 
 | Cant. autos vendidos | Frec. Abs. | Frec. Rel. | Frec. Abs. Acum. | Frec. Rel. Acum. |
 | -------------------- | ---------- | ---------- | ---------------- | ---------------- |
-| 0 | 8 | 8/30 = 0,266 | 8 | 0,266 |
-| 1 | 7 | 7/30 = 0,233 | 15 | 0,499 |
-| 2 | 7 | 7/30 = 0,233 | 22 | 0,732 |
-| 3 | 5 | 5/30 = 0,166 | 27 | 0,898  |
-| 4 | 3 | 3/30 = 0,10 | 30 | 0,998 |
+| [0:1) | 8 | 8/30 = 0,266 | 8 | 0,266 |
+| [1:2) | 7 | 7/30 = 0,233 | 15 | 0,499 |
+| [2:3) | 7 | 7/30 = 0,233 | 22 | 0,732 |
+| [3:4) | 5 | 5/30 = 0,166 | 27 | 0,898  |
+| [4:5) | 3 | 3/30 = 0,10 | 30 | 0,998 |
+| Total | 30 | - | 1 | - |
 
 Total = 30
 
-Media =
+Media = 1,6
 
-Moda =
+Moda = 0
 
-Mediana =
+Mediana = 1,5
 
 ---
 
@@ -137,6 +147,20 @@ Calcule:
 6. D3
 
 7. P78
+
+| Muestra | 35 |
+| ------- | -- |
+| Valor maximo | 10 |
+| Valor minimo | 0 |
+| rango |10 |
+| Sturges | 6,095424546 |
+| Amplitud | 2 |
+
+Media = 150 / 35 = 4,285
+
+| Clase | fi | Fi acumulada | fr | Fr acumulada |
+| ----- | -- | ------------ | -- | ------------ |
+| [0:2) | 8 | 8 | 0,23 | 0,23 |
 
 ---
 
