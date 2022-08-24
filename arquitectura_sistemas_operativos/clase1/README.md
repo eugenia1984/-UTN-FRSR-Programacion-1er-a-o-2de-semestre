@@ -164,3 +164,7 @@ D- Busca en Internet dos versiones de sistemas operativos únicamente textuales 
 
 ---
 
+
+[Aca pueden ver como lo realizamos en grupo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/arquitectura_sistemas_operativos/clase1/Introducci%C3%B3n%20a%20los%20Sistemas%20Operativos.pdf)
+
+---
