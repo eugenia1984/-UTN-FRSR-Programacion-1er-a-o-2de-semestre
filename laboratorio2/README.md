@@ -2,6 +2,14 @@
 
 ---
 
+- Para ver sobre Python:
+
+[https://ellibrodepython.com/](https://ellibrodepython.com/)
+
+[https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
+
+---
+
 ## Clases
 
 - [Clase 1 - **COLECCIONES**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2) :  [teoria de la clase con **LISTAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2/listas.py),  [ejercicio 1](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2/ejercicio1.py),  [ejercicio 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2/ejercicio2.py),  [ejercicio 3](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2/ejercicio3.py),  [teoria de la clase con **TUPLAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2/tuplas.py), [ejercicio 4](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2/ejercicio4.py)
@@ -13,8 +21,3 @@
 
 ---
 
-- Para ver sobre Python:
-
-[https://ellibrodepython.com/](https://ellibrodepython.com/)
-
----
