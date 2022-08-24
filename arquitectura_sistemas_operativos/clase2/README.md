@@ -154,7 +154,7 @@ LOS CINCO SISTEMAS OPERATIVOS MÁS COMUNES SON :
 ​
 
 
-1) Realizar cuestionario para asistencia en el campus(19-21hs)​
+1) Realizar cuestionario para asistencia en el campus(19-21hs)​ -> Ya esta realizada
 
 2) En grupo elegir dos S.O. y desarrollar su origen, creador y  características principales, puede acompañarse de imágenes. Presentar en Doc Word, PDF o PowerPoint, etc.​
 
