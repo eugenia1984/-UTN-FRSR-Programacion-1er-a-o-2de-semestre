@@ -24,6 +24,147 @@ We should be try**ing** many XP practices -> (Verbo modal) Deberíamos estar **p
 
 2. **PREPOSICIÓN + (BASE + ING)**
 
+- **A** Después de: of - for - after - before - without
+
 Ejemplos: 
 
-Install the software without running the local setup of FDS.
+WITHOUT:
+
+Install the software **without** runn**ing** the local setup of FDS. -> Instale le programa **sin** **hacer funcionar** / **correr** la  configuración local de FDS.
+
+
+OF:
+
+The process **of** **changing** the languges ... ->
+
+---
+
+3. **BY + (BASE + ING)**
+
+Ejemplo: 
+
+They do it **by** develop**ing** a detailed process.
+
+---
+
+4. **THUS / THEREBY + (BASE + ING)**
+
+Ejemplo: 
+
+They are referred to as light methodologies, thus signaling a clear reaction to the heavyweight methodologies.
+
+---
+
+5. **WHEN + (BASE + ING)**
+
+Ejemplo: 
+
+When using more than one computer processor, instructions may be executed simultaneously.
+
+---
+
+6. **POSICIÓN INICIAL de (BASE + ING)**
+
+Ejemplo: 
+
+Getting an FDS server has its ups and downs.
+
+---
+
+7. **(BASE + ING) + cláusula final explicativa**
+
+Ejemplo: 
+
+These programs can generate grammatically correct sentences, establishing linkages between words, ideas, and associations with other ideas.
+
+---
+
+8. **(BASE + ING) como SUSTANTIVO**
+
+Ejemplo: 
+
+Programming methodologies were included in the book.
+Since the beginning of the 21st century, AI research seems to have reduced its pace considerably.
+
+--
+
+9. **(BASE + ING) como ADJETIVO**
+
+Ejemplo: 
+
+Recording machines are very useful to store large amount of data.
+
+---
+
+10. **SUSTANTIVO + (BASE + ING) + complemento**
+
+Ejemplo: 
+
+Is there a software showing if a file is currently opened?
+
+---
+
+11. **ALGUNAS PALABRAS TERMINAN EN -ING NATURALMENTE**
+
+Hay muchas palabras que terminan en –ing naturalmente, es decir, es la forma que poseen y simplemente hay que traducirlas de acuerdo a su significado.
+
+Ejemplos: 
+
+| ingles | español |
+| ------ | ------- |
+| during | durante |
+| thing  | cosa |
+| spring | primavera |
+| nothing | nada |
+| ceiling | techo (cielo raso) |
+| ring | anillo |
+| sing | cantar |
+| bring | traer |
+
+
+---
+
+## :star: Práctica
+
+1. Traduce las siguiente oraciones
+
+- a. They were recycling glass.
+
+- b. There is a recycling center in Missouri.
+
+- c. Recycling is an important activity that has a positive impact on the world in which we live.
+
+- d. Thus, recycling plastic saves the exhaustible sources of energy.
+
+- e. You are helping the environment by recycling one aluminum can.
+
+- f. Paper recycling is the process of recovering wastepaper.
+
+- g. Ready for recycling?
+
+- h. They protected the file by setting a password.
+
+- i. Modern programming methodologies can be difficult to understand.
+
+- j. They are not testing applications for all kinds of conditions
+
+2. - Traduzca la parte del siguiente texto que está en negritas.
+
+Mainframe computers usually process several application programs concurrently, switching from one to the other, for the purpose of increasing productivity. **This is known as multiprogramming (multitasking in the context of microcomputers), which requires a powerful operating system, incorporating work scheduling facilities to control the switching between programs**. This entails reading in data for one program while the processor is performing computations on another and printing out results on yet another.
+
+
+3. Aprendemos de nuestros errores.
+
+Revisa las siguientes frases y su análisis. ¿Estás de acuerdo? ¿Te parece hay algún error?
+
+- Using their own internal Git … presente continuo
+
+- Merging your pull request … oración verbal en presente continuado.
+
+- Whether you're using ... to be pres contínuo
+
+- Branching lets you have different versions ... Oración Imperativa
+
+- I’m including links to pre-built workflows: Oración con verbo to be en present
+
+---
