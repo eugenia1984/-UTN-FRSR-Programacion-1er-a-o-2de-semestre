@@ -34,7 +34,7 @@ Código de acceso: 123321
 
 - [clase 1 - Repaso FRASE NOMINAL](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/frase_nominal)
 
-- [clase 2 - Formas -ing](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/frase_nominal)
+- [clase 2 - Formas -ing](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/formas-ing)
 ---
 
 
