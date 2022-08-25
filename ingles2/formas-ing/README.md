@@ -24,7 +24,7 @@ We should be try**ing** many XP practices -> (Verbo modal) Deberíamos estar **p
 
 2. **PREPOSICIÓN + (BASE + ING)**
 
-- **A** Después de: of - for - after - before - without
+- Después de: of - for - after - before - without
 
 Ejemplos: 
 
@@ -35,7 +35,15 @@ Install the software **without** runn**ing** the local setup of FDS. -> Instale 
 
 OF:
 
-The process **of** **changing** the languges ... ->
+The process **of** **changing** the languges ... -> El proceso **de** **cambiar** los lenguajes/idiomas
+
+- Después de: before - in - on - upon - when - while
+
+Ejemplos:
+
+They had an idea **before** **trying** the new system -> Tuvieron una idea **antes** de **probar** el nuevo sistema.
+
+**When** **using** more tha one computer processor, instructions may be executed simustaneously. -> **Al usar** / **Cuando se usa** más de una computadora, las instrucciones pueden ejecutarse simultáneamente.
 
 ---
 
@@ -43,7 +51,7 @@ The process **of** **changing** the languges ... ->
 
 Ejemplo: 
 
-They do it **by** develop**ing** a detailed process.
+They do it **by** develop**ing** a detailed process. -> Lo hacen **al usar** un proceso detallado. / Lo hacen **usando** un proceso detallado (haciendo referencia a la manera en que se hace la acción)
 
 ---
 
@@ -51,7 +59,16 @@ They do it **by** develop**ing** a detailed process.
 
 Ejemplo: 
 
-They are referred to as light methodologies, thus signaling a clear reaction to the heavyweight methodologies.
+They are referred to as light methodologies, **thus signaling** a clear reaction to the heavyweight methodologies. -> Se las reconoce como metodologías ligeras, **marcando** / **señalando así** una clara reacción a las metodologías pasadas. 
+
+
+- THUS / THEREBY son adverbios...
+
+... así, de ese modo
+
+... en consecuencia
+
+... por lo tanto
 
 ---
 
@@ -59,15 +76,17 @@ They are referred to as light methodologies, thus signaling a clear reaction to 
 
 Ejemplo: 
 
-When using more than one computer processor, instructions may be executed simultaneously.
+**When** us**ing** more than one computer processor, instructions may be executed simultaneously.
 
 ---
 
 6. **POSICIÓN INICIAL de (BASE + ING)**
 
-Ejemplo: 
+Ejemplos: 
 
-Getting an FDS server has its ups and downs.
+**Getting** an FDS server has its ups and downs. -> **Conseguir** un servidor FDS tiene sus altibajos.
+
+**Practising** has its benefits. -> **Practicar** tiene sus beneficios. / La práctica tiene sus beneficios.
 
 ---
 
@@ -75,7 +94,7 @@ Getting an FDS server has its ups and downs.
 
 Ejemplo: 
 
-These programs can generate grammatically correct sentences, establishing linkages between words, ideas, and associations with other ideas.
+These programs can generate grammatically correct sentences, **establishing** linkages between words, ideas, and associations with other ideas. -> Estos programas pueden generar oraciones gramaticalmente correctas, al establecer vínculos entre palabras, ideas y asociaciones con otras ideas. 
 
 ---
 
@@ -83,8 +102,9 @@ These programs can generate grammatically correct sentences, establishing linkag
 
 Ejemplo: 
 
-Programming methodologies were included in the book.
-Since the beginning of the 21st century, AI research seems to have reduced its pace considerably.
+**Programming** methodologies were included in the book. -> Las metodologías de **programación** se incluyeron en este libro.
+
+Since the **beginning** of the 21st century, AI research seems to have reduced its pace considerably.
 
 --
 
@@ -92,7 +112,7 @@ Since the beginning of the 21st century, AI research seems to have reduced its p
 
 Ejemplo: 
 
-Recording machines are very useful to store large amount of data.
+**Recording** machines are very useful to store large amount of data. -> Las **máquinas grabadoras** son muy útiles para compartir grandes cantidades de información.
 
 ---
 
