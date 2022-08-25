@@ -160,5 +160,13 @@ LOS CINCO SISTEMAS OPERATIVOS MÁS COMUNES SON :
 
 Fecha de entrega 31/08. 
 
-Nombre del grupo e integrantes que participaron.​
+Nombre del grupo e integrantes que participaron.
+
+---
+
+GRUPO : ERROR 404
+
+Integrantes:
+
+
 
