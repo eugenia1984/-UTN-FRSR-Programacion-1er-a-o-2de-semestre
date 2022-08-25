@@ -4,7 +4,7 @@
 
 ## CLASES
 
-- Clase 1 (17/08)
+- [Clase 1 (17/08)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase1)
 
 ---
 
