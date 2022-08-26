@@ -104,9 +104,9 @@ Ejemplo:
 
 **Programming** methodologies were included in the book. -> Las metodologías de **programación** se incluyeron en este libro.
 
-Since the **beginning** of the 21st century, AI research seems to have reduced its pace considerably.
+Since the **beginning** of the 21st century, AI research seems to have reduced its pace considerably. -> Desde el comienzo dle siglo 21, la investigación sobre AI parece haber reducido su ritmo considerablemente.
 
---
+---
 
 9. **(BASE + ING) como ADJETIVO**
 
@@ -120,7 +120,7 @@ Ejemplo:
 
 Ejemplo: 
 
-Is there a software showing if a file is currently opened?
+Is there a software **showing** if a file is currently opened? -> ¿Hay algún programa **que muestre** si un archivo estáactualmente abierto?
 
 ---
 
@@ -144,13 +144,27 @@ Ejemplos:
 
 ---
 
+- Las formas -ing pueden ser ...
+
+... gerundio
+
+... infinitivo
+
+... sustantivo
+
+..adjetivo
+
+... palabras
+
+---
+
 ## :star: Práctica
 
 1. Traduce las siguiente oraciones
 
-- a. They were recycling glass.
+- a. They were recycling glass. -> Ellos **estaban** / **estuvieron** **reciclando** vidrio.
 
-- b. There is a recycling center in Missouri.
+- b. There is a recycling center in Missouri. -> Hay un **centro de reciclado** en Missouri
 
 - c. Recycling is an important activity that has a positive impact on the world in which we live.
 
