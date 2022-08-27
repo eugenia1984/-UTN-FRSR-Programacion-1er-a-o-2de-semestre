@@ -21,13 +21,4 @@
 - [Toda la teoria de Colecciones](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2/README.md)
 
 
----
 
-<<<<<<< HEAD
-=======
-- Para ver sobre Python:
-
-[https://ellibrodepython.com/](https://ellibrodepython.com/)
-
----
->>>>>>> 900ee1f3961dc4438076ca46d8adec0636bf3237
