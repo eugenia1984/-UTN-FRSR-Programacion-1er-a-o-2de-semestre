@@ -13,6 +13,7 @@
 (2)As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.
 
 ---
+---
 
 # :star: List
 
@@ -24,9 +25,10 @@ Lists are created using square brackets.
 
 
 - Create a list:
-
+```Python
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
+```
 
 ---
 
