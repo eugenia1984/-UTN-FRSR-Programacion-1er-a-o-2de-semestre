@@ -75,7 +75,10 @@ list2 = [1, 5, 7, 9, 3]
 list3 = [True, False, False]
 ```
 
-A list with strings, integers and boolean values: list1 = ["abc", 34, True, 40, "male"]
+A list with strings, integers and boolean values: 
+```Python
+list1 = ["abc", 34, True, 40, "male"]
+```
 
 ---
 
@@ -93,9 +96,10 @@ print(type(mylist)) # <class 'list'>
 ## Constructor
 
 ->>> The list() Constructor: it is also possible to use the list() constructor when creating a new list.
-
+```Python
 thislist = list(("apple", "banana", "cherry")) # note the double round-brackets
 print(thislist)
+```
 
 ---
 
@@ -103,15 +107,19 @@ print(thislist)
 
 ->>> Access Items: List items are indexed and you can access them by referring to the index number:
 
+```Python
 thislist = ["apple", "banana", "cherry"]
 print(thislist[1]) # print the second item
+```
 
 - Note: The first item has index 0.
 
 - Negative Indexing, means start from the end : -1 refers to the last item, -2 refers to the second last item etc.
 
+```Python
 thislist = ["apple", "banana", "cherry"]
 print(thislist[-1])
+```
 
 ---
 
@@ -119,8 +127,10 @@ print(thislist[-1])
 
 ->>> Range of Indexes : you can specify a range of indexes by specifying where to start and where to end the range. When specifying a range, the return value will be a new list with the specified items.
 
+```Python
 thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[2:5]) # Return the third, fourth, and fifth item
+```
 
 - Note: The search will start at index 2 (included) and end at index 5 (not included).
 
