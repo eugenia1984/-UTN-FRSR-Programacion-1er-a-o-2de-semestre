@@ -3,7 +3,9 @@
 ---
 
 
-# Teoría
+# :star: [Teoría](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica/teoria)
+
+- [Lenguaje R](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/estadistica/teoria/lenguaje_r.md)
 
 ---
 
