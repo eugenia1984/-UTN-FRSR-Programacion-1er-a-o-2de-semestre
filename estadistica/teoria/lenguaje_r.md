@@ -11,7 +11,7 @@
 - Con el software libre R se puede hacer modelos de regresión lineal y logísticos, análisis de series de tiempo, pruebas estadísticas clásicas, agrupamientos, clustering, clasificaciones y aplicar muchas otras técnicas estadísticas.
 
 - R es la elección perfecta de código abierto para participar en la investigación estadística. R permite producir gráficos de alta calidad con mucha facilidad, incluyendo símbolos matemáticos y fórmulas, siempre que sea necesario.
-![image](https://user-images.githubusercontent.com/72580574/187312037-19e71f37-5732-41bd-b9ff-07c86d94e0b1.png)
+
 
 ---
 
@@ -41,7 +41,7 @@ Este software libre proporciona un amplio abanico de herramientas estadísticas 
 
 - También puede usarse como herramienta de cálculo numérico, y en este campo es tan eficaz como GNU Octave y su equivalente privativo, MATLAB.
 
-![image](https://user-images.githubusercontent.com/72580574/187312081-525e438e-7093-4fdc-9c88-63c233e2605c.png)
+
 
 ---
 
@@ -62,7 +62,6 @@ Accesible: Funciona con paquetes fáciles de descargar que otras personas previ
 
 - **Computación paralela y distribuida**: Puede procesar grandes conjuntos de datos utilizando bibliotecas como ddR o multiDplyr.
 
-![image](https://user-images.githubusercontent.com/72580574/187312142-960302cc-5f1f-40c9-8c0a-65c7c319064e.png)
 
 ---
 
@@ -99,9 +98,8 @@ o 'help.start()' para abrir el sistema de ayuda HTML con su navegador.
 
 - Escriba 'q()' para salir de R.
 
-![image](https://user-images.githubusercontent.com/72580574/187312426-3d909547-8717-470b-8d00-c1ae78dabb90.png)
-
 ---
+
 
 ## Obteniendo ayuda en R
 
@@ -117,7 +115,6 @@ Recuerda que existen dos maneras de obtener ayuda en R. Lo puedes hacer a traves
 
 ¿Como lo escribirıas de forma correcta? 
 
-![image](https://user-images.githubusercontent.com/72580574/187312505-f3ded73f-c3d7-4c15-a7e0-cdd2f2975119.png)
 
 ---
 
@@ -137,7 +134,7 @@ Recuerda que existen dos maneras de obtener ayuda en R. Lo puedes hacer a traves
 
 - Todas las matrices se han definido a partir de matrix(x,...). Intenta reproducir el codigo necesario para obtener cada una de ellas. Recuerda que puedes consultar la AYUDA
 
-![image](https://user-images.githubusercontent.com/72580574/187312612-5147f9e4-fa77-494a-b47a-d6328b3dca44.png)
+
 
 ---
 
@@ -153,7 +150,7 @@ Recuerda que existen dos maneras de obtener ayuda en R. Lo puedes hacer a traves
 
 - >matrix(1:6,nrow=4,ncol=4)
 
-![image](https://user-images.githubusercontent.com/72580574/187312699-9e66dc4d-946c-4d38-8997-da6b54ad1121.png)
+
 
 ---
 
@@ -167,7 +164,7 @@ A = 2 3 1 4 (ES DE 2X2)
 
 B =  3 8 (ES DE 1X2)
 
-![image](https://user-images.githubusercontent.com/72580574/187312756-9d0d9d89-efd9-4de8-8a9a-6febaaf8740d.png)
+
 
 ---
 
@@ -195,7 +192,7 @@ f ) A*C
 
 g) A%*%C
 
-![image](https://user-images.githubusercontent.com/72580574/187312798-1f8ae690-09ee-4a7d-95f7-74da52e999ad.png)
+
 
 ---
 
@@ -203,7 +200,7 @@ g) A%*%C
 
 Un grupo de amigos esta formado por Ana de 23 anos, Luis de 24 anos, Pedro de 22, Juan de 24, Eva de 21 y Jorge de 22 anos. Crea los vectores correspondientes a nombre, edad y sexo.
 
-![image](https://user-images.githubusercontent.com/72580574/187312875-f512f629-7e47-4348-b1dc-12c641b55140.png)
+
 
 ---
 
@@ -219,9 +216,135 @@ sexo 1 Ana 23 M ;2 Luis 24 H; 3 Pedro 22 H; 4 Juan 24 H ;5 Eva 21 M ;6 Jorge 22 
 
 ¿Cual es el codigo de R da como resultado esta salida?
 
-![image](https://user-images.githubusercontent.com/72580574/187312911-1e07e592-f606-4e61-aeb6-0313134985f6.png)
+
 
 ---
+
+## :star: Ejercicio 7 * Graficos
+
+- Queremos representar graficamente la funcion coseno en el intervalo [0, 2π]. 
+
+- Para ello creamos el vector x de la siguiente forma: 
+
+x<-seq(0,2*pi,length=100). 
+
+- ¿Cual es la diferencia entre las graficas obtenidas por los siguientes comandos? 
+
+>plot(cos(x)) y >plot(x,cos(x))
+
+- Intenta reproducir en lo posible las siguientes gr´aficas. Si tienes cualquier duda consulta la ayuda de las funciones plot y par.
+
+
+
+---
+
+## Tablas de frecuencia y graficos para variables cualitativas![image](https://user-images.githubusercontent.com/72580574/187313382-3c696fc8-4c62-4a17-8fe5-19b49055b599.png)
+
+- Empezamos con las variables cualitativas. Vemos en primer lugar como obtener las frecuencias absolutas de la variable Equipo. Para ello vamos a utilizar las variables del conjunto de datos utilizando el comando attach:
+
+- > attach(datos.alumnos) 
+
+- > Altura 
+
+- > Peso 
+
+- > Hermanos
+
+---
+
+- A continuacion, para obtener las frecuencias absolutas utilizamos la funcion table, como sigue:
+
+- > fabs <-table(Equipo) 
+
+- > fabs 
+
+- Equipo : 
+```
+BAR CEL DEP NIN RMA VAL 
+3    4   13  15   8   1
+```
+
+- > class(fabs)
+
+
+- Las frecuencias relativas las podemos obtener simplemente dividiendo la variable fabs por el numero de individuos de la muestra n.ind:
+
+- > frel<-fabs/n.ind 
+
+- Equipo 
+```
+BAR               CEL                DEP               NIN               RMA  
+0.06818182 0.09090909 0.29545455 0.34090909 0.18181818 
+```
+
+- VAL
+0.02272727
+
+- Obtenemos ası las frecuencias relativas de cada uno de los equipos de la muestra. Una vez que tenemos estas frecuencias podemos empezar a hacer resumenes graficos para variables cualitativas. Por ejemplo, para hacer un diagrama de barras, podemos escribir:
+
+- > barplot(fabs,ylab="Frecuencias absolutas",main="Diagrama de barras de Equipo")
+
+- Las opciones del gr´afico son m´ultiples y las podemos comprobar utilizando la ayuda:
+
+- > help("barplot")
+
+- Ver que tambien podemos hacer un diagrama de barras de la variable Equipo utilizando las frecuencias relativas: 
+
+- > barplot(frel,ylab="Frecuencias relativas",main="Diagrama de barras de Equipo")
+
+
+
+
+---
+
+## Tablas de frecuencia y graficos para variables cuantitativas: EJERCICIO NRO 1
+
+
+- Empezamos con las variables cuantitativas discretas. En primer lugar, obtenemos las frecuencias absolutas y relativas de la variable Hermanos, utilizando la funcion table como sigue:
+
+- > fabs<-table(Hermanos) 
+
+- > fabs 
+
+```
+Hermanos 1    2    3   4   6 
+         8    24   9   2   1
+```
+
+- Las frecuencias relativas las podemos obtener simplemente dividiendo la variable fabs por el numero de individuos de la muestra n.ind: 
+
+- > frel<-fabs/n.ind
+
+- > frel Hermanos 
+```
+1                    2                    3                   4                    6 
+0.18181818 0.54545455 0.20454545 0.04545455 0.02272727
+```
+
+- Ademas ahora podemos obtener las frecuencias absoluta y relativa acumuladas. Para ello, podemos hacer lo siguiente: 
+
+> fabsacum<-as.table(cumsum(fabs)) 
+
+> fabsacum 
+```
+1  2    3  4   6 
+8  32 41 43 44 
+```
+
+> frelacum<-as.table(cumsum(frel)) 
+
+> frelacum 
+```
+1                  2                 3          4             6 
+0.1818182    0.7272727        0.9318182      0.9772727 1.0000000
+```  
+
+---
+
+
+
+
+
 
 
 
