@@ -23,7 +23,7 @@
 - [Clase 3 - **COLECCIONES**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3)
 
 
-- [Toda la teoria de Colecciones](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2/README.md)
+- [Toda la teoria de Colecciones](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/README.md)
 
 
 
