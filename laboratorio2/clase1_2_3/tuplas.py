@@ -1,6 +1,7 @@
 # A diferencia de la lista, las tuplas son INMODIFICABLES
 # Las tuplas se declaran entre ()
 # Las tuplas permiten elementos repetidos
+# Puede guardar distitnots tipos de datos
 
 cocina = ('cuchara', 'cuchillo', 'tenedor')
 print(cocina)
