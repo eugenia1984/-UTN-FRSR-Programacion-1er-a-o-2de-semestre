@@ -11,3 +11,7 @@
 - [Clase 2 (24/08)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/arquitectura-y-sistemas-operativos/metodologia_investigacion/clase2): Introducción a la Metodología de la Investigación
 
 ---
+
+- [Clase 3 (31/08)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/arquitectura-y-sistemas-operativos/metodologia_investigacion/clase2): Git Hub
+
+---
