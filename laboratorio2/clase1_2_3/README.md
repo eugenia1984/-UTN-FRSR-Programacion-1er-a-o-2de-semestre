@@ -1352,11 +1352,85 @@ print(set1)   # {3, 'b', 2, 'a', 1, 'c'}
  
 *Note: Both union() and update() will exclude any duplicate items*.  
 
+### Keep ONLY the Duplicates
+
+- The ```intersection_update()``` method will keep only the items that are present in both sets.
+
+- Example: Keep the items that exist in both set x, and set y:
+
+```Python
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+
+x.intersection_update(y)
+
+print(x) # {'apple'}
+```
+
+- The intersection() method will return a new set, that only contains the items that are present in both sets.
+
+- Example: Return a set that contains the items that exist in both set x, and set y:
+
+```Python
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+
+z = x.intersection(y)
+
+print(z) # {'apple'}
+```
+
+## Keep All, But NOT the Duplicates
+
+- The ```symmetric_difference_update()``` method will keep only the elements that are NOT present in both sets.
+
+- Example: Keep the items that are not present in both sets:
+
+```Python
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+
+x.symmetric_difference_update(y)
+
+print(x) # {'google', 'banana', 'microsoft', 'cherry'}
+```
+- The symmetric_difference() method will return a new set, that contains only the elements that are NOT present in both sets.
+
+- Example: Return a set that contains all items from both sets, except items that are present in both:
+
+```Python
+x = {"apple", "banana", "cherry"}
+y = {"google", "microsoft", "apple"}
+
+z = x.symmetric_difference(y)
+
+print(z) # {'google', 'banana', 'microsoft', 'cherry'}
+```
+
 ---
   
-## :basecamp: Set Mothods
-  
-  
+## :basecamp: Set Methods
+
+Python has a set of built-in methods that you can use on sets.
+
+| Method | Description |
+| ------ | ----------- |
+| add() | Adds an element to the set |
+| clear() | Removes all the elements from the set |
+| copy() | Returns a copy of the set|
+| difference() | Returns a set containing the difference between two or more sets |
+| difference_update() | Removes the items in this set that are also included in another, specified set |
+| discard() | Remove the specified item |
+| intersection() | Returns a set, that is the intersection of two other sets |
+| intersection_update() | Removes the items in this set that are not present in other, specified set(s) |
+| isdisjoint() | Returns whether two sets have a intersection or not |
+| issuperset() | Returns whether another set contains this set or not |
+| pop() | Removes an element from the set |
+| remove() | Removes the specified element |
+| symmetric_difference() | Returns a set with the symmetric differences of two sets |
+| symmetric_difference_update()	 | inserts the symmetric differences from this set and another |
+| union() | Return a set containing the union of sets |
+| update() | Update the set with the union of this set and others |
                          
 ---
 ---
