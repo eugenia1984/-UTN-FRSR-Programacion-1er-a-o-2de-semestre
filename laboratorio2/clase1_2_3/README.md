@@ -594,8 +594,228 @@ print(list1) # ['a', 'b', 'c', 1, 2, 3]
 ---
 ---
 
-# :star: Tuples
+# :star2: Tuples :star2:
 
+##  ▶️ Definition
+
+- Tuples are used to store multiple items in a single variable.
+
+- Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+
+- A tuple is a collection which is ordered and unchangeable.
+
+- Tuples are written with round brackets ``` ( )```.
+
+```Python
+thistuple = ("apple", "banana", "cherry")
+print(thistuple) # ('apple', 'banana', 'cherry')
+```
+
+##  ▶️ Characteristics:
+
+### Tuple Items
+
+- Tuple items are **ordered**, **unchangeable**, and **allow duplicate values**.
+
+-Tuple items are indexed, the first item has index ```[0]```, the second item has index ```[1]``` etc.
+
+### Ordered
+
+- When we say that tuples are ordered, it means that the items have a defined order, and that order will not change.
+
+### Unchangeable
+
+- Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.
+
+### Allow Duplicates
+
+- Since tuples are indexed, they can have items with the same value:
+
+```Python
+thistuple = ("apple", "banana", "cherry", "apple", "cherry")
+print(thistuple) # ('apple', 'banana', 'cherry', 'apple', 'cherry')
+```
+---
+
+##  ▶️ Tuple Length
+
+- To determine how many items a tuple has, use the **len()** function:
+
+```Python
+thistuple = tuple(("apple", "banana", "cherry"))
+print(len(thistuple)) # 3
+```
+---
+
+##  ▶️ Create Tuple With One Item
+
+- To create a tuple with only one item, you have to add a comma after the item, otherwise Python will not recognize it as a tuple.
+
+Example : One item tuple, remember the comma:
+
+```Python
+thistuple = ("apple",)
+print(type(thistuple)) # <class 'tuple'>
+
+#NOT a tuple
+thistuple = ("apple")
+print(type(thistuple)) # <class 'str'>
+
+```
+
+---
+
+##  ▶️ Tuple Items - Data Types
+
+- Tuple items can be of any data type:
+
+Example: **String**, **int** and **boolean** data types:
+
+
+```Python
+tuple1 = ("apple", "banana", "cherry")
+tuple2 = (1, 5, 7, 9, 3)
+tuple3 = (True, False, False)
+
+print(tuple1) # ('apple', 'banana', 'cherry')
+print(tuple2) # (1, 5, 7, 9, 3)
+print(tuple3) # (True, False, False)
+```
+
+- A tuple can contain **different data types**:
+
+Example: A tuple with strings, integers and boolean values:
+
+```Python
+tuple1 = ("abc", 34, True, 40, "male")
+print(tuple1) # ('abc', 34, True, 40, 'male')
+```
+---
+
+##  ▶️ type()
+
+- From Python's perspective, tuples are defined as objects with the data type 'tuple': ```<class 'tuple'>```
+
+```Python
+mytuple = ("apple", "banana", "cherry")
+print(type(mytuple)) # <class 'tuple'>
+```
+
+Example: What is the data type of a tuple?
+
+```Python
+mytuple = ("apple", "banana", "cherry")
+print(type(mytuple)) # <class 'tuple'>
+```
+
+---
+
+##  ▶️ The tuple() Constructor
+
+- It is also possible to use the tuple() constructor to make a tuple.
+
+- Example: Using the ```tuple()``` method to make a tuple:
+
+```Python
+thistuple = tuple(("apple", "banana", "cherry"))
+print(thistuple) # ('apple', 'banana', 'cherry')
+```
+
+---
+
+## ▶️  Python - Access Tuple Items
+
+### Access Tuple Items
+
+- You can access tuple items by referring to the index number, inside square brackets:
+
+```Python
+thistuple = ("apple", "banana", "cherry")
+print(thistuple[1]) # banana
+```
+
+## Negative Indexing
+Negative indexing means start from the end.
+
+```-1``` refers to the last item
+
+```-2``` refers to the second last item etc.
+
+```Python
+thistuple = ("apple", "banana", "cherry")
+print(thistuple[-1]) # cherry
+```
+
+## Range of Indexes
+
+- You can specify a range of indexes by specifying where to start and where to end the range.
+
+- When specifying a range, the return value will be a new tuple with the specified items.
+
+```Python
+thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(thistuple[2:5]) # ('cherry', 'orange', 'kiwi')
+
+#This will return the items from position 2 to 5
+#Remember that the first item is position 0,
+#and note that the item in position 5 is NOT included
+```
+
+- By leaving out the start value, the range will start at the first item:
+
+```Python
+thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(thistuple[:4]) # ('apple', 'banana', 'cherry', 'orange')
+```
+
+- By leaving out the end value, the range will go on to the end of the list:
+
+```Python
+thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(thistuple[2:]) # ('cherry', 'orange', 'kiwi', 'melon', 'mango')
+```
+## Range of Negative Indexes
+
+- Specify negative indexes if you want to start the search from the end of the tuple:
+
+- Example: This example returns the items from index -4 (included) to index -1 (excluded)
+
+```Python
+thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(thistuple[-4:-1]) # ('orange', 'kiwi', 'melon')
+
+#Negative indexing means starting from the end of the tuple.
+#This example returns the items from index -4 (included) to index -1 (excluded)
+#Remember that the last item has the index -1,
+```
+## Check if Item Exists
+
+- To determine if a specified item is present in a tuple use the in keyword:
+
+```Python
+thistuple = ("apple", "banana", "cherry")
+if "apple" in thistuple:
+  print("Yes, 'apple' is in the fruits tuple")
+# Yes, 'apple' is in the fruits tuple  
+```
+
+```Python
+```
+
+```Python
+```
+
+```Python
+```
+
+```Python
+```
+
+```Python
+```
+
+```Python
+```
 ---
 ---
 
