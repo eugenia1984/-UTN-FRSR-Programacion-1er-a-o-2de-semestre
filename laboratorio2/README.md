@@ -20,7 +20,7 @@
 - [Clase 2 - **COLECCIONES**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3),  [teoria de la clase con **SET**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/set.py),  [teoria de la clase con **DICCIONARIOS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_/diciconarios.py)
 
 
-- [Clase 3 - **COLECCIONES**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3), seguimos con listas y vemos [pilas](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/pilas.py) y [colas](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/colas.py)
+- [Clase 3 - **COLECCIONES**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3), seguimos con listas y vemos [**PILAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/pilas.py) y [**COLAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/colas.py)
 
 
 - [Toda la teoria de Colecciones](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/README.md)
