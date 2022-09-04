@@ -15,7 +15,7 @@
 ---
 ---
 
-# :star: List
+# :star2: List :star2:
 
 Lists are used to store multiple items in a single variable.
 
@@ -32,11 +32,11 @@ print(thislist)
 
 ---
 
-## Definition
+## 📋 Definition
 
 ->>> List Items are **ordered**, **changeable**, and **allow duplicate values**. 
 
-1. ORDERER:
+1. **ORDERER**:
 
 List items are indexed, the first item has index [0], the second item has index [1] etc.
 
@@ -44,11 +44,11 @@ When we say that lists are ordered, it means that the items have a defined order
 
 Note: There are some list methods that will change the order, but in general: the order of the items will not change.
 
-2. CHANGEABLE:
+2. **CHANGEABLE**:
 
 The list is changeable, meaning that we can change, add, and remove items in a list after it has been created.
 
-3. ALLOW DULICATAES VALUES:
+3. **ALLOW DUPLICATAES VALUES**:
 
 
 ```Python
@@ -82,7 +82,7 @@ list1 = ["abc", 34, True, 40, "male"]
 
 ---
 
-## Type
+## 📋 Type
 
 ->>> type(): from Python's perspective, lists are defined as objects with the data type 'list':
 
@@ -93,9 +93,10 @@ print(type(mylist)) # <class 'list'>
 
 ---
 
-## Constructor
+## 📋 Constructor
 
 ->>> The list() Constructor: it is also possible to use the list() constructor when creating a new list.
+
 ```Python
 thislist = list(("apple", "banana", "cherry")) # note the double round-brackets
 print(thislist)
@@ -103,7 +104,7 @@ print(thislist)
 
 ---
 
-## Access Items
+## 📋 Access Items
 
 ->>> Access Items: List items are indexed and you can access them by referring to the index number:
 
@@ -123,7 +124,7 @@ print(thislist[-1])
 
 ---
 
-## Range of Indexes
+## 📋 Range of Indexes
 
 ->>> Range of Indexes : you can specify a range of indexes by specifying where to start and where to end the range. When specifying a range, the return value will be a new list with the specified items.
 
@@ -149,7 +150,7 @@ print(thislist[-4:-1]) # This example returns the items from "orange" (-4) to, b
 
 ---
 
-## Check if Item Exists
+## 📋 Check if Item Exists
 
 ->>> Check if Item Exists: To determine if a specified item is present in a list use the in keyword
 
@@ -163,7 +164,7 @@ if "apple" in thislist:
 
 ---
 
-## Change Item Value
+## 📋 Change Item Value
 
 ->>> Change Item Value: To change the value of a specific item, refer to the index number:
 
@@ -201,7 +202,7 @@ print(thislist)
 
 ---
 
-## Insert Items
+## 📋 Insert Items
 
 To insert a new list item, without replacing any of the existing values, we can use the insert() method.
 
@@ -217,11 +218,11 @@ print(thislist)
 
 ---
 
-## Add List Items
+## 📋 Add List Items
 
 ### Append Items
 
-To add an item to the end of the list, use the append() method:
+To add an item to the end of the list, use the **append()** method:
 
 ```Python
 thislist = ["apple", "banana", "cherry"]
@@ -230,7 +231,7 @@ thislist.append("orange")
 
 ### Insert Items
 
-To insert a list item at a specified index, use the insert() method.
+To insert a list item at a specified index, use the **insert()** method.
 
 The insert() method inserts an item at the specified index:
 
@@ -243,7 +244,7 @@ thislist.insert(1, "orange") # Insert an item as the second position
 
 ### Extend List
 
-To append elements from another list to the current list, use the extend() method.
+To append elements from another list to the current list, use the **extend()** method.
 
 ```Python
 thislist = ["apple", "banana", "cherry"]
@@ -253,7 +254,7 @@ thislist.extend(tropical) # Add the elements of tropical to thislist
 
 ## Add Any Iterable
 
-The extend() method does not have to append lists, you can add any iterable object (tuples, sets, dictionaries etc.).
+The **extend()** method does not have to append lists, you can add any iterable object (tuples, sets, dictionaries etc.).
 
 ```Python
 thislist = ["apple", "banana", "cherry"]
@@ -266,11 +267,11 @@ print(thislist) # ['apple', 'banana', 'cherry', 'kiwi', 'orange']
 
 ---
 
-## Remove List Items
+## 📋 Remove List Items
 
 ### Remove Specified Item
 
-The remove() method removes the specified item.
+The **remove()** method removes the specified item.
 
 ```Python
 thislist = ["apple", "banana", "cherry"]
@@ -280,7 +281,7 @@ print(thislist)
 
 ### Remove Specified Index
 
-The pop() method removes the specified index.
+The **pop()** method removes the specified index.
 
 ```Python
 thislist = ["apple", "banana", "cherry"]
@@ -297,7 +298,7 @@ thislist.pop()
 
 ## del
 
-The del keyword also removes the specified index
+The **del** keyword also removes the specified index
 
 ```Python
 thislist = ["apple", "banana", "cherry"] # remove the first item
@@ -312,7 +313,8 @@ del thislist  # delete the entire list
 
 ## Clear the List
 
-The clear() method empties the list. The list still remains, but it has no content.
+The **clear()** method empties the list. The list still remains, but it has no content.
+
 ```Python
 thislist = ["apple", "banana", "cherry"]
 thislist.clear()
@@ -320,9 +322,10 @@ thislist.clear()
 
 ---
 
-## Loop Lists
+## 📋 Loop Lists
 
 - You can loop through the list items by using a for loop:
+
 ```Python
 thislist = ["apple", "banana", "cherry"]
 for x in thislist:
@@ -332,6 +335,7 @@ for x in thislist:
 ## Loop Through the Index Numbers
 
 You can also loop through the list items by referring to their index number. Use the range() and len() functions to create a suitable iterable
+
 ```Python
 thislist = ["apple", "banana", "cherry"]
 for i in range(len(thislist)):  # Print all items by referring to their index number
@@ -339,11 +343,11 @@ for i in range(len(thislist)):  # Print all items by referring to their index nu
 # [0, 1, 2] 
 ```
 
-## Using a While Loop
+### Using a While Loop
 
-You can loop through the list items by using a while loop.
+You can loop through the list items by using a **while** loop.
 
-Use the len() function to determine the length of the list, then start at 0 and loop your way through the list items by referring to their indexes.
+Use the **len()** function to determine the length of the list, then start at 0 and loop your way through the list items by referring to their indexes.
 
 Remember to increase the index by 1 after each iteration.
 
@@ -355,7 +359,7 @@ while i < len(thislist):
   i = i + 1
 ```
 
-## Looping Using List Comprehension
+### Looping Using List Comprehension
 
 List Comprehension offers the shortest syntax for looping through lists:
 
@@ -366,7 +370,7 @@ thislist = ["apple", "banana", "cherry"]
 
 ---
 
-## List Comprehension
+## 📋 List Comprehension
 
 List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
 
@@ -395,7 +399,7 @@ fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 newlist = [x for x in fruits if "a" in x]
 ```
 
-->> Syntax: **newlist = [expression for item in iterable if condition == True]** 
+->> Syntax: ```newlist = [expression for item in iterable if condition == True]```
 
 The return value is a new list, leaving the old list unchanged.
 
@@ -409,11 +413,12 @@ The condition if x != "apple"  will return True for all elements other than "app
 
 The condition is optional and can be omitted.
 
-With no if statement **newlist = [x for x in fruits]**
+With no if statement ```newlist = [x for x in fruits]```
 
 ---
 
-## Iterable
+## 📋 Iterable
+
 The iterable can be any iterable object, like a list, tuple, set etc.
 
 ```Python
@@ -443,7 +448,7 @@ The expression in the example above says: "Return the item if it is not banana, 
 
 ---
 
-## Sort List Alphanumerically
+## 📋 Sort List Alphanumerically
 
 - List objects have a sort() method that will sort the list alphanumerically, ascending, by default:
 
@@ -509,7 +514,7 @@ print(thislist)
 
 ---
 
-## Copy Lists
+## 📋 Copy Lists
 
 
 - You cannot copy a list simply by typing list2 = list1, because: list2 will only be a reference to list1, and changes made in list1 will automatically also be made in list2.
@@ -524,7 +529,7 @@ print(mylist) # ["apple", "banana", "cherry"]
 ```
 
 
-- Another way to make a copy is to use the built-in method list().
+- Another way to make a copy is to use the built-in method **list()**.
 
 ```Python
 thislist = ["apple", "banana", "cherry"]
@@ -534,9 +539,9 @@ print(mylist) # ["apple", "banana", "cherry"]
 
 ---
 
-## Join Lists
+## 📋 Join Lists
 
-here are several ways to join, or concatenate, two or more lists in Python.
+Here are several ways to join, or concatenate, two or more lists in Python.
 
 - One of the easiest ways are by using the + operator.
 ```Python
@@ -558,7 +563,7 @@ for x in list2:
 print(list1) # ['a', 'b', 'c', 1, 2, 3]
 ```
 
-- Or you can use the extend() method, which purpose is to add elements from one list to another list:
+- Or you can use the **extend()** method, which purpose is to add elements from one list to another list:
 
 ```Python
 list1 = ["a", "b" , "c"]
@@ -570,7 +575,7 @@ print(list1) # ['a', 'b', 'c', 1, 2, 3]
 
 ---
 
-## List Methods
+## 📋 List Methods
 
 | Method | Description 
 | -- | -- |
