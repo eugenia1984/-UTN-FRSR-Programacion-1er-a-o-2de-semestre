@@ -85,31 +85,42 @@ Todos los paquetes de R están disponibles en la CRAN (Comprehensive R Archive 
 
 - Usted puede redistribuirlo bajo ciertas circunstancias.
 
-- Escriba 'license()' o 'licence()' para detalles de distribucion.
+- Escriba ```license()``` o  ```licence()``` para detalles de distribucion.
 
 - R es un proyecto colaborativo con muchos contribuyentes.
 
-- Escriba 'contributors()' para obtener más información y
+- Escriba ```contributors()``` para obtener más información y ```citation()``` para saber cómo citar R o paquetes de R en publicaciones.
 
-- 'citation()' para saber cómo citar R o paquetes de R en publicaciones.
+- Escriba ```demo()``` para demostraciones
 
-- Escriba 'demo()' para demostraciones, 'help()' para el sistema on-line de ayuda,
-o 'help.start()' para abrir el sistema de ayuda HTML con su navegador.
+- Escrriba ```help()``` para el sistema on-line de ayuda o ```help.start()``` para abrir el sistema de ayuda HTML con su navegador.
 
-- Escriba 'q()' para salir de R.
+- Escriba ```q()``` para salir de R.
 
 ---
 
 
 ## Obteniendo ayuda en R
 
-Recuerda que existen dos maneras de obtener ayuda en R. Lo puedes hacer a traves del menu o de la ventana de comandos. 
+Recuerda que existen dos maneras de obtener ayuda en R. 
 
-1. La funcion mean calcula la media aritmetica de una serie de valores. ¿Cuales son los argumentos de dicha funcion? 
+Lo puedes hacer a traves del menu o de la ventana de comandos. 
 
-2. Dado un conjunto de valores, sabemos que existe una funcion en R que calcula el maximo, pero no recordamos su nombre. ¿Serıas capaz de encontrarla a traves de la ayuda? Recuerda que la ayuda esta en ingles.
+1. La funcion ```mean``` calcula la media aritmetica de una serie de valores. 
 
-3. Queremos utilizar el comando help.search para obtener informacion sobre la funcion plot. El resultado es el siguiente: ```> help.search(plot) Error in help.search(plot) : argument ’pattern’ must be a single character string```
+¿Cuales son los argumentos de dicha funcion? 
+
+2. Dado un conjunto de valores, sabemos que existe una funcion en R que calcula el maximo, pero no recordamos su nombre.
+
+¿Serıas capaz de encontrarla a traves de la ayuda? Recuerda que la ayuda esta en ingles.
+
+3. Queremos utilizar el comando ```help.search``` para obtener informacion sobre la funcion ```plot```. 
+
+El resultado es el siguiente: 
+
+```
+> help.search(plot) Error in help.search(plot) : argument ’pattern’ must be a single character string
+```
  
 ¿Por que nos da error? 
 
@@ -124,13 +135,13 @@ Recuerda que existen dos maneras de obtener ayuda en R. Lo puedes hacer a traves
 
 - A partir de dicho vector se han construido las matrices m1, m2, m3, m4  
 
-- > m1 [,1] [,2] [,3] [1,] 1 3 5 [2,] 2 4 6 - EXPRESAR ESTA MATRIZ
+- >``` m1 [,1] [,2] [,3] [1,] 1 3 5 [2,] 2 4 6``` - EXPRESAR ESTA MATRIZ
 
-- > m2 [,1] [,2] [1,] 1 4 [2,] 2 5 [3,] 3 6 - EXPRESAR ESTA MATRIZ  
+- >``` m2 [,1] [,2] [1,] 1 4 [2,] 2 5 [3,] 3 6``` - EXPRESAR ESTA MATRIZ  
 
-- > m3 [,1] [,2] [,3] [1,] 1 2 3 [2,] 4 5 6 - EXPRESAR ESTA MATRIZ
+- > ```m3 [,1] [,2] [,3] [1,] 1 2 3 [2,] 4 5 6 ```- EXPRESAR ESTA MATRIZ
 
-- > m4 [,1] [,2] [,3] [1,] 1 4 1 [2,] 2 5 2 [3,] 3 6 3 EXPRESAR ESTA MATRIZ
+- >``` m4 [,1] [,2] [,3] [1,] 1 4 1 [2,] 2 5 2 [3,] 3 6 3``` EXPRESAR ESTA MATRIZ
 
 - Todas las matrices se han definido a partir de matrix(x,...). Intenta reproducir el codigo necesario para obtener cada una de ellas. Recuerda que puedes consultar la AYUDA
 
@@ -144,11 +155,11 @@ Recuerda que existen dos maneras de obtener ayuda en R. Lo puedes hacer a traves
 
 - ¿Que ocurre cuando los datos no se corresponden con la dimension de la matriz que queremos definir? Compruebalo ejecutando los siguientes comandos: 
 
-- >matrix(1:6,nrow=2) 
+- > ```matrix(1:6,nrow=2) ```
 
-- >matrix(1:6,nrow=4) 
+- > ```matrix(1:6,nrow=4) ```
 
-- >matrix(1:6,nrow=4,ncol=4)
+- > ```matrix(1:6,nrow=4,ncol=4)```
 
 
 
@@ -156,21 +167,21 @@ Recuerda que existen dos maneras de obtener ayuda en R. Lo puedes hacer a traves
 
 ## :star: Ejercicio 3:
 
-- ¿Cual es la diferencia entre *, %*% y outer() ?
+- ¿Cual es la diferencia entre  ```*```, ```%*%``` y ```outer()``` ?
 
 - Compruebalo con las matrices 
 
+```
 A = 2 3 1 4 (ES DE 2X2)
-
 B =  3 8 (ES DE 1X2)
-
+```
 
 
 ---
 
 ## :star: Ejercicio 4
 
-- Sean A una matriz 2 × 3, B una matriz 3 × 4 y C una matriz 2 × 3.
+- Sean A una matriz ```2 × 3```, B una matriz ```3 × 4``` y C una matriz ```2 × 3```.
  
 ¿De que tipo y dimension seran los objetos obtenidos de los siguientes comandos de R? 
 
@@ -178,19 +189,19 @@ B =  3 8 (ES DE 1X2)
 
 ¿Por que?
 
-a) A*B 
+a) ```A*B ```
 
-b) outer(A,B) 
+b) ```outer(A,B) ```
 
-c) A+2 
+c) ```A + 2 ``` 
 
-d) A%*%B 
+d) ```A % *% B ``` 
 
-e) exp(B). Nota: exp() es la funcion exponencial. 
+e) ```exp(B). Nota: exp() es la funcion exponencial. ```
 
-f ) A*C 
+f ) ```A * C ``` 
 
-g) A%*%C
+g) ```A % *% C ```
 
 
 
@@ -222,27 +233,29 @@ sexo 1 Ana 23 M ;2 Luis 24 H; 3 Pedro 22 H; 4 Juan 24 H ;5 Eva 21 M ;6 Jorge 22 
 
 ## :star: Ejercicio 7 * Graficos
 
-- Queremos representar graficamente la funcion coseno en el intervalo [0, 2π]. 
+- Queremos representar graficamente la funcion coseno en el intervalo ```[0, 2π]```. 
 
 - Para ello creamos el vector x de la siguiente forma: 
 
-x<-seq(0,2*pi,length=100). 
+```x<-seq(0,2*pi,length=100)```. 
 
 - ¿Cual es la diferencia entre las graficas obtenidas por los siguientes comandos? 
 
->plot(cos(x)) y >plot(x,cos(x))
+```>plot(cos(x)) y >plot(x,cos(x))```
 
-- Intenta reproducir en lo posible las siguientes gr´aficas. Si tienes cualquier duda consulta la ayuda de las funciones plot y par.
+- Intenta reproducir en lo posible las siguientes gr´aficas. Si tienes cualquier duda consulta la ayuda de las funciones ```plot``` y ```par```.
 
 
 
 ---
 
-## Tablas de frecuencia y graficos para variables cualitativas![image](https://user-images.githubusercontent.com/72580574/187313382-3c696fc8-4c62-4a17-8fe5-19b49055b599.png)
+## Tablas de frecuencia y graficos para variables cualitativas
+
+![image](https://user-images.githubusercontent.com/72580574/187313382-3c696fc8-4c62-4a17-8fe5-19b49055b599.png)
 
 - Empezamos con las variables cualitativas. Vemos en primer lugar como obtener las frecuencias absolutas de la variable Equipo. Para ello vamos a utilizar las variables del conjunto de datos utilizando el comando attach:
 
-- > attach(datos.alumnos) 
+- > ```attach(datos.alumnos)``` 
 
 - > Altura 
 
@@ -254,9 +267,9 @@ x<-seq(0,2*pi,length=100).
 
 - A continuacion, para obtener las frecuencias absolutas utilizamos la funcion table, como sigue:
 
-- > fabs <-table(Equipo) 
+- > ```fabs <-table(Equipo) ```
 
-- > fabs 
+- > ```fabs ```
 
 - Equipo : 
 ```
@@ -264,12 +277,12 @@ BAR CEL DEP NIN RMA VAL
 3    4   13  15   8   1
 ```
 
-- > class(fabs)
+- > ```class(fabs)```
 
 
 - Las frecuencias relativas las podemos obtener simplemente dividiendo la variable fabs por el numero de individuos de la muestra n.ind:
 
-- > frel<-fabs/n.ind 
+- > ```frel<-fabs/n.ind ```
 
 - Equipo 
 ```
@@ -278,19 +291,21 @@ BAR               CEL                DEP               NIN               RMA
 ```
 
 - VAL
+```
 0.02272727
+```
 
 - Obtenemos ası las frecuencias relativas de cada uno de los equipos de la muestra. Una vez que tenemos estas frecuencias podemos empezar a hacer resumenes graficos para variables cualitativas. Por ejemplo, para hacer un diagrama de barras, podemos escribir:
 
-- > barplot(fabs,ylab="Frecuencias absolutas",main="Diagrama de barras de Equipo")
+- > ```barplot(fabs,ylab="Frecuencias absolutas",main="Diagrama de barras de Equipo")```
 
-- Las opciones del gr´afico son m´ultiples y las podemos comprobar utilizando la ayuda:
+- Las opciones del grafico son multiples y las podemos comprobar utilizando la ayuda:
 
-- > help("barplot")
+- > ```help("barplot")```
 
 - Ver que tambien podemos hacer un diagrama de barras de la variable Equipo utilizando las frecuencias relativas: 
 
-- > barplot(frel,ylab="Frecuencias relativas",main="Diagrama de barras de Equipo")
+- > ```barplot(frel,ylab="Frecuencias relativas",main="Diagrama de barras de Equipo")```
 
 
 
@@ -302,9 +317,9 @@ BAR               CEL                DEP               NIN               RMA
 
 - Empezamos con las variables cuantitativas discretas. En primer lugar, obtenemos las frecuencias absolutas y relativas de la variable Hermanos, utilizando la funcion table como sigue:
 
-- > fabs<-table(Hermanos) 
+- > ```fabs<-table(Hermanos) ```
 
-- > fabs 
+- > ```fabs ```
 
 ```
 Hermanos 1    2    3   4   6 
@@ -313,9 +328,9 @@ Hermanos 1    2    3   4   6
 
 - Las frecuencias relativas las podemos obtener simplemente dividiendo la variable fabs por el numero de individuos de la muestra n.ind: 
 
-- > frel<-fabs/n.ind
+- >``` frel<-fabs/n.ind```
 
-- > frel Hermanos 
+- > ```frel Hermanos ```
 ```
 1                    2                    3                   4                    6 
 0.18181818 0.54545455 0.20454545 0.04545455 0.02272727
@@ -323,17 +338,19 @@ Hermanos 1    2    3   4   6
 
 - Ademas ahora podemos obtener las frecuencias absoluta y relativa acumuladas. Para ello, podemos hacer lo siguiente: 
 
-> fabsacum<-as.table(cumsum(fabs)) 
+> ```fabsacum<-as.table(cumsum(fabs)) ```
 
-> fabsacum 
+> ```fabsacum ```
+> 
 ```
 1  2    3  4   6 
 8  32 41 43 44 
 ```
 
-> frelacum<-as.table(cumsum(frel)) 
+> ```frelacum<-as.table(cumsum(frel)) ```
 
-> frelacum 
+>``` frelacum ```
+>
 ```
 1                  2                 3          4             6 
 0.1818182    0.7272727        0.9318182      0.9772727 1.0000000
