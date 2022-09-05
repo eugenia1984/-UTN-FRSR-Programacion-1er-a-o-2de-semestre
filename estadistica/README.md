@@ -9,6 +9,8 @@
 
 - [CheatSheet de R](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/estadistica/teoria/r_cheatsheet.jpg)
 
+- [R con w3schools](https://www.w3schools.com/r/)
+
 ---
 
 # Práctica
