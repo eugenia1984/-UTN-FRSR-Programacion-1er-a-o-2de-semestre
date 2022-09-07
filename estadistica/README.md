@@ -5,7 +5,9 @@
 
 # :star: [Teoría](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica/teoria)
 
-- [Lenguaje R](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/estadistica/teoria/lenguaje_r.md)
+- [Lenguaje R - Teoria del profesor ](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/estadistica/teoria/lenguaje_r.md)
+
+- [Lenguaje R, teoria de un libro](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/estadistica/teoria/lenguaje_r_teoria.md)
 
 - [CheatSheet de R](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/estadistica/teoria/r_cheatsheet.jpg)
 
