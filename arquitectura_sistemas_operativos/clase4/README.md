@@ -1,4 +1,4 @@
-# Clase 3 : 31 / 08  * Sistemas Operativos
+# Clase 4 : 07 / 09  * Sistemas Operativos * Windows
 
 ---
 
