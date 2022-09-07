@@ -2,22 +2,20 @@
 
 ---
 
-## Libro R para principiantes
-
-Se puede ver [en este link](https://bookdown.org/jboscomendoza/r-principiantes4/)
+TEoría del **Libro R para principiantes**. Se puede ver [en este link](https://bookdown.org/jboscomendoza/r-principiantes4/)
 
 ---
 
 ## :star: CONCEPTOS BASICOS
 
 
-## Objetos
+### Objetos
 
 En R, todo es un objeto. Todos los datos y estructuras de datos son objetos. Además, todos los objetos tienen un nombre para identificarlos.
 
 ---
 
-## Constantes y variables
+### Constantes y variables
 
 De manera análoga al uso de estos términos en lenguaje matemático, una constante es un objeto cuyo valor no podemos cambiar, en contraste, una variable es un objeto que puede cambiar de valor.
 
@@ -44,7 +42,7 @@ Finalmente, cuando te encuentres con un renglón de código que inicia con un **
 
 ---
 
-## Funciones (introducción básica)
+### Funciones (introducción básica)
 
 Una función es una serie de operaciones a la que les hemos asignados un nombre. Las funciones aceptan argumentos, es decir, especificaciones sobre cómo deben funcionar.
 
@@ -64,7 +62,7 @@ Al igual que con las variables, se recomienda que los nombres de las funciones s
 
 ---
 
-## Documentación
+### Documentación
 
 Las funciones de R base y aquellas que forman parte de paquete tienen un archivo de documentación.
 
@@ -88,7 +86,7 @@ Por ejemplo, la documentación del paquete stats, instalado por defecto en R bas
 
 ---
 
-## Directorio de trabajo
+### Directorio de trabajo
 
 El directorio o carpeta de trabajo es el lugar en nuestra computadora en el que se encuentran los archivos con los que estamos trabajando en R. Este es el lugar donde R buscara archivos para importarlos y al que serán exportados, a menos que indiquemos otra cosa.
 
@@ -115,7 +113,7 @@ list.dirs()
 
 ---
 
-## Sesión
+### Sesión
 
 Los objetos y funciones de R son almacenados en la memoria RAM de nuestra computadora.
 
@@ -142,7 +140,7 @@ Con que recuerdes que cada sesión de R tiene su propio entorno global, eso ser�
 
 ---
 
-## Paquetes
+### Paquetes
 
 R puede ser expandido con paquetes. Cada paquete es una colección de funciones diseñadas para atender una tarea específica. Por ejemplo, hay paquetes para trabajo visualización geoespacial, análisis psicométricos, mineria de datos, interacción con servicios de internet y muchas otras cosas más.
 
@@ -182,7 +180,7 @@ También podemos ver qué paquetes tenemos ya instalados ejecutando la función 
 
 ---
 
-## cripts
+### cripts
 
 Los scripts son documentos de texto con la extensión de archivo .R, por ejemplo ```mi_script.R```.
 
@@ -206,7 +204,7 @@ En R los datos pueden ser de diferentes tipos. Cada tipo tiene características 
 
 ---
 
-## Datos más comunes
+### Datos más comunes
 
 Los tipos de datos de uso más común en R son los siguientes.
 
@@ -257,7 +255,7 @@ Como los datos de tipo lógico sólo admiten dos valores (TRUE y FALSE), estos s
 
 Los factores son un caso particular para la coerción. Dado que son valores numéricos con etiquetas, pueden ser coercionados a tipo numérico y cadena de texto; y los datos numéricos y cadena de texto pueden ser coercionados a factor. Sin embargo, al coercionar un factor tipo numérico, perdemos sus niveles.
 
-### Coerción explícita con la familia as()
+#### Coerción explícita con la familia as()
 
 También podemos hacer coerciones explícitas usando la familia de funciones as().
 
@@ -355,3 +353,56 @@ as.null("palabra")
 ```
 ---
 
+### Verificar el tipo de un dato
+
+En ocasiones, tenemos datos pero no sabemos de simple vistazo de qué tipo son. Para esto casos, podemos usar la función **class()** para determinar el tipo de un dato. Esto es de utilidad para asegurarnos que las operaciones que deseamos realizar tendrán los datos apropiados para llevarse a cabo con éxito.
+
+**class()** recibe como argumento un dato o vector y devuelve el nombre del tipo al que pertenece, en inglés.
+
+Por ejemplo, verificamos el tipo de datos que son 3, “3” y TRUE.
+```
+class(3)
+## [1] "numeric"
+class("3")
+## [1] "character"
+class(TRUE)
+## [1] "logical"
+```
+
+#### Verificación con la familia de funciones is()
+
+También podemos verificar si un dato es de un tipo específico con la familia de funciones **is()**.
+
+|Función	| Tipo que verifican | 
+| is.integer()	| Entero |
+| is.numeric()	| Numerico |
+| is.character()	| Cadena de texto |
+| is.factor()	| Factor |
+| is.logical()	| Lógico |
+| is.na()	| NA |
+| is.null()	| NULL |
+Estas funciones toman como argumento un dato, si este es del tipo que estamos verificando, nos devolverán TRUE y en caso contrario devolverán FALSE.
+
+Por ejemplo, verificamos que 5 sea numérico.
+
+```
+is.numeric(5)
+## [1] TRUE
+```
+Obtenemos TRUE, pues es verdadero que este es un dato numérico.
+
+Verificamos que 5 sea de tipo cadena de texto.
+
+```
+is.character(5)
+## [1] FALSE
+```
+El resultado es FALSE, por lo tanto este no es un dato de cadena de texto.
+
+Conociendo el tipo de datos con los que estamos trabajando, nos aseguramos de que obtendremos los resultados esperados para las operaciones que estemos realizando.
+
+---
+
+## :star: Operadores
+
+---
