@@ -16,6 +16,6 @@
 
 ---
 
-- [Clase 4 (07/09)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase4)
+- [Clase 4 (07/09)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase4): GitHub
 
 ---
