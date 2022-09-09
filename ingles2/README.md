@@ -38,7 +38,7 @@ Código de acceso: 123321
 
 - [clase 3 - Comparativos y superlativos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/comparativos-superlativos)
 
-- clase 4
+- [clase 4 - Comparativos especiales](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/comparativos-especiales)
 
 ---
 
