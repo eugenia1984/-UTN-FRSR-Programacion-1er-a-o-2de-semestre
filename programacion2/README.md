@@ -4,4 +4,8 @@
 
 ## Clases
 
-- [Clase 1 (26/08) : Ciclos : While - Do While - For - Break - Continue](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase1/CicloWhile)
+- [Clase 1 (26/08)  - Clase 2 (02/09): Ciclos : While - Do While - For - Break - Continue](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase1/CicloWhile)
+
+- Clase 3 (09/09) - Clase Scanner
+
+---
