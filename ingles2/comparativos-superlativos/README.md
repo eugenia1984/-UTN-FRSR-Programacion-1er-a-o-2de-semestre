@@ -51,7 +51,20 @@ aspect of life.
 
 ## ALGUNOS ADJETIVOS SON IRREGULARES
 
-Formación irregular de comparativos y superlativo
+Formación irregular de comparativos y superlativo.
+
+| Adjetivo o Adverbio | Comparativo | Superlativo |
+| ------------------- | ----------- | ----------- |
+| **good** (bueno) | **Better -than-** (mejor - que) | **the best** (el mejor) |
+| **well** (bien) | **better - than** (mejor - que) | **the best** (de la mejor forma) |
+| **bad** (malo) | **worse - than** (peor) | **the worst** (el peor) |
+| **badly** (mal) | **worse - than** (peor) | **the worst** (el peor) |
+| **much** (mucho) | **more - than** (más) | **the most** (la mayor parte) |
+| **many** (muchos) | **more - than** (más) | **the most** (la mayoría)|
+| **little** (poco) |  **less - than** (menos) | **the least** (el menos) |
+| **far** (lejos) | **Farther - than** (más lejos) | **the farthest** (el más lejano) |
+| **far** (lejos) | **Further - than** (más lejos) | **the furthest** (el más lejano)|
+
 
 ---
 
@@ -130,7 +143,7 @@ The first CPUs were designed to do mathematical calculations faster and more rel
 Computer vs. Smartphone
 | A | B | C |
 | - | - | - |
-| Data Entry and user input | A computer uses a keyboard for data entry that most users are familiar with and comfortable using. In addition to a keyboard, the mouse is also available for easy scrolling and right-clicking. | Smartphones most commonly feature an onscreen touch keyboard that is much smaller than a standard computer keyboard and can be difficult for users to type with, especially users with bigger fingers. Some smartphones feature a slide-out keyboard, with actual keys to press. Again, this keyboard is much smaller than a standard computer keyboard and can still be difficult for some users. |
+| Data Entry and user input | A computer uses a keyboard for data entry that most users are familiar with and comfortable using. In addition to a keyboard, the mouse is also available for easy scrolling and right-clicking. | Smartphones most commonly feature an onscreen touch keyboard that is much smaller than a standard computer keyboard and can be difficult for users to type with, especially users with bigger fingers. **Some smartphones feature a slide-out keyboard, with actual keys to press. Again, this keyboard is much smaller than a standard computer keyboard and can still be difficult for some users.** |
 
 ➢ Fuentes consultadas:
 
