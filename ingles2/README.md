@@ -40,6 +40,18 @@ Código de acceso: 123321
 
 - [clase 4 - Comparativos especiales](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/comparativos-especiales)
 
+- Clase 5 To + infinitivo
+
+- Clase 6 Revisión Tiempos verbales
+
+- Clase 7 GRupo nominal complejo
+
+- Clase 8 Voz pasiva
+
+- Clase 9 Vos pasiva especial
+
+- Clase 10 Oraciones condicionales
+
 ---
 
 
