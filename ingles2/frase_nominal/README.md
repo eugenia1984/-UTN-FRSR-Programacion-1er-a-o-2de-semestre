@@ -29,13 +29,14 @@ key benefits  ->
 programming languages ->
 
 
-2. El genitivo
+2. **El genitivo**
 
 the world's most popular decentralized version  ->
 
 GitHub's @mention feature  ->
 
-3. Determinantes
+
+3. **Determinantes**
 
 - Artículos indefinidos A/AN
 
