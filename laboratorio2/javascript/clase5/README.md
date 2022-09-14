@@ -8,4 +8,24 @@ Temas
 
 - instalación de Node.js
 
+- extensiones para VSC
+
+---
+
+## Extensiones de VSC para JavaScript
+
+Las recomendadas son:
+
+- Quokka.js
+
+- Braket Pair Colorizer 2
+
+- ESLint
+
+- Debugger for Chrome
+
+- Intelli Code
+
+- Live Server
+
 ---
