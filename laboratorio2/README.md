@@ -2,6 +2,8 @@
 
 ---
 
+# <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> PYTHON
+
 - Para ver sobre Python:
 
 [https://ellibrodepython.com/](https://ellibrodepython.com/)
@@ -12,7 +14,7 @@
 
 ## Clases
 
-### Colecciones
+### Colecciones y Funciones 
 
 - [Clase 1 - **COLECCIONES**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3) :  [teoria de la clase con **LISTAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/listas.py),  [ejercicio 1](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/ejercicio1.py),  [ejercicio 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/ejercicio2.py),  [ejercicio 3](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/ejercicio3.py),  [teoria de la clase con **TUPLAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/tuplas.py), [ejercicio 4](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/ejercicio4.py)
 
