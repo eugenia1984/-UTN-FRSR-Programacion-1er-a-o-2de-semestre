@@ -24,7 +24,7 @@
 
 - [Clase 4](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5): [**Colecciones - Ejercicios 1, 2 y 3**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/colecciones) y [**Lista - Ejercicios 1, 2 y 3**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/lista)
 
-- [Clase 5](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5): [**Ejercicios 4 y 5**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/)
+- [Clase 5](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5): [**Ejercicios 4, 5, 6, 7, 8 y 9**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/) y [**Funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/funciones)
 
 - [Toda la teoria de Colecciones](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/README.md)
 
