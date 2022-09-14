@@ -34,7 +34,9 @@
 ---
 ---
 
-## <img src="https://img.icons8.com/color/240/000000/javascript--v1.png"/> JAVASCRIPT
+## <img src="https://img.icons8.com/color/36/000000/javascript--v1.png"/> JAVASCRIPT
+
+---
 
 ## Clases
 
