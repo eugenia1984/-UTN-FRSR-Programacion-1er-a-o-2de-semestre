@@ -19,7 +19,11 @@ Un infinitivo es un verbo precedido de la preposicion TO. Ejemplos: to go, to ea
 | To indicate the purpose of an action | He bought some flowers TO GIVE to his wife. / I will lock the door TO PREVENT theft. |
 | As subject of the sentence | TO WAIT seemed foolish when decisive action was required. / TO SWIM in that sea may be dangerous. |
 | As direct object of the sentence | I like TO WRITE in English. / Everyone wanted TO GO |
-| As subject complement | |
+| As subject complement | His ambition is TO FLY. / What is essential is TO MANTAIN a healthy diet.|
+| As an adjective | This is the best time TO PRACTICE. / I have some jeans TO WASH |
+| As an adverb | We must carefully observe TO UNDERSTAND. / I can´t wait TO SEE. |
+| After a noun or proun object referring to a person | Can I ask you TO HELP me with something? / I invite a friend TO ATTEND the ceremony. |
+| Used with question word | Do you understand what TO DO ? / Tell me when TO PRESS the botton. |
 
 ---
 
