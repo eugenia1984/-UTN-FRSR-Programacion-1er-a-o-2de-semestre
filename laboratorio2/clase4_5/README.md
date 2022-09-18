@@ -24,7 +24,7 @@ Escriba un programa que tenga 2 listas y que a continuacion cree las sigueintes 
 
 4. lista de palabras que aparecen en ambas listas
 
--> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio2.py
+-> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio2.py)
 
 ---
 
