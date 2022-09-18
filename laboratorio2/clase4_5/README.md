@@ -100,6 +100,19 @@ print(f"Mi lista de personajes: {personajes}")
 -> Lo podes ver en [**ejercicio3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio3.py)
 
 ---
+# Ejercicio con la clase math
+
+## math 1
+
+Sacar la raíz cuadrada de un número positi
+
+```Python
+
+```
+
+-> -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/math1.py)
+
+---
 
 # LISTA
 
