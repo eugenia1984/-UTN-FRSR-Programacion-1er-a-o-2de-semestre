@@ -49,6 +49,8 @@ Clase ; Arquero
 
 Raza : Elfo Sindar
 
+-> Lo podes ver en [**ejercicio3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio3.py)
+
 ---
 
 # LISTA
