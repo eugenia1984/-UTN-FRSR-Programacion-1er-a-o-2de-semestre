@@ -104,10 +104,18 @@ print(f"Mi lista de personajes: {personajes}")
 
 ## math 1
 
-Sacar la raíz cuadrada de un número positi
+Sacar la raíz cuadrada de un número positivo
 
 ```Python
+import math # importo la clase math para utilizar sus metodos
 
+numero = int(input("Ingrese un numero positivo: "))
+
+while numero < 0:
+  print("Error -> Debería ser un númeor positivo")
+  numero = int(input("Ingrese un numero positivo: "))
+
+print(f"Su raiz cuadrada es: {math.sqrt(numero):.2f}")
 ```
 
 -> -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/math1.py)
