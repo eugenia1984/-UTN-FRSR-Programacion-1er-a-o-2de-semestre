@@ -189,6 +189,22 @@ Pedir numeros y meterlos en una lista, cuando el usuario introduzca un numero 0,
 
 Por último, mostrar los números ordenados de menor a mayor.
 
+```Python
+lista= []
+salir = False
+
+while not salir: # mientras salir sea verdadero
+  numero = int(input("Ingrese un numero : "))
+  if numero == 0:
+    salir = True
+  else:
+    lista.append(numero)
+    
+# con sort ordenamos
+lista.sort()
+print(f"Mi lista ordenada: {lista}")
+```
+
  -> Lo podes ver en [**lista/ejerico3.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio3.py)
  
 ---
