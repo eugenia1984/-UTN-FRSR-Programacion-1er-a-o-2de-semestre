@@ -14,7 +14,7 @@ Escriba un programa donde tenga una lista y que a continuación elimine los elem
 
 ## Ejercicio 2
 
-Escriba un programa que tenga 2 listas y que a continuacion cree las sigueintes listas (en las que no deben haber repeticion)
+Escriba un programa que tenga 2 listas y que a continuacion cree las siguientes listas (en las que no deben haber repeticion)
 
 1. lista de palabras que aparecen en las listas
 
