@@ -118,7 +118,7 @@ while numero < 0:
 print(f"Su raiz cuadrada es: {math.sqrt(numero):.2f}")
 ```
 
--> -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/math1.py)
+ -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/math1.py)
 
 ---
 
@@ -126,11 +126,33 @@ print(f"Su raiz cuadrada es: {math.sqrt(numero):.2f}")
 
 # Ejercicio 1 : Llenar una lista
 
-Llenar una lista con los numeros del 1 al 50. Luego mostrar la lista con el bucle for.  Los elementos deben mostrarse de la sigueinte forma:
+Llenar una lista con los numeros del 1 al 50. 
+
+Luego mostrar la lista con el bucle for.  
+
+Los elementos deben mostrarse de la siguiente forma:
 
 1 - 2 - 3 - 4 - 5 - .. - 50
 
+```Python
+lista = []
+iterador = 1
 
+while iterador <= 50:
+  lista.append()
+  iterador += 1
+  
+for elemento in lista:
+  print(elemento, end="-")
+  
+# Otro modo de hacer la primer parte
+lista = list(range(1, 51))
+# Ahora imprimo lista
+print(lista)
+```
+
+ -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio1.py)
+ 
 ---
 
 ## Ejercicio 2
