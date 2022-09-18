@@ -234,6 +234,8 @@ for i in range(comienzoDeSuma, finDeLaSuma+1):
 print(f"La suma de los numeros pares es: {suma}")
 ```
 
+-> Lo podes ver en [**ejercicio4.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio4.py)
+
 ---
 
 ## Ejercicio 5
@@ -253,6 +255,7 @@ for i in range(1, numero+1):
   factorial *= i
 print(f"El factorial de {numero} es: {factorial}")
 ```
+-> Lo podes ver en [**ejercicio5.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio5.py)
 
 ---
 
@@ -303,6 +306,8 @@ for indice, i in enumerate(lista):
   print(f"{numero} x {i} = {lista[indice]}")
 ```
 
+-> Lo podes ver en [**ejercicio6.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio6.py)
+
 ---
 
 ## Ejercicio 7:
@@ -331,6 +336,8 @@ while True:
 
 print(f"\nNúmero de intentos: {contador}")
 ```
+
+-> Lo podes ver en [**ejercicio7.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio7.py)
 
 ---
 
@@ -378,6 +385,8 @@ while True:
     print()
 ```
 
+-> Lo podes ver en [**ejercicio8.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio8.py)
+
 ---
 
 ## Ejercicio 9 : Mostrar una frase sin espacios y contrar su longitus
@@ -406,5 +415,7 @@ frase1 = frase2
 print(f"\nFrase final: {frase1}")
 print(f"Nº de caracteres: {len(frase1)}")
 ```
+
+-> Lo podes ver en [**ejercicio9.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio9.py)
 
 ---
