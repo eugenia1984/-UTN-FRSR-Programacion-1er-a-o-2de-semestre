@@ -80,7 +80,6 @@ Clase ; Arquero
 Raza : Elfo Sindar
 
 ```Python
-
 personajes = [] # creamos una lista vacia
 # creamos el diccionario de Aragon
 personaje1 = {"Nombre": "Aragon", "Clase": "Guerrero", "Raza": "Dunadan del norte"}
@@ -100,6 +99,7 @@ print(f"Mi lista de personajes: {personajes}")
 -> Lo podes ver en [**ejercicio3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio3.py)
 
 ---
+
 # Ejercicio con la clase math
 
 ## math 1
@@ -151,7 +151,7 @@ lista = list(range(1, 51))
 print(lista)
 ```
 
- -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio1.py)
+ -> Lo podes ver en [**lista/ejericico1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio1.py)
  
 ---
 
@@ -159,6 +159,8 @@ print(lista)
 
 Llenar una lista con los numeros del 1 al 10, luego modificar los elementos de la lista multiplicandolos por un valor ingresado por el usuario
 
+ -> Lo podes ver en [**lista/ejerico2.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio2.py)
+ 
 ---
 
 ## Ejercicio 3
@@ -167,6 +169,8 @@ Pedir numeros y meterlos en una lista, cuando el usuario introduzca un numero 0,
 
 Por último, mostrar los números ordenados de menor a mayor.
 
+ -> Lo podes ver en [**lista/ejerico3.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio3.py)
+ 
 ---
 ---
 
