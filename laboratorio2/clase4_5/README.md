@@ -36,6 +36,24 @@ Escriba un programa que tenga 2 listas y que a continuacion cree las siguientes 
 
 4. lista de palabras que aparecen en ambas listas
 
+```Python
+
+lista1 = [ 1, 2, 3, 4, 5, 4, 3, 2, 2, 1, 5]
+lista2 = [ 4, 5, 6, 7, 8, 4, 5, 6, 7, 7, 8]
+# Eliminar los elementos repetidos de ambas listas pasandolos a conjuntos(set)
+conjunto1 = set(lista1)
+conjunto2 = set(lista2)
+
+union = list(conjunto1 | conjunto2 ) # unimos los dos conjuntos
+solo1 = list(conjunto1 - conjunto2) # solo muestra el conjunto 1
+solo2 = list(conjunto2 - conjunto1) # solo muestra el conjunto 2
+interseccion = list(conjunto1 & conjunto2)
+print(f"Lista de palabras que aparecen en las listas: {union}")
+print(f"Lista de palabras que aparecen en la primera lista, pero no en la segunda: {solo1}")
+print(f"Lista de palabras que aparecen en al segunda, pero no en la primera: {solo2}")
+print(f"Lista de palabras que aparecen en ambas listas: {interseccion}")
+```
+
 -> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio2.py)
 
 ---
