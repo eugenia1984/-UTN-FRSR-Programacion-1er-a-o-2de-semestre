@@ -8,7 +8,7 @@
 
 Escriba un programa donde tenga una lista y que a continuación elimine los elemento repetidos, por ultimo mostrar los elementos de la lista.
 
--> Lo podes ver en **ejercicio1.py**
+-> Lo podes ver en [**ejercicio1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio1.py)
 
 ---
 
@@ -23,6 +23,8 @@ Escriba un programa que tenga 2 listas y que a continuacion cree las sigueintes 
 3. lista de palabras que aparecen en al segunda, pero no en la primera
 
 4. lista de palabras que aparecen en ambas listas
+
+-> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio2.py
 
 ---
 
