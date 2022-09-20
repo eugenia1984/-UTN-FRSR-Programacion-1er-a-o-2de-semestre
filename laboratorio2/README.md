@@ -40,6 +40,7 @@
 
 ## Clases
 
-- [Clase 5](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase5)
+- [Clase 5 y 6](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase5)
+
 ---
 
