@@ -6,13 +6,27 @@
 
 ## Ejercicio 1: Eliminar duplicados de una lista
 
-Escriba un programa donde tenga una lista y que a continuación elimine los elemento repetidos, por ultimo mostrar los elementos de la lista
+Escriba un programa donde tenga una lista y que a continuación elimine los elemento repetidos, por ultimo mostrar los elementos de la lista.
+
+```Python
+lista =  [ 1, 2, 1, 3, "Eugenia", 7, 7, 3, "Analia", 5, "Eugenia"]; # Creamos una lista
+conjunto = set(lista) #  convierto de lista a set (porque los set no tienen elementos repetidos)
+print(f"Mi conjunto: {conjunto}") #  Se ve por consola: {1, 2, 3, 5, 7, 'Analia', 'Eugenia'}
+lista1 = list(conjunto) # lo volvo a pasar a lista
+print(f"Mi lista sin repetir: {lista1}") # Imprimo la lista
+# Se ve por consola: Mi lista sin repetir: [1, 2, 3, 5, 7, 'Eugenia', 'Analia']
+# Haciendo lo mismo pero todo junto en un solo renglon
+lista2 = list(set(lista))
+print(f"Mi lista pasada a set y a lista, todo junto: {lista2}")
+```
+
+-> Lo podes ver en [**ejercicio1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio1.py)
 
 ---
 
 ## Ejercicio 2
 
-Escriba un programa que tenga 2 listas y que a continuacion cree las sigueintes listas (en las que no deben haber repeticion)
+Escriba un programa que tenga 2 listas y que a continuacion cree las siguientes listas (en las que no deben haber repeticion)
 
 1. lista de palabras que aparecen en las listas
 
@@ -21,6 +35,26 @@ Escriba un programa que tenga 2 listas y que a continuacion cree las sigueintes 
 3. lista de palabras que aparecen en al segunda, pero no en la primera
 
 4. lista de palabras que aparecen en ambas listas
+
+```Python
+
+lista1 = [ 1, 2, 3, 4, 5, 4, 3, 2, 2, 1, 5]
+lista2 = [ 4, 5, 6, 7, 8, 4, 5, 6, 7, 7, 8]
+# Eliminar los elementos repetidos de ambas listas pasandolos a conjuntos(set)
+conjunto1 = set(lista1)
+conjunto2 = set(lista2)
+
+union = list(conjunto1 | conjunto2 ) # unimos los dos conjuntos
+solo1 = list(conjunto1 - conjunto2) # solo muestra el conjunto 1
+solo2 = list(conjunto2 - conjunto1) # solo muestra el conjunto 2
+interseccion = list(conjunto1 & conjunto2)
+print(f"Lista de palabras que aparecen en las listas: {union}")
+print(f"Lista de palabras que aparecen en la primera lista, pero no en la segunda: {solo1}")
+print(f"Lista de palabras que aparecen en al segunda, pero no en la primera: {solo2}")
+print(f"Lista de palabras que aparecen en ambas listas: {interseccion}")
+```
+
+-> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio2.py)
 
 ---
 
@@ -45,23 +79,108 @@ Clase ; Arquero
 
 Raza : Elfo Sindar
 
+```Python
+personajes = [] # creamos una lista vacia
+# creamos el diccionario de Aragon
+personaje1 = {"Nombre": "Aragon", "Clase": "Guerrero", "Raza": "Dunadan del norte"}
+# Y lo agregamos a la lista
+personajes.append(personaje1)
+# creamos el diccionario de Gandal
+personaje2 = {"Nombre": "Gandalf", "Clase": "Mago", "Raza": "Istar"}
+# Y lo agregamos a la lista
+personajes.append(personaje2)
+# creamos el diccionario de Legolas
+personaje3 = {"Nombre": "Legolas", "Clase": "Arquero", "Raza": "Elfo Sindar"}
+# Y lo agregamos a la lista
+personajes.append(personaje3)
+print(f"Mi lista de personajes: {personajes}")
+```
+
+-> Lo podes ver en [**ejercicio3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio3.py)
+
+---
+
+# Ejercicio con la clase math
+
+## math 1
+
+Sacar la raíz cuadrada de un número positivo
+
+```Python
+import math # importo la clase math para utilizar sus metodos
+
+numero = int(input("Ingrese un numero positivo: "))
+
+while numero < 0:
+  print("Error -> Debería ser un númeor positivo")
+  numero = int(input("Ingrese un numero positivo: "))
+
+print(f"Su raiz cuadrada es: {math.sqrt(numero):.2f}")
+```
+
+ -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/math1.py)
+
 ---
 
 # LISTA
 
 # Ejercicio 1 : Llenar una lista
 
-Llenar una lista con los numeros del 1 al 50. Luego mostrar la lista con el bucle for.  Los elementos deben mostrarse de la sigueinte forma:
+Llenar una lista con los numeros del 1 al 50. 
+
+Luego mostrar la lista con el bucle for.  
+
+Los elementos deben mostrarse de la siguiente forma:
 
 1 - 2 - 3 - 4 - 5 - .. - 50
 
+```Python
+lista = []
+iterador = 1
 
+while iterador <= 50:
+  lista.append()
+  iterador += 1
+  
+for elemento in lista:
+  print(elemento, end="-")
+  
+# Otro modo de hacer la primer parte
+lista = list(range(1, 51))
+# Ahora imprimo lista
+print(lista)
+```
+
+ -> Lo podes ver en [**lista/ejericico1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio1.py)
+ 
 ---
 
 ## Ejercicio 2
 
 Llenar una lista con los numeros del 1 al 10, luego modificar los elementos de la lista multiplicandolos por un valor ingresado por el usuario
 
+```Python
+lista  = list(range(1,11)) #con la funcion range arma la lista dle 1 al 10
+print("Lista original:")
+for i in lista:
+  print(i, end="-")
+  
+valor = int(input("Ingrese un valor a multiplicar: "))
+
+# multiplicamos toods los elementos de la lista
+# el iterador solo recorre los elementos
+# necesitamos trabajar con los indices, por eso agregamos enumerate
+for indice, i in enumerate(lista):
+  lista[indice] *= valor
+  
+print(f"Lista final con los elementos multiplicados por: {valor}")
+
+for i in lista:
+  print(i, end="-")
+```
+
+ -> Lo podes ver en [**lista/ejerico2.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio2.py)
+ 
 ---
 
 ## Ejercicio 3
@@ -70,6 +189,24 @@ Pedir numeros y meterlos en una lista, cuando el usuario introduzca un numero 0,
 
 Por último, mostrar los números ordenados de menor a mayor.
 
+```Python
+lista= []
+salir = False
+
+while not salir: # mientras salir sea verdadero
+  numero = int(input("Ingrese un numero : "))
+  if numero == 0:
+    salir = True
+  else:
+    lista.append(numero)
+    
+# con sort ordenamos
+lista.sort()
+print(f"Mi lista ordenada: {lista}")
+```
+
+ -> Lo podes ver en [**lista/ejerico3.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio3.py)
+ 
 ---
 ---
 
@@ -97,6 +234,8 @@ for i in range(comienzoDeSuma, finDeLaSuma+1):
 print(f"La suma de los numeros pares es: {suma}")
 ```
 
+-> Lo podes ver en [**ejercicio4.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio4.py)
+
 ---
 
 ## Ejercicio 5
@@ -116,6 +255,7 @@ for i in range(1, numero+1):
   factorial *= i
 print(f"El factorial de {numero} es: {factorial}")
 ```
+-> Lo podes ver en [**ejercicio5.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio5.py)
 
 ---
 
@@ -166,6 +306,8 @@ for indice, i in enumerate(lista):
   print(f"{numero} x {i} = {lista[indice]}")
 ```
 
+-> Lo podes ver en [**ejercicio6.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio6.py)
+
 ---
 
 ## Ejercicio 7:
@@ -194,6 +336,8 @@ while True:
 
 print(f"\nNúmero de intentos: {contador}")
 ```
+
+-> Lo podes ver en [**ejercicio7.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio7.py)
 
 ---
 
@@ -241,6 +385,8 @@ while True:
     print()
 ```
 
+-> Lo podes ver en [**ejercicio8.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio8.py)
+
 ---
 
 ## Ejercicio 9 : Mostrar una frase sin espacios y contrar su longitus
@@ -269,5 +415,7 @@ frase1 = frase2
 print(f"\nFrase final: {frase1}")
 print(f"Nº de caracteres: {len(frase1)}")
 ```
+
+-> Lo podes ver en [**ejercicio9.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio9.py)
 
 ---

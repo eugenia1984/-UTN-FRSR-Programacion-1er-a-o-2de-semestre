@@ -1,4 +1,4 @@
-# Clase 5 * JavaScript (13/09)
+# :star: Clase 5 * JavaScript (13/09)
 
 ---
 
@@ -27,5 +27,11 @@ Las recomendadas son:
 - Intelli Code
 
 - Live Server
+
+---
+
+
+# :star: Clase 6 * JavaScript (20/09)
+
 
 ---
