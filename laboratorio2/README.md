@@ -24,9 +24,9 @@
 
 - [Clase 3 - **COLECCIONES**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3), seguimos con listas y vemos [**PILAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/pilas.py) y [**COLAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/colas.py)
 
-- [Clase 4](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5): [**Colecciones - Ejercicios 1, 2 y 3**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/colecciones) y [**Lista - Ejercicios 1, 2 y 3**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/lista)
+- [Clase 4](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6): [**COLECCIONES - Ejercicios 1, 2 y 3**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6/colecciones) y [**LISTA - Ejercicios 1, 2 y 3**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6/lista)
 
-- [Clase 5 y 6](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5): [**Ejercicios 4, 5, 6, 7, 8 y 9**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/) y [**Funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5/funciones)
+- [Clase 5 y 6](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6): [**Ejercicios 4, 5, 6, 7, 8 , 9 , 10 y 11**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6/) , [**FUNCIONES**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6/funciones) , **Desempaquetado**, **Repaso de FOR - ELSE**
 
 - [Toda la teoria de Colecciones](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/README.md)
 
@@ -40,7 +40,7 @@
 
 ## Clases
 
-- [Clase 5 y 6](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase5)
+- [Clase 5 y 6](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase5_6)
 
 ---
 

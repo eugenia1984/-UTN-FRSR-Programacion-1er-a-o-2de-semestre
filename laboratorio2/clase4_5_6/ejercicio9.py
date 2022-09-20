@@ -6,7 +6,7 @@
 # frase = vivir por siempre en paz
 # frase final = vivirporsiemprenepaz
 # Nº de caracters = 20
-frase1 = input("ingrese un numero: ")
+frase1 = input("ingrese una frase: ")
 frase2 = " "
 
 for i in frase1:

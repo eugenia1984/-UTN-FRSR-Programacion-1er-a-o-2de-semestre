@@ -13,4 +13,4 @@ print(f"\n Tabla de multiplicar del {numero}: \n {lista}")
 
 # Para mostrarlo como una tabla
 for indice, i in enumerate(lista):
-  print(f"{numero} x {i} = {lista[indice]}")
+  print(f"{numero} x {indice+1} = {lista[indice]}")

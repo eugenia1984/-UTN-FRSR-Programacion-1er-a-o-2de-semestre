@@ -20,7 +20,7 @@ lista2 = list(set(lista))
 print(f"Mi lista pasada a set y a lista, todo junto: {lista2}")
 ```
 
--> Lo podes ver en [**ejercicio1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio1.py)
+-> Lo podes ver en [**ejercicio1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio1.py)
 
 ---
 
@@ -54,7 +54,7 @@ print(f"Lista de palabras que aparecen en al segunda, pero no en la primera: {so
 print(f"Lista de palabras que aparecen en ambas listas: {interseccion}")
 ```
 
--> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio2.py)
+-> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio2.py)
 
 ---
 
@@ -96,7 +96,7 @@ personajes.append(personaje3)
 print(f"Mi lista de personajes: {personajes}")
 ```
 
--> Lo podes ver en [**ejercicio3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio3.py)
+-> Lo podes ver en [**ejercicio3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio3.py)
 
 ---
 
@@ -118,7 +118,7 @@ while numero < 0:
 print(f"Su raiz cuadrada es: {math.sqrt(numero):.2f}")
 ```
 
- -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/math1.py)
+ -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/math1.py)
 
 ---
 
@@ -151,7 +151,7 @@ lista = list(range(1, 51))
 print(lista)
 ```
 
- -> Lo podes ver en [**lista/ejericico1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio1.py)
+ -> Lo podes ver en [**lista/ejericico1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/lista/ejericio1.py)
  
 ---
 
@@ -179,7 +179,7 @@ for i in lista:
   print(i, end="-")
 ```
 
- -> Lo podes ver en [**lista/ejerico2.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio2.py)
+ -> Lo podes ver en [**lista/ejerico2.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/lista/ejericio2.py)
  
 ---
 
@@ -205,7 +205,7 @@ lista.sort()
 print(f"Mi lista ordenada: {lista}")
 ```
 
- -> Lo podes ver en [**lista/ejerico3.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/lista/ejericio3.py)
+ -> Lo podes ver en [**lista/ejerico3.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/lista/ejericio3.py)
  
 ---
 ---
@@ -234,7 +234,7 @@ for i in range(comienzoDeSuma, finDeLaSuma+1):
 print(f"La suma de los numeros pares es: {suma}")
 ```
 
--> Lo podes ver en [**ejercicio4.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio4.py)
+-> Lo podes ver en [**ejercicio4.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio4.py)
 
 ---
 
@@ -255,7 +255,7 @@ for i in range(1, numero+1):
   factorial *= i
 print(f"El factorial de {numero} es: {factorial}")
 ```
--> Lo podes ver en [**ejercicio5.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio5.py)
+-> Lo podes ver en [**ejercicio5.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio5.py)
 
 ---
 
@@ -303,10 +303,10 @@ print(f"\n Tabla de multiplicar del {numero}: \n {lista}")
 
 # Para mostrarlo como una tabla
 for indice, i in enumerate(lista):
-  print(f"{numero} x {i} = {lista[indice]}")
+  print(f"{numero} x {indice+1} = {lista[indice]}")
 ```
 
--> Lo podes ver en [**ejercicio6.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio6.py)
+-> Lo podes ver en [**ejercicio6.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio6.py)
 
 ---
 
@@ -337,7 +337,7 @@ while True:
 print(f"\nNúmero de intentos: {contador}")
 ```
 
--> Lo podes ver en [**ejercicio7.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio7.py)
+-> Lo podes ver en [**ejercicio7.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio7.py)
 
 ---
 
@@ -385,7 +385,7 @@ while True:
     print()
 ```
 
--> Lo podes ver en [**ejercicio8.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio8.py)
+-> Lo podes ver en [**ejercicio8.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio8.py)
 
 ---
 
@@ -416,6 +416,132 @@ print(f"\nFrase final: {frase1}")
 print(f"Nº de caracteres: {len(frase1)}")
 ```
 
--> Lo podes ver en [**ejercicio9.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5/ejercicio9.py)
+-> Lo podes ver en [**ejercicio9.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio9.py)
 
 ---
+
+## Ejercicio 10
+
+Hacer un programa que pida una cadena por teclado, luego meter los caracteres en una lista sin repetir caracteres.
+
+```Python
+cadenaIngresada = input("Ingrese una frase: ")
+lista = [] # creo una lista
+
+for i in cadenaIngresada: # recorro la cadena ingresada y la asigno a la lista
+  if (i not in cadenaIngresada): # si el caracter aun no esta en la lista
+    lista.append(i) # lo agrego
+
+conjunto = set(lista) # lo paso a set para no tneer duplicados
+
+print(conjunto)
+```
+
+-> Lo podes ver en [**ejercicio10.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio10.py)
+
+---
+
+## Ejercicio 11 : Agenda telefonica
+
+Hacer un programa que simule una agenda de contactos.
+
+Crear un diciconario donde la clave sea el nombre del usuario y el valor sea el telefono, el programa tendrá el siguiente menú de opciones:
+
+1. Nuevo contacto
+
+2. Borrar contacto
+
+3. Ver contactos existentes
+
+4. Salir
+
+```Python
+agenda = {
+  "Eugenia": 1111111111,
+  "Sonia": 2222222222,
+  "Matias": 3333333333,
+  "Rodrigo": 4444444444,
+  "Pablo": 5555555555
+}
+
+while True:
+  print(".: MENU :.")
+  print("1. Nuevo contacto")
+  print("2. Borrar contacto")
+  print("3. Ver contactos existentes")
+  print("4. Salir")
+  opcion = int(input("Ingrese una opcion de menu: "))
+  if opcion == 1:
+    nombre = input("Digite el nombre del contacto: ")
+    telefono = input("Ingrese el telefono: ")
+    if nombre not in agenda:
+      print("contacto ingresado")
+    else:
+      print("Este nombre de contacto ya existe")
+  elif opcion == 2:
+    nombre = input("Cual es el nombre del contacto: ")
+    if nombre in agenda:
+      del(agenda[nombre])
+      print("Se ha eliminado el contacto requerido")
+    else:
+      print("este contacto no existe en la agenda") 
+  elif opcion == 3:
+    print("AGENDA DE CONTACTOS")
+    for clave, valor in agenda.items():
+      print(f"Nombre: {clave}, Telefono: {valor}")
+  elif opcion == 4:    
+    print("GRACIAS POR UTULIZAR SU AGENDA DE CONTACTOS")
+    break # para romper el ciclo y salir
+  else:
+    print("Opcion incorrecta")
+```
+
+-> Lo podes ver en [**ejercicio11.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio11.py)
+
+---
+
+## Desempaquetado de listas
+
+```Python
+def show(name, lastName):
+  print(name + " " + lastName)
+
+person = ["Maria Eugenia", "Costa"]
+show(person[0], person[1]) # pasamos uno por uno los datos de la lista a la función
+
+#otro modo de hacerlo
+show(*person) # esto es lo mismo que lo anterior pero lo pasamos todo junto
+
+person2 = ("Maria Eugenia", "Costa") # desempaquetamos a través de tupla
+show(*person2)
+
+persona3 = {"lastName": "Costa", "name": "Maria Eugenia"}
+```
+
+
+-> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/funciones)
+
+---
+
+## Repaso del ciclo FOR ELSE
+
+```Python
+numbers = [1, 2, 3, 4, 5]
+for n in numbers:
+  print(n)
+else:
+  print("Esto se termina")
+```
+
+-> Siempre al final se va a ver el *Esto se termina*, s emuestr ael else.
+
+
+```Python
+numbers = [1, 2, 3, 4, 5]
+for n in numbers:
+  print(n)
+  if n == 3:
+    break # Esta es la unica manera para que no se ejecute el else
+else:
+  print("Esto se termina")
+```
