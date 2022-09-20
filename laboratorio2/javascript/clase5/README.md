@@ -23,7 +23,7 @@ Las recomendadas son:
 - ESLint
 
 - Debugger for Chrome
-
+ 
 - Intelli Code
 
 - Live Server
