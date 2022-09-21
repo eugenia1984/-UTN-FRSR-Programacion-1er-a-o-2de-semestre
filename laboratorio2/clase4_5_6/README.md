@@ -545,3 +545,107 @@ for n in numbers:
 else:
   print("Esto se termina")
 ```
+
+---
+
+## Lista de comprension
+
+Tomar solo lo necesario de la lista, sin modificarla.
+
+```Python
+names= ["Paolo", "Rodrigo", "Lupe", "Pepe"]
+alongP = [p for p in names if p[0] == "p"] # recorro todos los nombres de la lista
+print(alongP)
+
+# con un diccionario
+bottleC = [{"name": "Quilmes", "country": "Arg"},
+            {"name": "Corona", "country": "Mx"}
+          ]
+Arg = [b for b in bottleC if b["country"] == "Arg"] # recorro todos los nombres de la lista
+print(Arg)
+print(bottleC)
+```
+
+---
+
+## Funciones * Paso de argumentos
+
+```Python
+def mi_funcion2(name, lastName): # le paso parametros
+  print(f"Hola {name} {lastName}")
+
+mi_funcion2("Euge", "Costa") # invoco la funcion con los argumentos
+```
+
+**parametro** -> trabaja con una variable dentro de la función.
+
+**argumento** -> el valor que le paso a la fumción, es el valor que recibe el parametro.
+
+Puedo llamar varias veces a la misma función, con diferentes argumentos.
+
+-> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/funciones)
+
+---
+
+## Funciones con return
+
+```Python
+def sumar(a, b):
+  return a+b
+
+resultado = sumar(2,3)
+print(f"El resultado de la suma de 2 + 3 es: {resultado}")
+```
+
+-> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/funciones)
+
+---
+
+## Valores por default en funciones
+
+```Python
+def sumar2(a=0, b=0):
+  return a+b
+
+resultado = sumar2()
+print(f"Resultado de la suma: {resultado}") # da 0
+
+resultado = sumar2(print(f"Resultado de la suma: {sumar2(1,1)}")) # da 2
+```
+
+---
+
+## Argumentos, variables en funciones
+
+```Python
+def listarNombres(*nombres):
+  for nombre in nombres:
+    print(nombre)
+
+listarNombres(["Maria", "Analia", "Carlos"])    
+```
+
+---
+
+## Tarea
+
+Crear una funcion para sumar los valores recibidos de tipo numericos, utilizando argumentos variables *args como parametro de la funcion y agregar como resultado la suma de todos los valores pasados como argumentos
+
+```Python
+# Defino la funcion
+def sumar_valor(*args): #recibimos una cantidad de parametros indefinidos
+  resultado = 0
+  for valor in args: # iteramos los elementos
+    rasultado += valor
+  return resultado
+
+print(sumar_valor(3, 5, 9)) # Invocamos a la funcion
+```
+
+---
+
+## Trabajo practico integrador: 
+
+Elegir del grupo a un integrante para que yo, como profesor, lo ingrese al repositorio en Git Hub, deben pasarme el correo y nombre de usuario, luego de recibir al invitación por correo, deben ingresar a Git Hub y clonar la carpeta de TecnicaturaGit, luego este integrante debe habilitar a los demás integrantes del grupo para que puedan clonar también. De esta manera van a poder tener acceso a todo lo que  he ingresado en esta carpeta, desde python, java, javascript y node.js
+
+---
