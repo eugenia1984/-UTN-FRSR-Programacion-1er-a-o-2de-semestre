@@ -45,7 +45,7 @@
 ## Clases
 
 
-- [Clase 5 y 6](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase5_6)
+- [Clase 1 y 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2): Caracteristicas de Java Script, variables, console.log
 
 
 ---
