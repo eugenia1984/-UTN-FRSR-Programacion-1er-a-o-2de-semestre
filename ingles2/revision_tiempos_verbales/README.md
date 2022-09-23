@@ -38,7 +38,7 @@ A modo de resumen, observa los ejemplos en el cuadro que sigue:
 
 | Tiempo |  Simple |  Continuo |  Perfecto |
 | ------ | ------- | --------- | --------- |
-| PRESENTE | Auxiliar: **do / does** We develop a new system. | Auxiliar: **am, are, is** They were developing a new system. | Auxiliar: **have, has** Lu hasn’t (has not) developed a new system. |
+| PRESENTE | Auxiliar: **do / does** We develop a new system. | Auxiliar: **am, are, is** They are developing a new system. | Auxiliar: **have, has** Lu hasn’t (has not) developed a new system. |
 | PASADO | Auxiliar: **did** Mark developed a new system. |  Auxiliar: **was, were** Were they developing a new system? | Auxiliar: **had** Paul hadn’t (had not) developed a new system. |
 | FUTURO | Auxiliar: **will**  They will develop a new system. | Auxiliar: **will be** I will be developing a new system. | Auxiliar: **will have** We will have developed a new system. |
 | CONDICIONAL | Auxiliar: **would** Mark would develop a new system. | Auxiliar: **would be** They would be developing a new system. | Auxiliar: **would have** They would have developed a new system. |
