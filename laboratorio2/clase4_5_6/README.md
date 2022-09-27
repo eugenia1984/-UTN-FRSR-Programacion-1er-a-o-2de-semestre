@@ -649,3 +649,12 @@ print(sumar_valor(3, 5, 9)) # Invocamos a la funcion
 Elegir del grupo a un integrante para que yo, como profesor, lo ingrese al repositorio en Git Hub, deben pasarme el correo y nombre de usuario, luego de recibir al invitación por correo, deben ingresar a Git Hub y clonar la carpeta de TecnicaturaGit, luego este integrante debe habilitar a los demás integrantes del grupo para que puedan clonar también. De esta manera van a poder tener acceso a todo lo que  he ingresado en esta carpeta, desde python, java, javascript y node.js
 
 ---
+
+## Clase 27/9
+
+### Funcion que va a manejar una lista de terminos
+
+
+### Lista de elementos con funciones (convertir)
+
+### Funcion recursiva
