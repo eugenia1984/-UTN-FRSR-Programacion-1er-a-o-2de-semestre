@@ -13,3 +13,7 @@
 - [Clase 4 (07/09): **Sistemas Operativos : Windows**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase4)
 
 - [Clase 5 (14/09) : **MS-DOS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase5)
+
+- [Clase 6 (28/09): **Linux**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase6)
+
+---
