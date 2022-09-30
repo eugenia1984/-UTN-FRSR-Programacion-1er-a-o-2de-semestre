@@ -13,6 +13,32 @@
 
 ---
 
+Como vimos anteriormente, los tiempos verbales en inglés son modos que sirven para identificar el momento en que ocurre una acción o estado. En general, se habla en pasado, presente y futuro.
+
+ A su vez, vimos que cada tiempo verbal se puede subdividir en cuatro tipos de tiempos verbales de acuerdo con el momento exacto en que sucede la acción:
+ 
+El cuadro que sigue muestra los tiempos y modos vistos
+
+| Tiempo | Simple | Comtinuo | Perfecto |
+| ------ | ------ | -------- | -------- |
+| PRESENTE | (**do/does**) We write programs | (**am/is/are**) They are writing programs | (**have, has**) Lu hasn´t (has not) written any program |
+| PASADO | (**did**) Mark wrote programs | (**was/were**) Was he writing programs? | (**had**) Paula hadn´t (han not) written any program |
+| FUTURO | (**will**) Mark wrote programs | (**will be**) I will be writting programs | (**will have**) We will have written programs |
+| CONDICIONAL | (**would**) Mark would write programs | (**would be**) They would be writing programs | (**would have**) They would have written any program |
+
+FUTURO GOING TO 
+
+I am going to write many programs.
+
+You aren´t going to write many programs.
+
+Ahora, vamos a dar un paso más adelante. ¿Qué pasa si combinamos los tiempos continuos y perfectos entre sí?
+
+Veamos el siguiente cuadro con atención: 
+
+
+---
+
 
 ## Practica
 
