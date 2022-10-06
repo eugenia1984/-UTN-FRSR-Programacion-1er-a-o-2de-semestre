@@ -45,7 +45,7 @@ Puedes subir tus cambios al repositorio remoto en GitHub.com, o extraer los camb
 
 Pasos para clorar un repositorio desde GitHub:
 
-1. En GitHub.com, vaya a la página principal del repositorio que creamos la clase anterior​
+1. En GitHub.com, vaya a la página principal del repositorio que creamos la clase anterior
 
 2. Encima de la lista de archivos, haga clic en  CODE 
 
@@ -65,18 +65,18 @@ Opciones:
 
 2- Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio. 
 
-3. Escriba git clone y pegue la dirección URL que ha copiado antes.
+3- Escriba ```git clone``` y pegue la dirección URL que ha copiado antes.
 
 
 5. Seleccionamos la dirección de nuestro repositorio:
 
-6. Abrimos terminal Git Bach y digitamos el comando : ```git clone``` 
+-Abrimos terminal Git Bach y digitamos el comando : ```git clone``` 
 
-7. Pegamos la dirección de nuestro repositrio en GitHub
+-Pegamos la dirección de nuestro repositrio en GitHub
 
-8. Damos enter
+-Damos enter
 
-9. Ya hemos generado nuestro repositorio local 
+6. Ya hemos generado nuestro repositorio local 
 
 ---
 
