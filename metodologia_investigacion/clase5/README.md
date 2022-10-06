@@ -2,27 +2,31 @@
 
 ---
 
-1. Abrimos terminal Git Bach y digitamos el comando ```git clone```
-
----
 
 ### GitHub:
 
 
-#### Clonación de un Repositorio:
+### Clonación de un Repositorio:
 
 Cuando creas un repositorio en GitHub.com, este existe como un repositorio remoto. 
 
 Puedes clonar tu repositorio para crear una copia local en tu computadora y sincronizarla entre las dos ubicaciones.
 
-#### ¿Para qué me sirve clonar un Reposiorio?
+---
+
+1. Abrimos terminal Git Bach y digitamos el comando ```git clone```
+
+---
+
+
+### ¿Para qué me sirve clonar un Repositorio?
 
 Puedes clonar un repositorio desde GitHub.com hacia tu computadora local para que sea más fácil fusionar conflictos, agregar o eliminar archivos, y subir confirmaciones más grandes. 
 
 Cuando clonas un repositorio, lo copias desde GitHub.com hacia tu máquina local.
 
  
-#### Copia Integral de mi Repositorio:
+### Copia Integral de mi Repositorio:
 
 Clonar un repositorio extrae una copia integral de todos los datos del mismo que GitHub.com tiene en ese momento, incluyendo todas las versiones para cada archivo y carpeta para el proyecto. 
 
@@ -32,12 +36,12 @@ Puedes subir tus cambios al repositorio remoto en GitHub.com, o extraer los camb
 
 ---  
 
-### Actividad nº1:
+## Actividad nº1:
 
 
 - 1) Realizaremos la clonación del repositorio creado la clase anterior
 
-- 2)Tomar captura de pantalla.
+- 2) Tomar captura de pantalla.
 
 Pasos para clorar un repositorio desde GitHub:
 
