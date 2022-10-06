@@ -7,7 +7,7 @@
 Las ramas te permiten desarrollar características, corregir errores, o experimentar con seguridad las ideas nuevas en un área contenida de tu repositorio.
 
  
-### CREAR UNA RAMA A PARTI DE OTRA RAMA:
+### CREAR UNA RAMA A PARTIR DE OTRA RAMA:
 
 - Siempre puedes crear una rama a partir de otra rama existente. 
 
