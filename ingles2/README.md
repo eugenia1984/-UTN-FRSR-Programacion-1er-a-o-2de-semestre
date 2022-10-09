@@ -46,7 +46,7 @@ Código de acceso: 123321
 
 - [Clase 7 - Tiempos verbales complejo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/tiempos_verbales_complejos)
 
-- Clase 8 - Voz pasiva
+- [Clase 8 - Voz pasiva](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/voz_pasiva)
 
 - Clase 9 - Vos pasiva especial
 
