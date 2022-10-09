@@ -54,4 +54,7 @@ Código de acceso: 123321
 
 ---
 
+- [Cuadro de tiempos verebales](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/ingles2/cuadro_tiempos_verbales.pdf)
+
+---
 
