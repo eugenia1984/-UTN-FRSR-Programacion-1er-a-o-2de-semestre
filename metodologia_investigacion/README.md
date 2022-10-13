@@ -27,3 +27,5 @@
 - [Clase 6 (05/10)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase6): GitHub - ramas
 
 ---
+
+- Clase 7 y 8 - Visibilidad de un repositorio y Kitkraken
