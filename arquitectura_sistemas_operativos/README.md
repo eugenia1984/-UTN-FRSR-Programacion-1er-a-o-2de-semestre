@@ -16,6 +16,6 @@
 
 - [Clase 6 (28/09): **Linux**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase6)
 
-- [Clase 7 (05/10) : **Android**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase7)
+- [Clase 7 y 8 (05/10 y 12/10) : **Android** y **Seguridad**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase7)
 
 ---
