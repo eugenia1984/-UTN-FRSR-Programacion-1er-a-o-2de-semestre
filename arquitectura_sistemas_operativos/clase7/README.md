@@ -113,3 +113,14 @@ Fecha de entrega 12/1
 Realizar un cuadro comparativo entre las características y requerimientos del Sistema Android 10 y 11.
 
 ---
+---
+
+# :star: Clase 8 * 12 Octubre * Seguridad
+
+---
+
+## ¿QUÉ ES LA CIBERSEGURIDAD?
+
+​La ciberseguridad es la práctica de proteger los sistemas importantes y la información confidencial de los ataques digitales. También conocida como seguridad de la tecnología de la información (TI)
+
+---
