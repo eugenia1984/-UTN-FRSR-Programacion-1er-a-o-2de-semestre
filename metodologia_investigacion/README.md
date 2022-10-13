@@ -12,7 +12,7 @@
 
 ---
 
-- [Clase 3 (31/08)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase3): Git Hub
+- [Clase 3 (31/08)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase3): Git Hub - Ventajas, Desventajas, Subiendo un repositorio
 
 ---
 
