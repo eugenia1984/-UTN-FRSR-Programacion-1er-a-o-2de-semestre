@@ -124,3 +124,26 @@ Realizar un cuadro comparativo entre las características y requerimientos del S
 ​La ciberseguridad es la práctica de proteger los sistemas importantes y la información confidencial de los ataques digitales. También conocida como seguridad de la tecnología de la información (TI)
 
 ---
+
+## MEDIDAS DE SEGUIDAD:
+
+​Las medidas de Ciberseguridad o seguridad cibernética están diseñadas para combatir las amenazas contra sistemas en red y aplicaciones, ya sea que esas amenazas se originen dentro o fuera de una organización. 
+
+
+​## ¿CÓMO TRABAJA?
+
+La ciberseguridad trata de trabajar en robustos sistemas que sean capaces de actuar antes, durante y después, no sirve solo para prevenir, sino también dar confianza a los clientes y al mercado, pudiendo así reducir el riesgo de exposición del usuario y de los sistemas.
+
+​## LOS CIBERDELINCUENTES
+
+Los ciberdelincuentes se enfocan en obtener la información de identificación personal (PII) de los clientes: nombres, direcciones, números de identificación nacional (por ejemplo, números de seguridad social en los EE. UU., códigos fiscales en Italia) e información de tarjetas de crédito para posteriormente vender estos registros en mercados digitales clandestinos.
+
+## EL PERFIL DE CIBERSEGURIDAD: LO MÁS DESEADO
+
+Los expertos en la ciberseguridad se encuentran muy demandados en el mercado laboral, y cada día este número aumenta.​
+
+Las empresas necesitan de estos profesionales ya que saben que la prevención es la clave para proteger la información y no verse inmiscuido en situaciones de debilidades con secuelas inmensas para dichas empresas. Por tanto, estar formado en ciberseguridad es una muy buena opción para encontrar empleo a día de hoy.​
+
+## HERRAMIENTAS PARA AUMENTAR LA SEGURIDAD:
+
+
