@@ -1,4 +1,4 @@
-# :star2: Clase 6 * 06 Octubre * Voz Pasiva (Passive Voice)
+# :star2: Clase 8 * 06 Octubre * Voz Pasiva (Passive Voice)
 
 ---
 
@@ -152,3 +152,50 @@ for the U.S Census …**
 -> Los expertos dicen que las computadoras serán hechas para caber en el cerebro en un futuro cercano.
 
 ---
+---
+
+## :star2: Clase 9 * 13 Octubre *  Voz pasiva especial
+
+En esta ocasión nos vamos a referir a los casos de voz pasiva que suelen encontrarse en contextos formales, como 
+textos de prensa o académicos. Este tipo de estructuras se utilizan para expresar información neutra o imparcial.
+
+
+## VOZ PASIVA IMPERSONAL
+
+Las oraciones pasivas impersonales se forman con verbos transitivos relacionados con la percepción: 
+verbos del habla y de pensamiento.
+
+Algunos de los verbos de pensamiento u opinión más utilizados en este tipo de estructuras son:
+Hay dos tipos de estructuras para este tipo de oraciones. Observa los siguientes ejemplos: 
+
+People say that Python is the most important programming language. – ACTIVE
+
+1. It is said that Python is the most important programming language. – PASIVA IMPERSONAL con “It” + 
+cláusula “that” . 
+
+2. Python is said to be the most important programming language.- PASIVA IMPERSONAL con un sujeto + 
+pasivo + infinitivo
+
+¿Se te ocurre cómo se traducen ambas oraciones? *
+
+Lee atentamente las siguientes oraciones y su traducción: 
+
+o Spanish is believed to be one of the most widely spoken languages in the world. (Se cree que el 
+español es (ahora, actualmente), una de las lenguas más habladas en todo el mundo.
+
+o The offer was thought to have been rejected by the board. =Se pensaba que la oferta había sido 
+rechazada por la junta.
+
+o The leader of the Taliban in Pakistan is said to have been killed. =Se dice que el líder de los Talibán 
+en Pakistán ha sido asesinado.
+
+o Mr. Bond is said to have been having financial difficulties = Se dice que ha estado teniendo 
+dificultades económicas (últimamente)
+
+o Mr. Bond was said to have been having financial difficulties. =Se dijo/decía que había estado 
+teniendo dificultades económicas. (en el pasado, pero ahora ya no las tiene).
+
+
+Como pueden ver, la traducción al español en ambos casos es igual. La diferencia está exclusivamente en la 
+estructura de la oración en inglés.
+
