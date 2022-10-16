@@ -271,3 +271,112 @@ console.log(persona1)
 -> La palabra reservda **this** hace referencia al atributo de a clase, ya que tiene en el parametro y en el atributo el mismo nombre.
 
 ---
+
+## :star: Clase 5
+
+---
+
+## Tipo de dato Undefined
+
+Es una variable que fue definida/creada pero que no se le ha asignado un valor.
+
+```JavaScript
+let indefinida;
+console.log(`Mi variable indefinida: ${indefinida}`)
+```
+
+
+### null
+
+Es la **ausencia de valor**, es una variable vacia, sin asignacion de un tipo de dato.
+
+```JavaScript
+let nula = null
+```
+
+null no es un tipo de dato, pero es un **object**
+
+---
+
+## Array 
+
+En JavaScript los **arrays** son de tipo **object**.
+
+Se definen entre []
+
+Ejemplo:
+```JavaSCript
+const cars = ["Citroen", "Audi", "BMW"]
+```
+
+Dentro pueden almacenar todo tipo de datos, inclusive de distintos tipos, comom: Number, String, boolean, array, etc.
+
+```JavaSCript
+const variado = ["Hola", 1, true]
+```
+
+
+## Empty String
+
+```JavaScript
+let vacia = " "
+```
+
+---
+
+## Similitudes entre JavaScript y Java
+
+
+- Son muy pocas las similitudes entre Java y JavaScript
+
+1. Operadores simplificados:
+```
++=
+-=
+*=
+/=
+```
+
+2. Operadores aritmeticos:
+```
++
+-
+*
+%
+/
+```
+
+3. Operadores de asignacion
+```
+=
+```
+
+4. Operadores de comparacion:
+```
+==
+```
+
+Pero recordar que JavaScript también tiene el estricto ```====```
+
+5. Comentarios:
+```
+// Comentario de una sola linea
+/* Comentario
+multilena*/
+```
+
+6. Secuencias de escape:
+```
+\' muestra una comilla simple dentro de una cadena
+\" muestra una comilla doble dentro de una cadena
+\\ muestra una barra invertida (back slash) dentro de una cadena
+\n para un salto de linea
+\r retorno
+\t tabulacion
+\b retroceso
+\f salto de pagina
+```
+
+7. Operador de aumento (```++```) y   Operador de decremento (```--```)
+
+---

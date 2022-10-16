@@ -47,3 +47,8 @@ class Persona {
 }
 let persona1 = new Persona("Maria Eugenia", "Costa")
 console.log(persona1)
+// undefined
+let indefinida;
+console.log(`Mi variable indefinida: ${indefinida}`)
+// arrays
+const cars = ["Citroen", "Audi", "BMW"]
