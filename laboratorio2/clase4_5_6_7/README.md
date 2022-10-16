@@ -658,7 +658,7 @@ Consigna:
 
 - Crear una funcion para multiplicar los valores recibidos de tipo numerico, utilizando argumentos variables *args como parametro de la funcion y regresar como resultado la multiplicacion de todos los valores pasados como argumentos
 
--> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones/funciones2.py)
+-> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones/funciones.py)
 
 ```Python
 # Definimos la funcion
@@ -678,3 +678,95 @@ print(multiplicar_valores(3,5,15)) # le pasamos argumentos
 
 ##  Argumentos variables para un diccionario
 
+```Python
+# Defino la funcion para que maneje una lista de terminos
+def listarTerminos(**kwargs): # **kwargs es como se suele utilizar en documentacion para recibir los argumentos
+  for llave, valor in kwargs.items():
+    print(f"¨{llave}: {valor}")
+
+listarTerminos() # como no le paso argumentos la funcion no se ejecuta
+
+listarTerminos(IDE="Integrated Development Enviroment") # ¨IDE: Integrated Development Enviroment
+```
+
+```Python
+listarTerminos(IDE="Integrated Development Enviroment", PK="Primary Key") 
+# ¨IDE: Integrated Development Enviroment
+# ¨PK: Primary Key
+```
+Voy a tener dos pares key - value
+
+-> Las llaves no llevas comillas. Deben ser STRING pero sin las comillas, NO puedo usar numeros.
+
+-> **kwargs = key word argument
+
+-> Si tenemos que pasar más de un parámetro, se pasan de forma independiente. Por ejemplo:
+
+```def listarTerminos(nombre, *nombres, **kwargs):```
+
+nombre -> es un **Argumento fijo**
+
+*nombre -> es de tipo **tupla**
+
+```**kwargs``` -> es de tipo **diccionario**
+
+-> Lo podes ver en [**ejercicio12.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio122.py)
+
+---
+
+##  Lista de elementos con funciones (convertir)
+
+Vemos distintos tipos de datos como argumentos.
+
+```Python
+# Usamos una lista para recibir elementos
+def desplegarNombres(nombres):
+  for nombre in nombres:
+    print(nombre)
+
+nombres2 = ["Euge", "Agus", "Andi"]
+desplegarNombres(nombres2)
+# Euge
+# Agus
+# Andi
+```
+
+-> Si le paso como argumento un String me va a separar en caracteres:
+```Python
+desplegarNombres("Carla")
+# C
+# a
+# r
+# l
+# a
+```
+
+-> Si le paso como argumento un numero entero va a dar un error, y va a avisar que no es un objeto iterable
+```Python
+# desplegarNombres(10)
+```
+
+Pero... si usamos los **()** lo convertimos en tupla que SI es iterable
+
+```Python
+desplegarNombres((10, 11))
+# 10
+# 11
+```
+
+Si tenemos un solo numero, para que sea tupla recordar usar la **,**:
+```Python
+desplegarNombres((2, ))
+```
+
+Tambien... podemos convertirlo a una lista para que pueda ser iterable.
+
+```Python
+desplegarNombres([10, 11])
+# 10 el primer elemento de la lista, un entero
+# 11 el segundo elemento de la lista, un entero
+```
+
+-> Lo podes ver en [**ejercicio12.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio122.py)
+
+---
