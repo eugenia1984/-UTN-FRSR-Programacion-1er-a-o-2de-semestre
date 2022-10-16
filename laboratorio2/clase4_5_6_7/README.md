@@ -767,6 +767,98 @@ desplegarNombres([10, 11])
 # 11 el segundo elemento de la lista, un entero
 ```
 
--> Lo podes ver en [**ejercicio12.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio122.py)
+-> Lo podes ver en [**ejercicio12.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio12.py)
 
 ---
+
+##  Funciones recursivas con factorial 
+
+Una **funcion recursiva** se manda a llamar a si misma para completar una tarea.
+
+Necesita:
+
+- un caso base
+
+- un caso recursivo
+
+```Python
+def factorial(numero): # se envia cmo argumento y se recibe como parametro
+  if numero == 1: # caso base
+    return 1
+  else:
+    return numero * factorial(numero-1) # caso recursivo
+
+resultado = factorial(5)
+print(f"El factorial de 5 es:  {resultado}")
+```
+
+### Tarea
+
+Hacer que el numero a calcular el cactorial se ingrese por teclado:
+
+```Python
+factorialACalcular = int(input("Ingrese un numero para calcular su factorial: "))
+print(f"El factorail de {factorialACalcular} es {factorial(factorialACalcular)}")
+```
+
+-> Lo podes ver en [**funciones3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones/funciones3.py)
+
+---
+
+## Ejercicio 4 con funciones (impuestos)
+
+Crear una funcion para calcular el total de un pago incluyendo un impuesto aplicado. (IVA)
+
+Formula: pago_total = pago_Sin_impuesto + pago_sin_impuesto * (impuesto/100)
+
+Proporcionar el pago_sin_impuesto de 1000
+
+Proporcionar el monto del impuesto del 21%
+
+Pago con impuesto: XXX
+
+```Python
+def calcular_total_pago(pago_sin_impuesto, impuesto):
+  if impuesto <= 0:
+    return("El impuesto debe ser mayor a 0")
+  else:
+    pago_total = pago_sin_impuesto + pago_sin_impuesto * (impuesto/100)
+    return pago_total
+
+# Ejecuto la funcion pidiendole los datos al usuario
+pago_sin_impuesto = float(input("Ingrese el pago sin impuestos: "))
+impuesto = float(input("Ingrese el monto dle impuesto a aplicar: "))
+pago_con_impuesto = calcular_total_pago(pago_sin_impuesto, impuesto)
+print(f"El pago total es: {pago_con_impuesto}")
+```
+
+-> Lo podes ver en [**funciones4.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones/funciones4.py)
+
+---
+
+##  Ejercicio 5 Funciones (Celsius a Fahrenheit)
+
+Realizar dos funciones para convertir de grados celsius a fahrenheit y viceversa
+
+```Python
+
+# Funcion que convierte de celsius a fahrenheit
+def celsius_fahrenheit(celsius):
+  conversion = celsius * 9/5 + 32
+  return conversion
+
+# Funcion que convierte de fahrenheit a celcius
+def fahrenheit_celsius(fahrenheit):
+  conversion = (fahrenheit - 32 ) * 5/9
+  return conversion
+
+celsius = float(input("Ingrese un valor de celsius: "))  
+resultado = celsius_fahrenheit(celsius)
+print(f"Los {celsius} Celsius pasados a Fahrenheit son: {resultado}")
+
+fahrenheit = float(input("Ingrese un valor de fahrenheit: ")) 
+resultado = fahrenheit_celsius(fahrenheit)
+print(f"Los {fahrenheit} Fahrenheit pasados a Celsius son : {resultado}") 
+```
+
+-> Lo podes ver en [**funciones5.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones/funciones5.py)
