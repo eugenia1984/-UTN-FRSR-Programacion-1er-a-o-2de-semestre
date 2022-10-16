@@ -862,3 +862,5 @@ print(f"Los {fahrenheit} Fahrenheit pasados a Celsius son : {resultado}")
 ```
 
 -> Lo podes ver en [**funciones5.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones/funciones5.py)
+
+---

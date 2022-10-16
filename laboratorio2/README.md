@@ -33,7 +33,7 @@
 
 -[**Ejercicios 4, 5, 6, 7, 8 , 9 , 10 y 11**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_7/) 
 
--[**FUNCIONES**, **FUNCIONES RECURSIVAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_/funciones) : **Funciones con paso de argumentos**, **Funciones con Return**, **Valores por default en funciones**, **Argumentos, variables en funciones**, **Funciones recursivas con Factorial** - [funciones3.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_/funciones/funciones3.py), **Calcular impuestos** [funciones4.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_/funciones/funciones4.py), **Celsius a Fahrenheit**[funciones5.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_/funciones/funciones5.py)
+-[**FUNCIONES**, **FUNCIONES RECURSIVAS**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_/funciones) : **Funciones con paso de argumentos**, **Funciones con Return**, **Valores por default en funciones**, **Argumentos, variables en funciones**, **Funciones recursivas con Factorial** - [funciones3.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_/funciones/funciones3.py), **Calcular impuestos** [funciones4.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_/funciones/funciones4.py), **Celsius a Fahrenheit** [funciones5.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_/funciones/funciones5.py)
 
 -**Desempaquetado** / **Repaso de FOR - ELSE** / **Argumentos variables para un diccionario** - [ejercicio12.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase4_5_6_7/ejercicio12.py). 
 
@@ -51,7 +51,7 @@
 ## Clases
 
 
-- [Clase 1 y 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2): Caracteristicas de Java Script, variables, console.log
+- [Clase 1 , 2 y 3 ](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3): Caracteristicas de Java Script, variables, console.log, alert(), sintaxis de los comentarios, tipos de datos (String, Number, Object)
 
 
 ---
