@@ -18,3 +18,32 @@ const objetoPersona = {
 }
 console.log(`Este es mi objeto objetoPersona.`)
 console.log(`Tiene la clave firstName con su valor: ${objetoPersona.firstName} y la clave lastName con su valor ${objetoPersona.lastName}`)
+// Boolean
+let bandera = true
+console.log(`Mi variable boolean bandera, tiene el valor: ${bandera}`)
+// Function (declarativa)
+function myFunctionSayHi() {
+  console.log("Hi")
+}
+myFunctionSayHi(); // Hi
+/*
+La misma per en ARROW FUNCTION 
+myFunctionSayHi() => console.log("Hi")
+*/
+
+// Symbol
+const simbolo = Symbol(1)
+console.log(simbolo) // 1
+
+// Class
+class Persona {
+  // constructor
+  constructor(firstName, lastName) {
+    // Atributos
+    this.firstName = firstName;
+    this.lastName = lastName;
+  }
+  // Metodos
+}
+let persona1 = new Persona("Maria Eugenia", "Costa")
+console.log(persona1)

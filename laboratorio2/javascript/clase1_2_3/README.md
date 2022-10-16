@@ -119,3 +119,155 @@ Muestro por consola los values de las keys:
 console.log(`Este es mi objeto objetoPersona.`)
 console.log(`Tiene la clave firstName con su valor: ${objetoPersona.firstName} y la clave lastName con su valor ${objetoPersona.lastName}`)
 ```
+
+---
+
+# :star: Clase 4 * JavaScript (04/10)
+
+### Reutilizar variables
+
+Las variables son dinamicas, se pueden reutilizar.
+
+Lo que hay que tener cuidado es que JavaScript es debilmente tipado, entonces una variable que almacenaba unNumber luego puede almacenar un String, lo que puede traer errores futuros.
+
+Ejemplo:
+
+```JavaScript
+let name = "Maria"
+console.log(name) // Maria
+name = "Eugenia "
+console.log(name) // Eugenia
+console.log(typeOf(name)) // String
+```
+
+---
+
+### Repaso: creación del archivo index.html
+
+En el **index.html** siempre al final, justo antes de cerrar el ```<body>``` voy a tener el **script**:
+
+```HTML
+  <script src="./01_hola_mundo.js"></script>
+  <script src="./02_alert.js"></script>
+</body>
+</html>
+```
+
+---
+
+### Tipos de datos booleanos, función y Symbol
+
+
+#### Boolean
+
+Tienen dos posibles valoreS:
+
+- true
+
+- false
+
+```JavaScript
+let bandera = true
+console.log(`Mi variable boolean bandera, tiene el valor: ${bandera}`)
+```
+
+Se usa bastante en los condicionales, por ejemplo:
+
+```JavaScript
+if(numero > 2) {
+  console.log(numero)
+}
+```
+
+-> Si el numero es mayor a dos mostrarlo por consola, es decir si la condicion es **true** que lo muestre.
+
+
+### Funcion
+
+Una funcion e sun bloque de codigo que se puede reutilizar las veces que sea necesaria. ¿Cómo se hace ? Invocandona.
+
+- Function (declarativa)
+
+En este caso debo utilizar la palabra reservada **function**
+
+```JavaSCript
+function myFunctionSayHi() {
+  console.log("Hi")
+}
+myFunctionSayHi(); // Hi
+```
+
+- Arrow function
+
+```JavaScript
+myFunctionSayHi() => console.log("Hi")
+```
+En este cao tengo un **return explicito** como solo tengo una linea de codigo puedo obviar las **{}** y la palabra reservada **return**, pero el cuerpo de mi arrow function tiene más e una lineade código si debo utilizar las {} y la palabra reservada **return**
+
+Lo mismo los (), cuando no lleva parametros, pueden ser obviados.
+
+- Arrow function con fucnion anonima
+
+```JavaScript
+const myFunctionSayHi = () => console.log("Hi")
+```
+
+#### Symbol
+
+```JavaScript
+const simbolo = Symbol("My Symbol")
+console.log(simbolo)
+```
+
+- El valor de “Symbol” representa un identificador único.
+
+- Un ejemplo: Un valor de este tipo puede ser creado usando Symbol():
+
+```JavaScript
+let id = Symbol();
+```
+
+Al crearlo, podemos agregarle una descripción (también llamada symbol name), que será útil en la depuración de código:
+
+```JavaScript
+// id es un symbol con la descripción "id"
+let id = Symbol("id");
+```
+
+Se garantiza que los símbolos son únicos. Aunque declaremos varios Symbols con la misma descripción, éstos tendrán valores distintos. La descripción es solamente una etiqueta que no afecta nada más.
+
+Por ejemplo, aquí hay dos Symbols con la misma descripción… pero no son iguales:
+
+```JavaScript
+let id1 = Symbol("id");
+let id2 = Symbol("id");
+
+alert(id1 == id2); // false
+```
+
+---
+
+### Definir un tipo de clase
+
+**Class** es un azucar sintactico, en realidad JavaScript está basado en **prototipos**
+
+
+Va a tener su metodos constructor para poder ser definida con sus **atributos** y **metodos**
+
+```JavaScript
+class Persona {
+  // constructor
+  constructor(firstName, lastName) {
+    // Atributos
+    this.firstName = firstName;
+    this.lastName = lastName;
+  }
+  // Metodos
+}
+let persona1 = new Persona("Maria Eugenia", "Costa")
+console.log(persona1)
+```
+
+-> La palabra reservda **this** hace referencia al atributo de a clase, ya que tiene en el parametro y en el atributo el mismo nombre.
+
+---

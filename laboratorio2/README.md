@@ -51,7 +51,7 @@
 ## Clases
 
 
-- [Clase 1 , 2 y 3 ](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3): Caracteristicas de Java Script, variables, console.log, alert(), sintaxis de los comentarios, tipos de datos (String, Number, Object)
+- [Clase 1 , 2 , 3 y 4](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3_4): Caracteristicas de Java Script, variables, console.log, alert(), sintaxis de los comentarios, tipos de datos (String, Number, Object, Booleans, Function, Symbol), reutilizar variables, creacion del archivo index.html, definir un tipo de clase
 
 
 ---
