@@ -20,7 +20,7 @@ lista2 = list(set(lista))
 print(f"Mi lista pasada a set y a lista, todo junto: {lista2}")
 ```
 
--> Lo podes ver en [**ejercicio1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio1.py)
+-> Lo podes ver en [**ejercicio1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio1.py)
 
 ---
 
@@ -54,7 +54,7 @@ print(f"Lista de palabras que aparecen en al segunda, pero no en la primera: {so
 print(f"Lista de palabras que aparecen en ambas listas: {interseccion}")
 ```
 
--> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio2.py)
+-> Lo podes ver en [**ejercicio2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio2.py)
 
 ---
 
@@ -96,7 +96,7 @@ personajes.append(personaje3)
 print(f"Mi lista de personajes: {personajes}")
 ```
 
--> Lo podes ver en [**ejercicio3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio3.py)
+-> Lo podes ver en [**ejercicio3.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio3.py)
 
 ---
 
@@ -118,7 +118,7 @@ while numero < 0:
 print(f"Su raiz cuadrada es: {math.sqrt(numero):.2f}")
 ```
 
- -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/math1.py)
+ -> Lo podes ver en [**math1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/math1.py)
 
 ---
 
@@ -151,7 +151,7 @@ lista = list(range(1, 51))
 print(lista)
 ```
 
- -> Lo podes ver en [**lista/ejericico1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/lista/ejericio1.py)
+ -> Lo podes ver en [**lista/ejericico1.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/lista/ejericio1.py)
  
 ---
 
@@ -179,7 +179,7 @@ for i in lista:
   print(i, end="-")
 ```
 
- -> Lo podes ver en [**lista/ejerico2.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/lista/ejericio2.py)
+ -> Lo podes ver en [**lista/ejerico2.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/lista/ejericio2.py)
  
 ---
 
@@ -205,7 +205,7 @@ lista.sort()
 print(f"Mi lista ordenada: {lista}")
 ```
 
- -> Lo podes ver en [**lista/ejerico3.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/lista/ejericio3.py)
+ -> Lo podes ver en [**lista/ejerico3.py.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/lista/ejericio3.py)
  
 ---
 ---
@@ -234,7 +234,7 @@ for i in range(comienzoDeSuma, finDeLaSuma+1):
 print(f"La suma de los numeros pares es: {suma}")
 ```
 
--> Lo podes ver en [**ejercicio4.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio4.py)
+-> Lo podes ver en [**ejercicio4.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio4.py)
 
 ---
 
@@ -255,7 +255,7 @@ for i in range(1, numero+1):
   factorial *= i
 print(f"El factorial de {numero} es: {factorial}")
 ```
--> Lo podes ver en [**ejercicio5.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio5.py)
+-> Lo podes ver en [**ejercicio5.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio5.py)
 
 ---
 
@@ -306,7 +306,7 @@ for indice, i in enumerate(lista):
   print(f"{numero} x {indice+1} = {lista[indice]}")
 ```
 
--> Lo podes ver en [**ejercicio6.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio6.py)
+-> Lo podes ver en [**ejercicio6.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio6.py)
 
 ---
 
@@ -337,7 +337,7 @@ while True:
 print(f"\nNúmero de intentos: {contador}")
 ```
 
--> Lo podes ver en [**ejercicio7.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio7.py)
+-> Lo podes ver en [**ejercicio7.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio7.py)
 
 ---
 
@@ -385,7 +385,7 @@ while True:
     print()
 ```
 
--> Lo podes ver en [**ejercicio8.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio8.py)
+-> Lo podes ver en [**ejercicio8.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio8.py)
 
 ---
 
@@ -416,7 +416,7 @@ print(f"\nFrase final: {frase1}")
 print(f"Nº de caracteres: {len(frase1)}")
 ```
 
--> Lo podes ver en [**ejercicio9.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio9.py)
+-> Lo podes ver en [**ejercicio9.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio9.py)
 
 ---
 
@@ -437,7 +437,7 @@ conjunto = set(lista) # lo paso a set para no tneer duplicados
 print(conjunto)
 ```
 
--> Lo podes ver en [**ejercicio10.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio10.py)
+-> Lo podes ver en [**ejercicio10.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio10.py)
 
 ---
 
@@ -496,7 +496,7 @@ while True:
     print("Opcion incorrecta")
 ```
 
--> Lo podes ver en [**ejercicio11.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/ejercicio11.py)
+-> Lo podes ver en [**ejercicio11.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/ejercicio11.py)
 
 ---
 
@@ -519,7 +519,7 @@ persona3 = {"lastName": "Costa", "name": "Maria Eugenia"}
 ```
 
 
--> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/funciones)
+-> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones)
 
 ---
 
@@ -583,7 +583,7 @@ mi_funcion2("Euge", "Costa") # invoco la funcion con los argumentos
 
 Puedo llamar varias veces a la misma función, con diferentes argumentos.
 
--> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/funciones)
+-> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones)
 
 ---
 
@@ -597,7 +597,7 @@ resultado = sumar(2,3)
 print(f"El resultado de la suma de 2 + 3 es: {resultado}")
 ```
 
--> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6/funciones)
+-> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones)
 
 ---
 
@@ -652,9 +652,29 @@ Elegir del grupo a un integrante para que yo, como profesor, lo ingrese al repos
 
 ## Clase 27/9
 
-### Funcion que va a manejar una lista de terminos
+### Ejercicio con funciones con *args para multiplicar
 
+Consigna:
 
-### Lista de elementos con funciones (convertir)
+- Crear una funcion para multiplicar los valores recibidos de tipo numerico, utilizando argumentos variables *args como parametro de la funcion y regresar como resultado la multiplicacion de todos los valores pasados como argumentos
 
-### Funcion recursiva
+-> Lo podes ver en [**funciones**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase4_5_6_7/funciones/funciones2.py)
+
+```Python
+# Definimos la funcion
+def multiplicar_valores(*numeros): # es mas utilizado *args
+  resultado = 1 # el 0 no nos ayuda a multiplicar
+  for numero in numeros:
+    resultado *= numero
+  return resultado
+
+# invocamos a la funcion
+print(multiplicar_valores(3,5,15)) # le pasamos argumentos
+```
+
+---
+
+## :star: Diccionarios
+
+##  Argumentos variables para un diccionario
+
