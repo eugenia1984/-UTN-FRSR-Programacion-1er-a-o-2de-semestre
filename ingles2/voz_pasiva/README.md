@@ -87,8 +87,7 @@ construidas**. |
 construidas**.  |
 | Futuro (Going to) | **am/are/is going to be + pp** | New tools **are going to be
 built**. |  Nuevas herramientas **van a ser construidas**. |
-| Simple Past | **was/were + pp** | New tools **were built**.  | Nuevas herramientas **fueron
-construidas**. |
+| Simple Past | **was/were + pp** | New tools **were built**.  | Nuevas herramientas **fueron construidas**. |
 | Past Continuous | **was/were being + pp** | New tools **were being built**.  | Nuevas herramientas **estaban siendo construidas**. |
 | Present Perfect | **have/has been + pp** | New tools **have been built**. |  Nuevas herramientas **han sido construidas**. |
 | Past Perfect | **had been + pp** | New tools **had been built**. | Nuevas herramientas **habían sido construidas**. |
@@ -156,19 +155,26 @@ for the U.S Census …**
 
 ## :star2: Clase 9 * 13 Octubre *  Voz pasiva especial
 
-En esta ocasión nos vamos a referir a los casos de voz pasiva que suelen encontrarse en contextos formales, como 
-textos de prensa o académicos. Este tipo de estructuras se utilizan para expresar información neutra o imparcial.
+En esta ocasión nos vamos a referir a los casos de voz pasiva que suelen encontrarse en contextos formales, como textos de prensa o académicos. Este tipo de estructuras se utilizan para expresar información neutra o imparcial.
 
 
 ## VOZ PASIVA IMPERSONAL
 
-Las oraciones pasivas impersonales se forman con verbos transitivos relacionados con la percepción: 
-verbos del habla y de pensamiento.
+Las oraciones pasivas impersonales se forman con verbos transitivos relacionados con la percepción:
 
-Algunos de los verbos de pensamiento u opinión más utilizados en este tipo de estructuras son:
+
+- Algunos de los verbos de pensamiento u opinión más utilizados en este tipo de estructuras son:
+
+```
+accept, advise, affirm, allege, ask, believe, claim, calculate, 
+consider, discover, expect, estimate, feel, guess, hope, know, 
+presume, prove, recommend, report, rumour, say, show, state, 
+suggest, think, understand, warn, etc.
+```
+
 Hay dos tipos de estructuras para este tipo de oraciones. Observa los siguientes ejemplos: 
 
-People say that Python is the most important programming language. – ACTIVE
+-> People say that Python is the most important programming language. – ACTIVE
 
 1. It is said that Python is the most important programming language. – PASIVA IMPERSONAL con “It” + 
 cláusula “that” . 
@@ -178,24 +184,85 @@ pasivo + infinitivo
 
 ¿Se te ocurre cómo se traducen ambas oraciones? *
 
-Lee atentamente las siguientes oraciones y su traducción: 
+---
 
-o Spanish is believed to be one of the most widely spoken languages in the world. (Se cree que el 
-español es (ahora, actualmente), una de las lenguas más habladas en todo el mundo.
+#### Lee atentamente las siguientes oraciones y su traducción: 
 
-o The offer was thought to have been rejected by the board. =Se pensaba que la oferta había sido 
-rechazada por la junta.
+o Spanish is believed to be one of the most widely spoken languages in the world. 
 
-o The leader of the Taliban in Pakistan is said to have been killed. =Se dice que el líder de los Talibán 
-en Pakistán ha sido asesinado.
+-> (Se cree que elespañol es (ahora, actualmente), una de las lenguas más habladas en todo el mundo.
 
-o Mr. Bond is said to have been having financial difficulties = Se dice que ha estado teniendo 
-dificultades económicas (últimamente)
+o The offer was thought to have been rejected by the board. 
 
-o Mr. Bond was said to have been having financial difficulties. =Se dijo/decía que había estado 
-teniendo dificultades económicas. (en el pasado, pero ahora ya no las tiene).
+-> Se pensaba que la oferta había sido rechazada por la junta.
+
+o The leader of the Taliban in Pakistan is said to have been killed. 
+
+-> Se dice que el líder de los Talibán en Pakistán ha sido asesinado.
+
+o Mr. Bond is said to have been having financial difficulties 
+
+-> Se dice que ha estado teniendo dificultades económicas (últimamente)
+
+o Mr. Bond was said to have been having financial difficulties. 
+
+-> Se dijo/decía que había estado teniendo dificultades económicas. (en el pasado, pero ahora ya no las tiene).
 
 
-Como pueden ver, la traducción al español en ambos casos es igual. La diferencia está exclusivamente en la 
-estructura de la oración en inglés.
+Como pueden ver, la traducción al español en ambos casos es igual. La diferencia está exclusivamente en la estructura de la oración en inglés.
 
+... Ah cierto! Nos quedamos pensando. *En ambos casos, la traducción es:
+
+**Se dice que Python es el lenguaje de programación más importante**.
+
+En resumen, este tipo de oraciones pasivas, se pueden encontrar con las siguientes formas:
+
+```
+It is said that….
+[It + verbo en pasivo]
+```
+
+```
+Pasivas impersonales con To +infinitivo
+[sujeto + verbo en pasivo (be + participio pasado) + to infinitivo]
+```
+
+---
+
+### Practica
+
+Traduce las siguientes oraciones.
+
+1. Cloud antivirus products are estimated to have a poor performance.
+
+2. Threat Fire's Active Defense technology has proven to provide up to 243% more protection when combined with traditional Antivirus products.
+
+3. Java was thought to be the wave of the future.
+
+4. The OS has been proven to run on nearly everything available, making it a favorite for many game developers throughout the years.
+
+5. PHP is believed to be the most popular language for creating dynamic web pages.
+
+6. It has been claimed that Linux is a much more robust, stable, and secure operating system than anything else in the market.
+
+7. JavaScript was revealed to be the top programming language in 2018.
+
+8. Programmers were expected to present their updates by the end of last week.
+
+9. It has been rumoured that the presentation will introduce impressive changes.
+
+---
+
+### Fuentes consultadas:
+
+https://english.lingolia.com/es/gramatica/verbos/la-pasiva
+
+https://holaquepasa.com/passive-voice-in-spanish/
+
+https://www.inglespodcast.com/2018/03/11/the-impersonal-passive-airc198/
+
+http://menuaingles.blogspot.com/2009/09/impersonal-passive.html
+
+http://passivecausality.weebly.com/personal-and-impersonal-constructions.html
+
+---
