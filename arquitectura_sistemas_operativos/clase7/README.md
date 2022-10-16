@@ -131,13 +131,13 @@ Realizar un cuadro comparativo entre las características y requerimientos del S
 
 ---
 
-​## ¿CÓMO TRABAJA?
+## ¿CÓMO TRABAJA?
 
 La ciberseguridad trata de trabajar en robustos sistemas que sean capaces de actuar antes, durante y después, no sirve solo para prevenir, sino también dar confianza a los clientes y al mercado, pudiendo así reducir el riesgo de exposición del usuario y de los sistemas.
 
 ---
 
-​## LOS CIBERDELINCUENTES
+## LOS CIBERDELINCUENTES
 
 Los ciberdelincuentes se enfocan en obtener la información de identificación personal (PII) de los clientes: nombres, direcciones, números de identificación nacional (por ejemplo, números de seguridad social en los EE. UU., códigos fiscales en Italia) e información de tarjetas de crédito para posteriormente vender estos registros en mercados digitales clandestinos.
 
@@ -146,9 +146,9 @@ Los ciberdelincuentes se enfocan en obtener la información de identificación p
 
 ## EL PERFIL DE CIBERSEGURIDAD: LO MÁS DESEADO
 
-Los expertos en la ciberseguridad se encuentran muy demandados en el mercado laboral, y cada día este número aumenta.​
+Los expertos en la ciberseguridad se encuentran muy demandados en el mercado laboral, y cada día este número aumenta.
 
-Las empresas necesitan de estos profesionales ya que saben que la prevención es la clave para proteger la información y no verse inmiscuido en situaciones de debilidades con secuelas inmensas para dichas empresas. Por tanto, estar formado en ciberseguridad es una muy buena opción para encontrar empleo a día de hoy.​
+Las empresas necesitan de estos profesionales ya que saben que la prevención es la clave para proteger la información y no verse inmiscuido en situaciones de debilidades con secuelas inmensas para dichas empresas. Por tanto, estar formado en ciberseguridad es una muy buena opción para encontrar empleo a día de hoy.
 
 
 ---
@@ -177,13 +177,19 @@ Comúnmente se conoce como antivirus, este tipo de seguridad es imprescindible p
 
 - ransomware
 
+![image](https://user-images.githubusercontent.com/72580574/196044465-2023a8e3-19c7-4dba-a380-5261149e64dd.png)
+
+
 ### LA PROTECCIÓN ANTIFRAUDE O PISHING :
-​ 
+
 Estas es una de las más importantes, el sentido común. El engaño, se ha convertido en una de las prácticas más usadas en internet, tanto para para infectar miles de dispositivos, como para conseguir datos de los usuarios. Aquí no existen herramienas para combatir estas amenazas, se tiene que contar con el sentido común y desconfiar de lugares sospechos.
+
+
+![image](https://user-images.githubusercontent.com/72580574/196044475-da71fadd-d93a-434b-98ec-c96d78edd7dd.png)
 
 ## SER PREVISIVOS :
 
-Estas herramientas constan en conseguir por varios medios la supervivencia de la organización o empresa, después de un inconveniente de seguridad, dentro de esta solución se encuentran, copias de seguridad en la nube o en otros dispositivos, que mantienen a salvo la información de la empresa, la cual es indispensable para poder desempeñar sus funciones. También existen otras soluciones como las herramientas de recuperación de sistemas, la cual permiten restaurar un sistema desde un punto desde antes del ataque para perder el menor número posible de datos.​
+Estas herramientas constan en conseguir por varios medios la supervivencia de la organización o empresa, después de un inconveniente de seguridad, dentro de esta solución se encuentran, copias de seguridad en la nube o en otros dispositivos, que mantienen a salvo la información de la empresa, la cual es indispensable para poder desempeñar sus funciones. También existen otras soluciones como las herramientas de recuperación de sistemas, la cual permiten restaurar un sistema desde un punto desde antes del ataque para perder el menor número posible de datos.
 
 
 ### PROTECCIÓN DE COMUNICACIONES: 
@@ -191,23 +197,23 @@ Estas herramientas constan en conseguir por varios medios la supervivencia de la
 ​Estas soluciones se encargan de proteger a la organización de un grupo de amenazas, como los ataques de denegación de servicios, accesos no autorizados o la intercepción de las comunicaciones. También debemos de tener en cuenta que las amenazas no solo pueden partir desde Internet, sino también del interior de las empresas, es por ello que la protección de las comunicaciones es imprescindibles cuando existen varias oficinas o sedes en varias partes del mundo, cuando se realizan diariamente a través de internet.
 
 
-​### DOMINIOS DE CIBERSEGURIDAD:
-​ 
+### DOMINIOS DE CIBERSEGURIDAD:
+ 
 Una estrategia de ciberseguridad sólida tiene capas de protección para defenderse de los delitos cibernéticos, incluyendo aquellos  que intentan acceder, cambiar o destruir datos, extorsionar a los usuarios o la organización, o interrumpir las operaciones empresariales normales. 
 
 Las contramedidas deben abordar:
 
 - **SEGURIDAD DE INFRAESTRUCTURA FUNDAMENTAL**:Prácticas para proteger los sistemas informáticos, las redes y otros activos de los que depende la sociedad para la seguridad nacional, la economía y/o la seguridad ciudadana. ​
-​
+
 - **SEGURIDAD DE LA RED**: Medidas de seguridad para proteger una red informática de intrusos, incluidas tanto las conexiones por cable como inalámbricas (Wi-Fi).
-​
+
 - **SEGURIDAD DE LA APLICACIÓN**: Procesos que ayudan a proteger las aplicaciones que operan en entornos locales y en la nube. La seguridad debe integrarse en las aplicaciones en la etapa de diseño, teniendo en cuenta cómo se gestionan los datos, la autenticación del usuario, etc.
 
-- **​SEGURIDAD EN LA NUBE**: Información verdaderamente confidencial que cifra los datos en la nube en reposo (almacenados), en movimiento (mientras migran hacia, desde y dentro de la nube) y en uso (durante el procesamiento) para garantizar la privacidad del cliente y cumplir con los requisitos comerciales y los estándares de conformidad regulatoria.
+- **SEGURIDAD EN LA NUBE**: Información verdaderamente confidencial que cifra los datos en la nube en reposo (almacenados), en movimiento (mientras migran hacia, desde y dentro de la nube) y en uso (durante el procesamiento) para garantizar la privacidad del cliente y cumplir con los requisitos comerciales y los estándares de conformidad regulatoria.
 
-- **SEGURIDAD DE INFORMACIÓN**:  Medidas de protección de datos, como el Reglamento General de Protección de Datos o RGPD, que protegen sus datos más confidenciales contra el acceso no autorizado, la exposición o el robo.​​​​​​
+- **SEGURIDAD DE INFORMACIÓN**:  Medidas de protección de datos, como el Reglamento General de Protección de Datos o RGPD, que protegen sus datos más confidenciales contra el acceso no autorizado, la exposición o el robo.
 
-- **EDUCACIÓN DEL USUARIO FINAL**: Crear conciencia sobre la seguridad en toda la organización para fortalecer la seguridad de los puntos finales. Por ejemplo, se puede capacitar a los usuarios para eliminar archivos adjuntos de correo electrónico sospechosos, evitar el uso de dispositivos USB desconocidos, etc.​​
+- **EDUCACIÓN DEL USUARIO FINAL**: Crear conciencia sobre la seguridad en toda la organización para fortalecer la seguridad de los puntos finales. Por ejemplo, se puede capacitar a los usuarios para eliminar archivos adjuntos de correo electrónico sospechosos, evitar el uso de dispositivos USB desconocidos, etc.
 
 - **RECUPERACIÓN DE DESASTRES/ PLANIFICACIÓN DE LA CONTINUIDAD DEL NEGOCIO**:​  Herramientas y procedimientos para responder a eventos no planificados, como desastres naturales, cortes de energía o incidentes de ciberseguridad, con una interrupción mínima de las operaciones principales.
 
