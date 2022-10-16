@@ -147,3 +147,115 @@ Push : cambios compartidos en la nube
 
 ---
 ---
+
+
+# :star: Clase 8 * 19 Octubre * GitHub - GitKraken
+---
+
+## GitKraken:
+
+Es una herramienta de uso gratuito, que permite trabajar solo y por equipo de trabajo,  usando repositorios locales y públicos que se encuentran alojados en la nube.
+
+---
+
+### Clonar un repositorio desde Gitkraken:
+
+#### Para poder clonar el repositorio desde GitKraken puede realizar de dos maneras:
+
+- Vincular la cuenta de GitHub con la de Gitkraken​
+
+- Utilizar la URL del repositorio​
+
+Todos los servicios de repositorios tienen una URL pública así que se tomará este enfoque por ser el más universal. Una vez seguido los pasos en las imágenes, la URL quedará copiada en el portapapeles.
+
+![image](https://user-images.githubusercontent.com/72580574/196045266-012f76c6-0489-43a8-a489-4ee48165faa8.png)
+
+### Contenido de los Commits:
+
+Ofrece al usuario la posibilidad de añadir un cierto contenido a cada commit, fácilmente accesible por otros trabajadores de tu proyecto.
+
+La información de cada commit se encuentra en el panel de commit, que se encuentra a la derecha del grafo, y es una de las funcionalidades preferidas por los usuarios.
+
+En él también puedes ver los ficheros stageados y no stageados. Simplemente selecciona un fichero para ver los cambios linea por linea en la vista de Diff, la cual te muestra de manera exacta qué cambios se han hecho en tu código. GitKraken remarca el código que ha cambiado, permitiéndote encontrar lo que buscas en segundos.
+
+Una vez clonado nuestro repositorio nos aparecerá graficamente cada commit 
+
+![image](https://user-images.githubusercontent.com/72580574/196045276-97627690-b8d4-4869-a3f6-914bbea0202c.png)
+
+#### Viendo los cambios históricos de Commits:
+
+- En Git Bash :utilizabamos el siguiente comando ```git log --all --decorate --oneline –graph``` de una manera “más visual” podiamos observar ramas, merges y los diferentes commits
+
+![image](https://user-images.githubusercontent.com/72580574/196045297-c41f0e6a-52f4-45e5-ade5-73d0e10a3cfe.png)
+
+
+- En Git Kraken: Se puede ver claramente cuándo se hizo cada commit y por quién; todas tus ramas y cuándo se les hizo merge; y puedes hacer click a cualquier commit para ver los ficheros involucrados y ver sus diferencias con las versiones previas.
+
+![image](https://user-images.githubusercontent.com/72580574/196045327-bfaba338-99ca-4d15-9e74-631819d65a31.png)
+
+- Los miembros de tu equipo son fácilmente diferenciables por su imagen de Gravatar; cada colaborador y todos sus commits se muestran en el grafo en un único color, haciendo un grafo de tu proyecto más bonito y usable para que todos lo vean.
+
+![image](https://user-images.githubusercontent.com/72580574/196045344-42c56768-fc51-45cf-af18-168e578fc0a3.png)
+
+---
+
+### Pasos para instalar Gitkraken:
+
+1. En el buscador ingresamos al primer enlace
+
+![image](https://user-images.githubusercontent.com/72580574/196045365-97789472-9a6e-48b8-8429-b10277b8e851.png)
+
+
+2.  Seleccionen el botón de try free
+
+![image](https://user-images.githubusercontent.com/72580574/196045378-ea499e32-e45d-47db-a9e4-dcc20e9cec3c.png)
+
+
+3.  Seleccionar GitKraken Client. El pograma se descargará automaticamente. Luego siga los pasos de insatalación
+
+![image](https://user-images.githubusercontent.com/72580574/196045388-05597eb6-2458-41ee-89c5-1ed977f1ec02.png)
+
+
+4.  Nos pedirá crear usuario y contraseña y ademàs de permitirnos  enlazar con github
+
+![image](https://user-images.githubusercontent.com/72580574/196045398-34584615-434f-4859-8b09-93bdd1dd57ca.png)
+
+
+---
+
+###  Actividad nº 1 :
+
+A- Responder cuestionartio para asistencia en el campus de 21 a 23hs.
+
+1) Creamos una cuenta en GitKraken 
+
+2) Clonamos repositorio desde la nube "hola mundo"
+
+3) Añadimos 2 commit a nuestro repositorio "hola mundo"
+
+4) verificamos los cambio desde Git Desktop y en Git Kraken
+
+Para crear un repositorio local desde Gitkraken
+
+Seleccionamos init repo 
+
+![image](https://user-images.githubusercontent.com/72580574/196045432-f3d633bd-6670-4c0d-a1b0-5ab97c8c31e4.png)
+
+Colocamos nombre al nuevo repositorio 
+
+![image](https://user-images.githubusercontent.com/72580574/196045439-d429a713-cdec-4ac6-b589-1e5c863de242.png)
+
+Creamos el nuevo repositorio clase 8
+
+![image](https://user-images.githubusercontent.com/72580574/196045451-c4774dfc-e317-43b3-9cab-ada63b7e74aa.png)
+
+
+---
+
+###  Actividad nº 2 :
+
+Iniciamos un nuevo repositorio desde Gitkraken con el nombre clase 8
+
+---
+
+
