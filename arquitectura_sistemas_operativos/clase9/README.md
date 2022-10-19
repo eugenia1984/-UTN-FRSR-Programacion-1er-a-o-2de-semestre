@@ -131,7 +131,7 @@ Scrum se centra en iteraciones más pequeñas y de longitud fija. Una vez finali
 ---
 ---
 
-##:star: Actividad:
+## :star: Actividad:
 
 2- Explicar y desarrollar cada uno de los protocolos en los que un equipo de scrum puede participar. 
 
