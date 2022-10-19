@@ -18,4 +18,6 @@
 
 - [Clase 7 y 8 (05/10 y 12/10) : **Android** y **Seguridad**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase7)
 
+
+- [Clase 9 (19/10) : **Metodo Scrum**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase9)
 ---
