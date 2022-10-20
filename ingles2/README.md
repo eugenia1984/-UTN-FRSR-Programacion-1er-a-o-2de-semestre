@@ -48,7 +48,8 @@ Código de acceso: 123321
 
 - [Clase 8 y 9 - Voz pasiva y Voz Pasiva Especial](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/voz_pasiva)
 
-- Clase 10 - Oraciones condicionales
+- [Clase 10 - Oraciones condicionales](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/condicionales_0_1)
+
 
 ---
 
