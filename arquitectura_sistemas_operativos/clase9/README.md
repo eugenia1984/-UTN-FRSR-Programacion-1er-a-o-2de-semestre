@@ -111,12 +111,12 @@ Un experto en scrum eficaz conoce profundamente el trabajo que realiza el equipo
 ### <img src="https://img.icons8.com/external-basicons-solid-edtgraphics/40/000000/external-Coworkers-conference-basicons-solid-edtgraphics.png"/> El equipo de desarrollo de scrum:
 
 
-- Los equipos de scrum teams sacan el trabajo adelante. Son los que más conocen las prácticas de desarrollo sostenible. Los equipos de scrum más eficaces tienen una relación estrecha, se encuentran en la misma ubicación y están compuestos por entre cinco y siete miembros Una forma de calcular el tamaño del equipo es usar la famosa "regla de las dos pizzas" acuñada por Jeff Bezos, el director ejecutivo de Amazon (el equipo debe ser lo suficientemente pequeño como para compartir dos pizzas).​
+- Los equipos de scrum teams sacan el trabajo adelante. Son los que más conocen las prácticas de desarrollo sostenible. Los equipos de scrum más eficaces tienen una relación estrecha, se encuentran en la misma ubicación y están compuestos por entre cinco y siete miembros Una forma de calcular el tamaño del equipo es usar la famosa "regla de las dos pizzas" acuñada por Jeff Bezos, el director ejecutivo de Amazon (el equipo debe ser lo suficientemente pequeño como para compartir dos pizzas).
 
 
 - Los miembros del equipo tienen distintas habilidades y se forman entre sí para que nadie se convierta en un cuello de botella en la entrega de trabajo. Los equipos de scrum sólidos se autorganizan y enfocan sus proyectos con una clara actitud colectiva. Todos los miembros del equipo se ayudan entre sí para asegurar una finalización satisfactoria del sprint.
 
-.- l equipo de scrum impulsa el plan de cada sprint. Prevén cuánto trabajo creen que pueden finalizar a lo largo de la iteración en función de su historial de velocidad. Mantener una longitud fija de la iteración aporta al equipo de desarrollo feedback sobre su estimación y proceso de entrega, lo cual a su vez consigue que las previsiones sean cada vez más precisas
+- El equipo de scrum impulsa el plan de cada sprint. Prevén cuánto trabajo creen que pueden finalizar a lo largo de la iteración en función de su historial de velocidad. Mantener una longitud fija de la iteración aporta al equipo de desarrollo feedback sobre su estimación y proceso de entrega, lo cual a su vez consigue que las previsiones sean cada vez más precisas
 
 ---
 
