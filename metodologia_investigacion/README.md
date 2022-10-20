@@ -29,3 +29,9 @@
 ---
 
 - [Clase 7 y 8](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase7y8) : GitHub - Visibilidad de un repositorio y Kitkraken
+
+---
+
+- [Clase 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase9) : MySQL
+
+---
