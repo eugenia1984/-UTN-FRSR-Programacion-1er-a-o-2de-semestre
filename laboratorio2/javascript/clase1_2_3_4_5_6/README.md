@@ -431,3 +431,9 @@ nombre+=apellido;
 ```
 
 ---
+
+### Quokka Statusbar Buttons 
+
+- Es una extension de JavaScript para ver los iconos de play, stop, stop all
+
+---
