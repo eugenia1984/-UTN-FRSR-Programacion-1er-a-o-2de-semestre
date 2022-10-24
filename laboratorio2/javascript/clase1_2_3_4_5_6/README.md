@@ -337,6 +337,9 @@ let vacia = " "
 /=
 ```
 
+
+---
+
 2. Operadores aritmeticos:
 ```
 +
@@ -378,5 +381,20 @@ multilena*/
 ```
 
 7. Operador de aumento (```++```) y   Operador de decremento (```--```)
+
+---
+
+## :star: Clase 6
+
+### Concatenar cadenas (Strings)
+
+Ejemplo en codigo:
+
+```JavaSCript
+let nombre= "Maria Eugenia ";
+let apellido= "Costa";
+let nombreCompleto = nombre + " " + apellido;
+console.log(nombreCompleto); // Maria Eugenia Costa
+```
 
 ---
