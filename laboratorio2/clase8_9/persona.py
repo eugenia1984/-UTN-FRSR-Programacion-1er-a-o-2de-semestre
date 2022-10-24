@@ -18,3 +18,5 @@ persona1 = Persona()
 print(persona1.nombre) # Maria Eugenia
 print(persona1.apellido) # Costa
 print(persona1.edad) # 38
+
+
