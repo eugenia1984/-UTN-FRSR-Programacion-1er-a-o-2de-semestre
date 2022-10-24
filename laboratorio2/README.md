@@ -41,7 +41,7 @@
 - [Toda la teoria de Colecciones](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/README.md)
 
 
-- [Clase 8 y 9 *POO**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9) : [Creacion de una clase Persona - persona.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9/persona.py), [Creacion de objetos con argumentos y modificar atributos de un objeto- persona2.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9/persona2.py), [creacion de UML](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9/README.md)
+- [Clase 8 y 9 **POO**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9) : [Creacion de una clase Persona - persona.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9/persona.py), [Creacion de objetos con argumentos y modificar atributos de un objeto- persona2.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9/persona2.py), [creacion de UML](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9/README.md), [Métodos de instancia: Definimos un método - persona3.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9/persona3.py)
 
 ---
 ---
