@@ -52,3 +52,15 @@ let indefinida;
 console.log(`Mi variable indefinida: ${indefinida}`)
 // arrays
 const cars = ["Citroen", "Audi", "BMW"]
+
+/****** Concatenacion de String *******/
+let nombre= "Maria Eugenia";
+let apellido= "Costa";
+let nombreCompleto = nombre + " " + apellido;
+console.log(nombreCompleto); // Maria Eugenia Costa
+let juntos = nombre + 219; // Lee de izquierda a derecha por lo que concatena el String con el Number
+console.log(juntos); // Maria Eugenia219
+juntos = nombre + 1 + 2;
+console.log(juntos); // Maria Eugenia12
+juntos = 1 + 2 + nombre; // primero suma los numbers y luego concatena
+console.log(juntos); // 3Maria Eugenia

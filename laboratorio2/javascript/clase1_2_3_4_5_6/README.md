@@ -391,10 +391,43 @@ multilena*/
 Ejemplo en codigo:
 
 ```JavaSCript
-let nombre= "Maria Eugenia ";
+let nombre= "Maria Eugenia";
 let apellido= "Costa";
 let nombreCompleto = nombre + " " + apellido;
 console.log(nombreCompleto); // Maria Eugenia Costa
+```
+
+- String + Number
+```JavaSCript
+let juntos = nombre + 219; // Lee de izquierda a derecha por lo que concatena el String con el Number
+console.log(juntos); // Maria Eugenia219
+```
+
+Sigue concatenando:
+```JavaScript
+juntos = nombre + 1 + 2;
+console.log(juntos); // Maria Eugenia12
+```
+
+- Number + Number + String
+```JavaScript
+juntos = 1 + 2 + nombre; // primero suma los numbers y luego concatena
+console.log(juntos); // 3Maria Eugenia
+```
+
+Lo que puedo hacer en el ejemplo anterior es agregar los () para alterar la precedencia, asi me hace la suma:
+```JavaScript
+juntos = nombre + (1 + 2);
+console.log(juntos); // Maria Eugenia3
+```
+
+-> Contexto string
+
+- Concatenar con el operador simplificado (no sirve de mucho, si son dos strings me falta el espacio entre medio). 
+
+Ejemplo:
+```JavaScript
+nombre+=apellido;
 ```
 
 ---
