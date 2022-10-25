@@ -33,7 +33,7 @@ Los objetos tienen **propiedades** especificas, tales como posicion, tamaño, co
 ```
 > numerador: 3
 > denominador : 2
----
+```
 
 - Metodos (acciones):
 ```
@@ -47,5 +47,58 @@ Los objetos tienen **propiedades** especificas, tales como posicion, tamaño, co
 ## ¿Que es una clase ?
 
 Una clase es un conjunto de objetos que comparten uan estructura y comportamientos comunes.
+
+-> Volviendo con el ejemplo de la **class Auto**:
+
+```
+miCoche1
+
+------------------
+Atributos
+------------------
+> color: "Rojo"
+> marca: "Ferrari"
+> km: "0Km"
+
+------------------
+Metodos
+------------------
+> encender()
+> acelerar()
+```
+
+
+```
+miCoche2
+
+------------------
+Atributos
+------------------
+> color: "Negro"
+> marca: "Audi"
+> km: "0Km"
+
+------------------
+Metodos
+------------------
+> encender()
+> acelerar()
+```
+
+
+```
+-------------------
+Coche
+------------------
+> color
+> marca
+> km:
+------------------
+Metodos
+------------------
+> encender()
+> acelerar()
+> frenar()
+```
 
 ---
