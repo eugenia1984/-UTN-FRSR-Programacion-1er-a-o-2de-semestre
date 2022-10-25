@@ -1,0 +1,1 @@
+# Método init Dunder con argumentos variables
