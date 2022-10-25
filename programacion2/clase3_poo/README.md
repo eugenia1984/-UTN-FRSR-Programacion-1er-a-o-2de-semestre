@@ -86,6 +86,7 @@ Metodos
 ```
 
 
+**La class Coche**:
 ```
 -------------------
 Coche
@@ -99,6 +100,27 @@ Metodos
 > encender()
 > acelerar()
 > frenar()
+```
+
+---
+
+### Diagrama general de una clase Java
+
+```
+--------------------------
+   Persona                     <---- nombre de la clase
+---------------------------
+-nombre: String
+-genero: char                  <------- atributos
+-ocupacion: String
+--------------------------
++obtenerNombre(): String
++obtenerGenero(): String
++obtenerOcupacion(): String     <------ metodos
++modificarNombre(nombre: String)
++modificarGenero(genero: String)
++modificarOcupacion(ocupacion: String)
+--------------------------
 ```
 
 ---
