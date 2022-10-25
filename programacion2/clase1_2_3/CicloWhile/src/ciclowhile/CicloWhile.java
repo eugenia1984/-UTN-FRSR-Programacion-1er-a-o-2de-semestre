@@ -138,7 +138,8 @@ public class CicloWhile {
                  System.out.print("No has acertado, el número es menor. Prueba otra vez: ");
          }
          System.out.println("LO HAS ADIVINADO");
-         // Ejercicio 6
+         
+         // EJERCICIO 6
          // Ingresar numeros y sumarlos hasta ingresar 0
             int numero = 1;
             int suma = 0;
@@ -150,6 +151,26 @@ public class CicloWhile {
 
             System.out.println("La suma de todos los numeros ingresados es: " + suma);
         
+            // EJERCICIO 7
+            // Pedir numeros hasta que se ingrese uno negativo y calcular la media
+            int numero2 = 0;
+            int conteo2 = 0;
+            int suma2 = 0;
+            float promedio2 = 0;
+            
+            System.out.println("Ingrese un numero: ");
+            while(numero2 >= 0) { // Mientras el numeor no sea negativo
+                suma2 += numero2;
+                conteo2++;
+                numero2 = read.nextInt();
+            }
+            if(conteo == 0) {
+                System.out.println("Error, la division entre 0 no existe");
+            } else {
+                promedio2 = (float) suma2/conteo2;
+                System.out.println("El promedio es: " + promedio2);
+            }
+            
     }
     
 }
