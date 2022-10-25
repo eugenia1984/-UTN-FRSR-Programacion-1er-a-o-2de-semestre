@@ -23,7 +23,7 @@ public class PruebaAritmetica {
         
         //  Un método llamando a otro método
         int resultadoLlmanadoAOtroMetodo = aritmetica1.sumarLllamandoAOtroMetodo(5, 7);
-        System.out.println("EL resultado de la suma invocando a otro metodo que suma es: " +
+        System.out.println("El resultado de la suma invocando a otro metodo que suma es: " +
                 resultadoLlmanadoAOtroMetodo);
     }
     

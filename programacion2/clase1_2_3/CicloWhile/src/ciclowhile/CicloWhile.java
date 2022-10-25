@@ -171,6 +171,38 @@ public class CicloWhile {
                 System.out.println("El promedio es: " + promedio2);
             }
             
+            // EJERCICIO 8
+            // Pedir un numero N y mostrar todos los numeros del 1 al N
+            System.out.println("Ingrese un numero: ");
+            int numero3 = read.nextInt();
+            int i = 1;
+            while( i <= numero3 ) {
+                System.out.println(i);
+                i++;
+            }
+                    
+            // EJERICICO 9
+            // Pedir el dia, mes y año y una fecha e indicar
+            // si la fecha es correcta
+            // Suponiendo que todos los meses son de 30 dias
+            System.out.println("Ingrese un dia (en numeros): ");
+            int dia = read.nextInt();
+            System.out.println("Ingrese el mes (en numero): ");
+            int mes = read.nextInt();
+            System.out.println("Ingrese el año: ");
+            int anio = read.nextInt();
+            if(dia != 0 && dia <= 30) {
+                if(mes != 0 && mes <= 12) {
+                    if(anio != 0 && anio <= 2022) {
+                        System.out.println("La fecha ingresada es: "+dia+"/"+mes+"/"+anio);
+                    } else {
+                        System.out.println("FEcha incorrecta. Año incorrecto");}
+                } else {
+                    System.out.println("Fecha incorrecta. Mes incorrecto.");
+                }            
+            } else {
+                System.out.println("Fecha incorrecta. Dia incorrecto");
+            }
     }
     
 }
