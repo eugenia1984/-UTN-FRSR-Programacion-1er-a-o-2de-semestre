@@ -124,3 +124,17 @@ Metodos
 ```
 
 ---
+
+### Inroduccion a las clases y objetos en Java
+
+- Una **clase** es una **plantilla** (como un molde de tortas)
+
+```
+   Persona (class) -posee atributos y metodos-
+   |         |
+   v         v
+ Karla     Armando
+(objeto)   (objeto)
+```
+
+- Un **objeto** es una **instancia de una clase**
