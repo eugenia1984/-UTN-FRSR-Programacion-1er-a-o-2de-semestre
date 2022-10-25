@@ -138,6 +138,17 @@ public class CicloWhile {
                  System.out.print("No has acertado, el número es menor. Prueba otra vez: ");
          }
          System.out.println("LO HAS ADIVINADO");
+         // Ejercicio 6
+         // Ingresar numeros y sumarlos hasta ingresar 0
+            int numero = 1;
+            int suma = 0;
+            do {
+                System.out.println("Ingrese un numero: ");
+                numero = read.nextInt();
+                suma+= numero;
+            } while (numero != 0);
+
+            System.out.println("La suma de todos los numeros ingresados es: " + suma);
         
     }
     
