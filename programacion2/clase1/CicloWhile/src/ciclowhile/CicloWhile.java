@@ -1,7 +1,7 @@
 package ciclowhile;
 
 import java.util.Scanner;
-import java.lang.Math;
+import java.util.Random;
 
 public class CicloWhile {
 
@@ -100,6 +100,45 @@ public class CicloWhile {
             }
             
         } while(numeroIntroducido2 != 0);
+        /*
+        EJERCICIO 4
+        Pedir numeros hasta que se introduzca uno negativo y mostrar
+        cuantos numeros se han introducido
+        */
+        int numeroIntroducido3;
+        int contador3 = 0;
+        
+        do {
+            System.out.println("Ingrese un numero: ");
+            numeroIntroducido3 = read.nextInt();
+            if (numeroIntroducido3 >= 0) {
+                contador3++;
+            } 
+            
+        } while(numeroIntroducido3 > 0);
+        System.out.println("Se han indocido: " + contador3 + " numeros positivos.");
+        /*
+        EJERCICIO 5
+        Realizar un juego para adivinar un numero, para ello generar
+        un numero aleatorio entre 0 y 100 y luego ir pidiendo numeros 
+        indicando "es mayor" o "es menor" segun sea mayor o menor
+        con respecto a N.
+        El proceso termina cuando el usuario acierta y mostramos
+        el numero de intentos hechos
+        */
+        int numeroAleatorio = 0;
+        int entrada = 0;
+        Random rd = new Random();
+        numeroAleatorio = rd.nextInt(101);
+        System.out.print("Se ha generado un numero aleatorio entre 1 y 100. Intente adivinarlo: ");
+         while (numeroAleatorio != (entrada = read.nextInt())){
+             if (entrada < numeroAleatorio)
+                 System.out.print("No has acertado, el número es mayor. Prueba otra vez: ");
+             else
+                 System.out.print("No has acertado, el número es menor. Prueba otra vez: ");
+         }
+         System.out.println("LO HAS ADIVINADO");
+        
     }
     
 }
