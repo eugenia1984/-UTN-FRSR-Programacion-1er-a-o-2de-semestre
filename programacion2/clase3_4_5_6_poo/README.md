@@ -222,5 +222,11 @@ public Aritmetica(int numero1, int numero2) {
 
 Las variables **numero1** y **numero2** son parametros que se reciben en la funcion, por mas que tiene el mismo nombre no son los argumentos, por eso para setear esos valores a los argumentos es que utilizamos el **this** para decirle esta variable que me llega como argumento va a dar el valor al atributo.
 
+-> El alcance de la variable esta dentro del metodo que se definio, en el caso de las variables dentro de los metodos
+
+-> Hay variables locales, cuando creamos en el main, se declaran al principio y se pueden utilizar durante todo el programa. (en realidad serian las globales, pero el profesor le puso local, esta mal, encima usa var en vez de aclarar el tipo de dato, sigue con la inferencia de tipo -al menos aclaro que var no se usa dentro del metodo cuando se declara el parametro-).
+
+-> En el mismo main, al cerrarlo, debajo podemos crear nuevos metodos con el acceso **public**.
+
 
 ---
