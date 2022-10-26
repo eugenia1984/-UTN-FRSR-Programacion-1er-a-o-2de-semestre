@@ -147,9 +147,12 @@ En esta clasificación se encuentran los más conocidos por nosotros como las di
 
 - REALIZAR  CUESTIONARIO PARA LA ASISTENCIA EN EL AULA DEL CAMPUS  DE 19 A 21HS. ->> Ya se hizo en el campus
 
-1- REalizar un **Mapa Mental** con **MindMeinster** (actividad grupal) y dasarrollar los puntos principales sobre Sistemas Opoerativos. 
+1- Realizar un **Mapa Mental** con **MindMeinster** (actividad grupal) y dasarrollar los puntos principales sobre Sistemas Opoerativos. 
 
 Entregar uno solo por grupo con nombre de los integrantes.
+
+![image](https://user-images.githubusercontent.com/72580574/198158006-20939615-6078-45e3-9c5b-91ac0d7ed4bd.png)
+
 
 2- Responde las siguientes preguntas sobre la lo visto de sistemas operativo: (Actividad Grupal) Fecha de entrega 24/08. Nombre del grupo y los integrantes que participaron. Enviar al correo dela profesora 1 solo trabajo grupo
 
