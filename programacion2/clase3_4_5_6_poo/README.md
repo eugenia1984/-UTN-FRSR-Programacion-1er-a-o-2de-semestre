@@ -243,11 +243,35 @@ public class PruebaAritmetica {
     
     // Metodo fuera del main, siendo public lo puedo invocar
     public static void miMetodo() {
-        int numero1 = 10; // esa variable es local dle metodo
+        int numero1 = 10; // esa variable es local del metodo
         System.out.println("Aqui hay otro metodo");
     }
     
 }
 ```
+
+---
+
+### Ingineer Java: Memoria stack y heap
+
+Stack/heap es una clasificacion de la memoria.
+
+-> **stack** son las variables locales, solo almacena la referencia del objeto.
+
+-> **hep** para los atributos y objetos.
+
+La memoria trabaja de manera dinamica.
+
+En Java no se utiliza asignarle un valor null a una variable. Se suele hacer para que la memoria quede limpia, peor en realidad Java tiene el **garbage collector**, por lo que no es necesario esto.
+
+Hay un metodo para limpiar:
+
+```Java
+System.gc();
+```
+
+gc -> garbage collector
+
+es un metodo sin parametros
 
 ---
