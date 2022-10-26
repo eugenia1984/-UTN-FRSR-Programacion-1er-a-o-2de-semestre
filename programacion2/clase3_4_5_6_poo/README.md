@@ -228,5 +228,26 @@ Las variables **numero1** y **numero2** son parametros que se reciben en la func
 
 -> En el mismo main, al cerrarlo, debajo podemos crear nuevos metodos con el acceso **public**.
 
+```Java
+package Operaciones;
+
+/**
+ * @author Maria Eugenia Costa
+ */
+public class PruebaAritmetica {
+
+    public static void main(String[] args) {
+        // instancio el metodo fuera del main
+        miMetodo();
+    }
+    
+    // Metodo fuera del main, siendo public lo puedo invocar
+    public static void miMetodo() {
+        int numero1 = 10; // esa variable es local dle metodo
+        System.out.println("Aqui hay otro metodo");
+    }
+    
+}
+```
 
 ---
