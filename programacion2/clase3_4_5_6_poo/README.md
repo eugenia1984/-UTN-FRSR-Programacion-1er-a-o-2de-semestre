@@ -210,4 +210,17 @@ public class Aritmetica {
 }
 ```
 
+### Alcance de variables
+
+```Java
+public Aritmetica(int numero1, int numero2) {
+       this.numero1 = numero1;
+       this.numero2 = numero2;
+       System.out.println("Se esta ejecutando el contructor numero dos");
+   }
+```
+
+Las variables **numero1** y **numero2** son parametros que se reciben en la funcion, por mas que tiene el mismo nombre no son los argumentos, por eso para setear esos valores a los argumentos es que utilizamos el **this** para decirle esta variable que me llega como argumento va a dar el valor al atributo.
+
+
 ---
