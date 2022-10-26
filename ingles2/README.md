@@ -50,7 +50,7 @@ Código de acceso: 123321
 
 - [Clase 10 - Oraciones condicionales: Tipo 0 y 1](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/condicionales_0_1)
 
-- Clase 11 - Oraciones Condicionales: Tipo 2 y 3
+- [Clase 11 - Oraciones Condicionales: Tipo 2 y 3](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2/condicionales_2_3)
 
 
 ---
