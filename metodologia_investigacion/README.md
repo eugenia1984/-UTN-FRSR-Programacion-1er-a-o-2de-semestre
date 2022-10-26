@@ -26,18 +26,18 @@
 
 ---
 
-- [Clase 6 (05/10)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase6): GitHub - ramas
+- [Clase 6 (28/09)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase6): GitHub - ramas
 
 ---
 
-- [Clase 7 y 8](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase7y8) : GitHub - Visibilidad de un repositorio y Kitkraken
+- [Clase 7 y 8 (05/10) y (12/10)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase7y8) : GitHub - Visibilidad de un repositorio y Kitkraken
 
 ---
 
-- [Clase 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase9) : MySQL
+- [Clase 9 (19/10)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase9) : MySQL
 
 ---
 
-- Clase 10 : MySQL
+- [Clase 10 (26/10)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase10) : MySQL
 
 ---
