@@ -25,6 +25,12 @@ public class PruebaAritmetica {
         int resultadoLlmanadoAOtroMetodo = aritmetica1.sumarLllamandoAOtroMetodo(5, 7);
         System.out.println("El resultado de la suma invocando a otro metodo que suma es: " +
                 resultadoLlmanadoAOtroMetodo);
+        
+        // Instancio un nuevo objeto de la clase Aritmetica utilizando 
+        //el constructor con los 2 parametros
+        Aritmetica aritmetica2 = new Aritmetica(5, 8);
+        System.out.println("aritmetica2 - primer atributo :" +aritmetica2.numero1);
+        System.out.println("aritmetica2 - srgundo atributo: "+aritmetica2.numero2);
     }
     
 }
