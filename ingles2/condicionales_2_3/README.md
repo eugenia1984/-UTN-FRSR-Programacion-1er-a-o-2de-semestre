@@ -1,4 +1,4 @@
-# :star: CLase 10 * Condicionales Tipo 0 y 1
+# :star: Clase 11 * Condicionales Tipo 2 y 3
 
 ---
 
