@@ -165,6 +165,8 @@ SELLECCIONANDO EL MALETÍN LES APARECERÁ UNA LISTA DE HERRAMIENTAS QUE PUEDEN U
 
 3. Crear una cuenta en Jira
 
+![image](https://user-images.githubusercontent.com/72580574/198157729-71ca96a9-c3ed-43cb-8281-6626a15388d4.png)
+
 
 ---
 
