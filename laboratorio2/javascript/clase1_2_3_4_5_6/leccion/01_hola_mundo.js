@@ -70,3 +70,28 @@ x = 17, y = 22; // Se pueden hacer asignacion de varias variables dentro de lo m
 let z = x + y; // Se asigna el valor a la operacion z = 17 + 22
 console.log(z); // 39
 
+/********* Encontrar números Pares e Impares *******/
+let numeroParOImpar = Number(prompt("Ingresa un numero para decir si es par o impar: "));
+
+if (numeroParOImpar == null || isNan(numeroParOImpar)) {
+  alert("Debes ingresar un numero!);
+}
+        
+if(numeroParOImpar % 2 === 0) {
+    alert("Es un numero PAR");
+} else {
+  alert("Es un numero IMPAR");
+}
+
+  /********** Es mayor de edad **************/
+  let edadAChequear = Number(prompt("Ingresa tu edad (en numeros) para decirte si sos mayor de edad: "));
+
+if (edadAChequear == null || isNan(edadAChequear)) {
+  alert("Debes ingresar un numero!);
+}
+        
+if(edadAChequear >= 18) {
+    alert("Eres mayor de edad");
+} else {
+  alert("Eres menor de edad");
+}
