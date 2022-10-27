@@ -454,3 +454,42 @@ nombre+=apellido;
 -> No se pueden utilizar las palabras reservadas al nombrar una variables.
 
 ---
+
+##Comparacion y comparacion estructa
+
+**==** en este caso ```2 == "2"``` es true, porque no se compara el tipo de dato almacenado -> revisa el valor sin importar el tipo
+
+**===*** en este caso si se compara el tipo de dato almacenado, entonces: ```2 === "2"```  es false -> revisa el valor y el tipo
+
+---
+
+## Operador de aumento y decremento
+
+```JavaScript
+let z = ++a; // PreIncremento
+z = a++; // PosIncremento
+z = --a; // PreDecremento
+z = a--; // PosDecremento
+```
+
+---
+
+##Distinto y estrictamente distinto
+
+**!=** Comprueba valor sin revisar el tipo
+
+**!==** comprueba valor y el tipo
+
+---
+
+### Operadores relacionales
+
+**<** menor que...
+
+**>** mayor que ...
+
+**<=** menor o igual que ...
+
+**>=** mayor o igual que ...
+
+---
