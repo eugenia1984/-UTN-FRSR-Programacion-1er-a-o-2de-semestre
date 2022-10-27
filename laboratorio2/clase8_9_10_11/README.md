@@ -140,6 +140,34 @@ def __Str__(self):
 ```
 
 
+---
 
+### Ejercciio : uso de herencia
+
+Definir una clase padre llamada Vehiculo y dos clases hijas llamas Auto y Bicicleta, las cuales heredan de la clase padre Vehiculo.
+
+La clase padre debe tener los siguientes atributos y metodos:
+
+- Vehiculo (clase padre)
+
+-Atributos (color, ruedas)
+
+-Metodos (__init__(color, ruedas) y __str__())
+
+- Auto(clase hija de Vehiculo)
+
+-Atributos (velocidad(km/h))
+
+-Metodos (__init__(color, ruedas, velocidad) y __str__())
+
+- Bicicleta(clase hija de Vehiculo)
+
+-Atributos(tipo(urbana, montaña, etc))
+
+-Metodos(__init__(color, ruedas, tipo) y __str__())
+
+-> crear un objeto de cada clase
+
+-> armar el diagrama UML
 
 ---
