@@ -118,3 +118,59 @@ Si yo quiero combinar o relacionar lo que vendrían siendo, las vendría siendo 
 
 ---
 
+### Creamos una Base de Datos : con el nombre Datos
+
+![image](https://user-images.githubusercontent.com/72580574/198162049-825a995d-c6ae-4ef5-8d34-e429ab83b512.png)
+
+Nos ubicamos dentro de la base de datos creada y creamos una tabla de nombre Estudiantes
+
+![image](https://user-images.githubusercontent.com/72580574/198162078-aa26bad9-f76c-4fbf-9544-72168a5b7420.png)
+
+Ubicados en la tabla : 
+
+-> añadiran las columnas: nombre, apellido y edad, luego hagan clikc en apply y luego en Finish.
+
+La tendremos nuestra tabla creada en nuestra base de Datos
+
+![image](https://user-images.githubusercontent.com/72580574/198162191-73b5585e-b61b-468e-b7cf-66197e20e71d.png)
+
+![image](https://user-images.githubusercontent.com/72580574/198162251-dd0ebcc2-da25-4367-93a2-3054134a77b2.png)
+
+
+En edad cambiamos el tipo de dato a INT y en la columna NN, tildamos todas las casillas segun la cantidad de columnas
+
+![image](https://user-images.githubusercontent.com/72580574/198162266-5573e618-c92c-44c8-8ee4-78fd9facbe4f.png)
+
+Hacemos click en finish
+
+![image](https://user-images.githubusercontent.com/72580574/198162284-30bafb3a-3f5e-4aba-bb66-17fbd00fdd85.png)
+
+Nos aparecerá la tabla creada dentro de la base de datos
+
+![image](https://user-images.githubusercontent.com/72580574/198162314-f649c051-545a-4b3e-8722-f5710813b2bd.png)
+
+
+---
+
+### Actividades:
+
+1. Realizar el cuestionario para la asistencia en el campus
+
+
+2. Creamos una base de Datos con el nombre "Datos"
+
+3. Creamos una tabla  con el nombre " Estudiante" dentro de nuestra base de Datos con  las siguientes columnas:
+
+- Nombre
+
+- Apellido 
+
+- Edad
+
+---
+
+
+
+
+
+
