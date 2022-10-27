@@ -14,4 +14,3 @@ print(empleado1)
 print(f"nombre: {empleado1.nombre}")  
 print(f"edad: {empleado1.edad}")
 print(f"sueldo: {empleado1.sueldo}")
-
