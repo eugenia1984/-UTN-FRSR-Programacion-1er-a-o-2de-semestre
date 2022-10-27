@@ -45,7 +45,7 @@ Como aca estamos en Pyhon, solo se pone el nombre del atributo, no es necesario 
 
 - Vamos a tener la clase **Persona** con los atributos : **nombre** y **edad**. Y la clase **Empleado** que va a heredar de persona y ademas va a tener su propio atributo **sueldo**.
 
--> Esta dentro de la carpeta [**poo**]()https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/poo/Persona.py
+-> Esta dentro de la carpeta [**poo**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/poo/Persona.py)
 
 
 ```Python
@@ -66,4 +66,15 @@ print(f"nombre: {empleado1.nombre}")
 print(f"edad: {empleado1.edad}")
 print(f"sueldo: {empleado1.sueldo}")
 ```
+
+### Tarea
+
+Encapsular los atributos y agregar los metodos getters y setters.
+
+Crear otro objeto, pasar los datos para nombre, edad y sueldo.
+
+Mostrar estos datos, luego modificar nuevamente.
+
+-> Realizad en [**poo/Persona2.py**]()
+
 ---
