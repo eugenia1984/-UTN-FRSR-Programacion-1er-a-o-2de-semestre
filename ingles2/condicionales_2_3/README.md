@@ -142,6 +142,24 @@ Uso -> verdades absolutas cientificas
 
 Ejemplo -> If you heat water it boils. (Si calentas agua hierve)
 
+- **TIPO 1 (IF + PRESENTE SIMPLE) + (FUTURO SIMPLE)**:
+
+Uso ->  se refiere a un hecho que se producira seguro
+
+Ejemplo -> If you invite me to your party I will go (Si me invitas a tu fiesta ire)
+
+- **TIPO 2 (IF + PASADO SIMPLE) + (CONDICIONAL SIMPLE)**
+
+Uso ->  Expresamos duda de que la accion se vaya a producir
+
+Ejemplo -> If you invited me I would go (Si me invitaras yo iria)
+
+- **TIPO 3 (PASADO PERFECTO) + (CONDICIONAL PERFECTO)**:
+
+Uso -> Imposibilidad de que la accion se produzca porque ya ha tenido lugar
+
+Ejemplo -> If you had invited me I would have gone (SI me hubieras invitado yo habria ido)
+
 ---
 
 ¡Ahora es tu turno!
