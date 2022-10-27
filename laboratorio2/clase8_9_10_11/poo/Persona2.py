@@ -14,18 +14,23 @@ class Persona:
     self._nombre = nombre
   def edad(self, edad):
     self._edad = edad
+  def __str__(self):
+    return f"Persona: {self._nombre}  {self._edad} "
 
 class Empleado(Persona): # extiende de la clase Persona
   def __init__ (self, nombre, edad, sueldo):
     super().__init__(nombre, edad)
     self._sueldo = sueldo
-    # getter
-    @property
-    def sueldo(self):
-      return self._sueldo
-    # setter
-    def sueldo(self, sueldo):
-      self._sueldo = sueldo
+  # getter
+  @property
+  def sueldo(self):
+    return self._sueldo
+  # setter
+  def sueldo(self, sueldo):
+    self._sueldo = sueldo
+  #overrides
+  def __str__(self):
+    return f"Empleado: sueldo {self._sueldo} {super().__str__()}"
 
 # Instancio un objeto empleado
 empleado1 = Empleado("Ana", 40, 110000)  

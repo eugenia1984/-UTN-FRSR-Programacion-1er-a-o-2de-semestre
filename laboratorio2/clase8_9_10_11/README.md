@@ -77,7 +77,7 @@ Mostrar estos datos, luego modificar nuevamente.
 
 -> Realizada en [**poo/Persona2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/poo/Persona2.py)
 
-```Pythono
+```Python
 class Persona:
   def __init__(self, nombre, edad):
     self._nombre = nombre
@@ -99,13 +99,13 @@ class Empleado(Persona): # extiende de la clase Persona
   def __init__ (self, nombre, edad, sueldo):
     super().__init__(nombre, edad)
     self._sueldo = sueldo
-    # getter
-    @property
-    def sueldo(self):
-      return self._sueldo
-    # setter
-    def sueldo(self, sueldo):
-      self._sueldo = sueldo
+  # getter
+  @property
+  def sueldo(self):
+    return self._sueldo
+  # setter
+  def sueldo(self, sueldo):
+    self._sueldo = sueldo
 
 # Instancio un objeto empleado
 empleado1 = Empleado("Ana", 40, 110000)  
@@ -113,6 +113,33 @@ print(empleado1)
 print(f"nombre: {empleado1._nombre}")  
 print(f"edad: {empleado1._edad}")
 print(f"sueldo: {empleado1._sueldo}")
-````
+```
+
+---
+
+### Metodo dunder __str__()
+
+Dentro de **poo** creamos **ClientPersona.py**.
+
+Vamos a importar: ``` from Persona import *```
+
+Es como el **toString** de Java, para que en vez de mostrar el espacio en memoria me muestre las propiedades del objeto.
+
+Entonces volvemos a Persona2.py y hacemos los cambios:
+
+```Python
+def __str__(self):
+  return (f"Persona: {self._nombre} {self._edad}")
+```
+
+Y en la clase EMpleado:
+
+```Python
+def __Str__(self):
+  return f"Empleado: sueldo {self._sueldo} {super().__str__()}"
+```
+
+
+
 
 ---
