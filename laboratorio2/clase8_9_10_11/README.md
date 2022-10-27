@@ -170,6 +170,6 @@ La clase padre debe tener los siguientes atributos y metodos:
 
 -> armar el diagrama UML
 
--> Lo resuelvo todo dentro de **herencia**
+-> Lo resuelvo todo dentro de [**herencia**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/herencia)
 
 ---
