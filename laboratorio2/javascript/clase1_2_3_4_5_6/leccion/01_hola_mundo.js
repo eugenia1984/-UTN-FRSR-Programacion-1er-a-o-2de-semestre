@@ -64,3 +64,9 @@ juntos = nombre + 1 + 2;
 console.log(juntos); // Maria Eugenia12
 juntos = 1 + 2 + nombre; // primero suma los numbers y luego concatena
 console.log(juntos); // 3Maria Eugenia
+
+let x, y; // Se pueden crear varias variables dentro de una misma linea
+x = 17, y = 22; // Se pueden hacer asignacion de varias variables dentro de lo msima linea
+let z = x + y; // Se asigna el valor a la operacion z = 17 + 22
+console.log(z); // 39
+
