@@ -437,3 +437,15 @@ nombre+=apellido;
 - Es una extension de JavaScript para ver los iconos de play, stop, stop all
 
 ---
+
+## :star: Clase 7
+
+###Similitudes con Java y JavaSCript
+
+- Las palabras reservadas:
+
+![palabras reservadas](https://user-images.githubusercontent.com/72580574/198385274-f3c683dc-1918-4516-bb51-1a8db74f1133.png)
+
+
+---
+
