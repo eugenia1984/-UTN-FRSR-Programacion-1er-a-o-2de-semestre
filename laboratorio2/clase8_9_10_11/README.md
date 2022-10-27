@@ -43,4 +43,6 @@ Asi la clase hija va a extender/heredar (**extends**) de la clase padre los mism
 
 Como aca estamos en Pyhon, solo se pone el nombre del atributo, no es necesario ocmo el UML de Java que ponemos el tipo de dato que va a guardar.
 
+- Vamos a tener la clase **Persona** con los atributos : **nombre** y **edad**. Y la clase **Empleado** que va a heredar de persona y ademas va a tener su propio atributo **sueldo**.
+
 ---
