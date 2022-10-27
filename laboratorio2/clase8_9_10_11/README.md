@@ -75,6 +75,8 @@ Crear otro objeto, pasar los datos para nombre, edad y sueldo.
 
 Mostrar estos datos, luego modificar nuevamente.
 
--> Realizad en [**poo/Persona2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/poo/Persona2.py)
+-> Realizada en [**poo/Persona2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/poo/Persona2.py)
+
+
 
 ---
