@@ -21,6 +21,8 @@
  |--------------------|
          ^
          |
+         | << extends >>
+         |
   |----------------------|
   |      persona1        |
   |----------------------|
@@ -30,5 +32,15 @@
   |----------------------|      
 
 ```
+
+---
+
+## :star: Clase 11
+
+- Vemos un UML creandolo en el VSC con la extension **UMLet**.
+
+Asi la clase hija va a extender/heredar (**extends**) de la clase padre los mismos atributos y metodos.
+
+Como aca estamos en Pyhon, solo se pone el nombre del atributo, no es necesario ocmo el UML de Java que ponemos el tipo de dato que va a guardar.
 
 ---
