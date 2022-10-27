@@ -1,0 +1,33 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>120</x><y>60</y><w>210</w><h>190</h></coordinates><panel_attributes>&lt;&lt; Vehiculo &gt;&gt;
+
+--
+
+-icolor:str
+-ruedas: int
+
+--
+
+__init__(color, rueda)
+__str__()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>20</x><y>330</y><w>210</w><h>170</h></coordinates><panel_attributes> &lt;&lt; Auto &gt;&gt;
+
+--
+
+-velocidad: int
+
+--
+
+__init__(color, ruedas, velocidad)
+__str__()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>330</y><w>210</w><h>180</h></coordinates><panel_attributes>&lt;&lt; Bicicleta &gt;&gt;
+
+--
+
+-tipo: str
+
+--
+
+__init__(color, ruedas, tipo)
+__str__()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>120</x><y>250</y><w>110</w><h>80</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt; extends  &gt;&gt;</panel_attributes><additional_attributes>30;10;12;60</additional_attributes></element><element><id>Relation</id><coordinates><x>310</x><y>250</y><w>100</w><h>80</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt; extends &gt;&gt;</panel_attributes><additional_attributes>10;10;32;60</additional_attributes></element></diagram>
