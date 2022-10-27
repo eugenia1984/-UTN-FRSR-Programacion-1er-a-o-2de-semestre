@@ -449,3 +449,8 @@ nombre+=apellido;
 
 ---
 
+-> Al designar variables no pueden comenzar con numeros ni caracteres especiales, deben empezar con letras, y luego si pueden contener numeros , el guion bajo o el guion medio.
+
+-> No se pueden utilizar las palabras reservadas al nombrar una variables.
+
+---
