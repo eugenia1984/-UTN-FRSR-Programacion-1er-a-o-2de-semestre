@@ -45,4 +45,25 @@ Como aca estamos en Pyhon, solo se pone el nombre del atributo, no es necesario 
 
 - Vamos a tener la clase **Persona** con los atributos : **nombre** y **edad**. Y la clase **Empleado** que va a heredar de persona y ademas va a tener su propio atributo **sueldo**.
 
+-> Esta dentro de la carpeta [**poo**]()https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/poo/Persona.py
+
+
+```Python
+class Persona:
+  def __init__(self, nombre, edad):
+    self.nombre = nombre
+    self.edad = edad
+
+class Empleado(Persona): # extiende de la clase Persona
+  def __init__ (self, nombre, edad, sueldo):
+    super().__init__(nombre, edad)
+    self.sueldo = sueldo
+
+# Instancio un objeto empleado
+empleado1 = Empleado("Ana", 40, 110000)  
+print(empleado1) 
+print(f"nombre: {empleado1.nombre}")  
+print(f"edad: {empleado1.edad}")
+print(f"sueldo: {empleado1.sueldo}")
+```
 ---
