@@ -276,7 +276,7 @@ es un metodo sin parametros
 
 ---
 
-###Paso por valor
+### Paso por valor
 
 -> Creo el ejercicio en el paquete **PasoPorValorReferencia**
 
