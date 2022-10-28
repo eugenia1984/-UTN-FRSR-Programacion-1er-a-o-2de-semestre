@@ -203,6 +203,17 @@ public class CicloWhile {
             } else {
                 System.out.println("Fecha incorrecta. Dia incorrecto");
             }
+            
+            // EJERCICIO 10
+            // Pedir 10 numeros y escribir la suma total
+            int numero4 = 0;
+            int suma3 = 0;
+            for (int index = 0; index < 10; index++) {
+                System.out.println("Ingrese un numero: ");
+                numero4 = read.nextInt();
+                suma3+= numero4;
+            }
+            System.out.println("La suma de los numeros ingresados es: " + suma3);
     }
     
 }
