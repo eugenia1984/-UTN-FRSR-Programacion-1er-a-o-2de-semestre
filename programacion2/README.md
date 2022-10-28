@@ -15,7 +15,7 @@
 
 - [Clase 7 (14/10)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo/Aritmetica), [Ejercicio 11 de Ciclos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase1_2_3/CicloWhile), [Usando la palabra this](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/programacion2/clase3_4_5_6_poo/Aritmetica/src/Operaciones/Persona.java), [Encapsulamiento - ejercicio](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8/Encapsulamiento) y [teoria](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/programacion2/clase3_4_5_6_poo/README.md), [diagrama UML para Java](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8/herencia.uxf)
 
-- Clase 8 (21/10): [Encapsulamiento, Constructores, Getters y Setters, toString](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8/Encapsulamiento)
+- Clase 8 (21/10): [Encapsulamiento, Constructores, Getters y Setters, toString](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8/Encapsulamiento), Contexto Estatico y Contexto Dinamico
 
 - Clase 9 (28/10)
 

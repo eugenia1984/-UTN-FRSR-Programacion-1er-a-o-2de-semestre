@@ -38,5 +38,11 @@ public class Persona {
     public void setEliminado(boolean eliminado) {
         this.eliminado = eliminado;
     }
+
+    @Override
+    public String toString() {
+        return "Persona{" + "nombre=" + nombre + ", sueldo=" + sueldo + 
+            ", eliminado=" + eliminado + '}';
+    }
     
 }
