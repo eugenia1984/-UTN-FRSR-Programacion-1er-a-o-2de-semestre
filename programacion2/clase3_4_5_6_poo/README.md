@@ -353,3 +353,22 @@ public class PasoPorValorReferencia {
  ```
  
  ---
+ 
+ ## :star: Clase 7
+ 
+ ### Usando la palabra this
+ 
+ ```Java
+ public class Persona {
+    String nombre;
+    String apellido;
+        
+    Persona(String nombre, String apellido) { // Constructor
+        this.nombre = nombre;
+        this.apellido = apellido;
+        System.out.println("Objeto persona usando this: " + this);
+    }
+}
+```
+
+
