@@ -24,7 +24,7 @@ public class ProyectoCaja {
         
         // Isntancio un nuevo objeto con el contructor que recibe argumentos
         Caja caja2 = new Caja(2, 4, 6);
-        System.out.println("El vlumen de una caja de 2 x 4 x 6 es: "+
+        System.out.println("El volumen de una caja de 2 x 4 x 6 es: "+
                 caja2.calcularVolumen());
     }
     
