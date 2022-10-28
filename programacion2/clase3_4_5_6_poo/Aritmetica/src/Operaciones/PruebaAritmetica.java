@@ -6,6 +6,8 @@ package Operaciones;
 public class PruebaAritmetica {
 
     public static void main(String[] args) {
+        // instancio el metodo fuera del main
+        miMetodo();
         // instancio un objeto de la clase Aritmetica
         Aritmetica aritmetica1 = new Aritmetica();
         aritmetica1.numero1 = 3;
@@ -29,8 +31,14 @@ public class PruebaAritmetica {
         // Instancio un nuevo objeto de la clase Aritmetica utilizando 
         //el constructor con los 2 parametros
         Aritmetica aritmetica2 = new Aritmetica(5, 8);
-        System.out.println("aritmetica2 - primer atributo :" +aritmetica2.numero1);
-        System.out.println("aritmetica2 - srgundo atributo: "+aritmetica2.numero2);
+        System.out.println("aritmetica2 - primer atributo :" +aritmetica2.numero1); // 5
+        System.out.println("aritmetica2 - srgundo atributo: "+aritmetica2.numero2); // 8
+    }
+    
+    // Metodo fuera del main, siendo public lo puedo invocar
+    public static void miMetodo() {
+        int numero1 = 10; // esa variable es local del metodo
+        System.out.println("Aqui hay otro metodo");
     }
     
 }
