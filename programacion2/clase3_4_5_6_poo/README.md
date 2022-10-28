@@ -334,3 +334,22 @@ public class PasoPorValorReferencia {
     
 }
 ```
+
+---
+
+## null y return
+
+```Java
+// Return
+    public static Persona cambiarElValor(Persona persona) {
+        if(persona == null) {
+            System.out.println("Valor invalido");
+            return null;
+        } else {
+            persona.nombre = "Monica";
+        return persona;
+        }
+    }
+ ```
+ 
+ ---
