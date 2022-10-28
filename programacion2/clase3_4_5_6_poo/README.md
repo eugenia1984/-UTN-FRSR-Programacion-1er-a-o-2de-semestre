@@ -388,3 +388,19 @@ public class Persona {
 }
 ```
 
+---
+
+## Notacion DONA de un objeto Java
+
+```
++getDato1() 
++setDato1()
+...           <--- Interface o
++getDatoN()        Metodos del
++setDatoN()        Objeto
+----------
+-dato1
+-dato2        <---- Estado 
+...                 del objeto
+-datoN
+```
