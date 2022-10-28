@@ -33,6 +33,13 @@ public class PruebaAritmetica {
         Aritmetica aritmetica2 = new Aritmetica(5, 8);
         System.out.println("aritmetica2 - primer atributo :" +aritmetica2.numero1); // 5
         System.out.println("aritmetica2 - srgundo atributo: "+aritmetica2.numero2); // 8
+        
+        // Instancio un nuevo objeto de la clase Persona
+        Persona persona = new Persona("Ana", "Costes");
+        System.out.println("persona = " + persona);
+        System.out.println("persona - nombre : " + persona.nombre);
+        System.out.println("persona - apellido " + persona.apellido);
+        
     }
     
     // Metodo fuera del main, siendo public lo puedo invocar
@@ -40,5 +47,6 @@ public class PruebaAritmetica {
         int numero1 = 10; // esa variable es local del metodo
         System.out.println("Aqui hay otro metodo");
     }
+    
     
 }
