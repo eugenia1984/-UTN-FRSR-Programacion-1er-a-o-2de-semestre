@@ -12,4 +12,8 @@ public class PersonaPrueba {
         System.out.println("persona2 -> " + persona2);
     }
     
+    public void imprimir(Persona persona) {
+        System.out.println("");
+    }
+    
 }
