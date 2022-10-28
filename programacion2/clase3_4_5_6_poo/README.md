@@ -404,3 +404,11 @@ public class Persona {
 ...                 del objeto
 -datoN
 ```
+
+### Modificador de acceso private
+
+- El objeto esta encapsulado
+
+- Solo se accede por medio de los getters y setters.
+
+---
