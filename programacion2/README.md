@@ -2,7 +2,7 @@
 
 ---
 
-##  <img src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png"/> Clases
+##  <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/> Clases
 
 ### Ciclos (Loops)
 
