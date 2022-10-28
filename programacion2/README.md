@@ -8,5 +8,8 @@
 
 - [Clase 3 (09/09) - Clase 4 (16/09) - Clase 5 (23/09) - clase 6 (30/09)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo) : Scanner - [POO - teoria](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo/README.md), [POO ejercicio](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo/Clases), [Clase Aritmetica, Metodos sin retorno, Metodos con retorno, Paso de argumentos a un metodo, Sobrecarga de metodos, Alcance de variables](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo/Aritmetica), [Ingineer Java: Memoria stack y heap y tratamiento de residuos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo/README.md),  [Ejercicio: Proyecto Caja](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo/ProyectoCaja), [Paso por valor, Paso por referencia, return y null](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo/PasoPorValorReferencia) , [Ejercicio 10 de Ciclos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase1_2_3/CicloWhile)
 
+
+- [Clase 7 (14/19)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase3_4_5_6_poo/Aritmetica)
+
 ---
 
