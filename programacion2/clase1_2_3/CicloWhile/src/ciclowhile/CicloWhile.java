@@ -214,6 +214,17 @@ public class CicloWhile {
                 suma3+= numero4;
             }
             System.out.println("La suma de los numeros ingresados es: " + suma3);
+            
+            // EJERCICIO 11
+            // Perdi un numero y calcular su factorial
+            long factorial = 1;
+            int numero5 = 0;
+            System.out.println("Ingrese un numero para calcular su factorial: ");
+            numero5 = read.nextInt();
+            for (int j = 0; j < numero5; j++) {
+                factorial *= j;
+            }
+            System.out.println("El factorial dle numero ingresado es: " + factorial);
     }
     
 }
