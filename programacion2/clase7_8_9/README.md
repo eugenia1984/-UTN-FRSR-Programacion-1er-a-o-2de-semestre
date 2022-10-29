@@ -40,4 +40,6 @@ PALABRA STATIC
 
 - Vamos a poner ne codigo el diagrama UML visto en la ultima clase.
 
+-> {aca esta el ejercico en codigo}(https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8_9/Herencia)
+
 ---
