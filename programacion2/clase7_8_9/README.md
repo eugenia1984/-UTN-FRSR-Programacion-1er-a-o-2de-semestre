@@ -28,3 +28,16 @@ PALABRA STATIC
 --------------------- 
 
 ```
+
+### Comenzamos con otra practica de HERENCIA
+
+![image](https://user-images.githubusercontent.com/72580574/198844787-df2d2030-2778-4af8-8d86-8c83ab55992d.png)
+
+
+---
+
+## :star: Clase 9
+
+- Vamos a poner ne codigo el diagrama UML visto en la ultima clase.
+
+---
