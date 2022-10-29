@@ -17,7 +17,7 @@
 
 - Clase 8 (21/10): [Encapsulamiento, Constructores, Getters y Setters, toString](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8_9/Encapsulamiento), [Contexto Estatico y Contexto Dinamico](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8_9/Readme.md), [ejercicio de contexto estatico](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8_9/ContextoEstatico)
 
-- Clase 9 (28/10): [ejercicio de herencia con las clases: Persona, EMpleado y Cliente](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8_9/Herencia)
+- Clase 9 (28/10): [ejercicio de herencia con las clases: Persona, Empleado y Cliente](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8_9/Herencia) y [teoria de POO](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/programacion2/clase7_8_9/README.md)
 
 ---
 
