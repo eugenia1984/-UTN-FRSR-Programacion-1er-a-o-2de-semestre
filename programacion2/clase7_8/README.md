@@ -28,3 +28,7 @@ PALABRA STATIC
 --------------------- 
 
 ```
+
+## Hacemos el UML
+
+![image](https://user-images.githubusercontent.com/72580574/198844507-510a1736-4137-4b76-8e0f-8820a2af6d44.png)
