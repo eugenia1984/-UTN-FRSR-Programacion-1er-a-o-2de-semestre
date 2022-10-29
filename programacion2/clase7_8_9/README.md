@@ -123,3 +123,44 @@ A través de este mismo proceso de abstracción, definimos sus métodos: iniciar
 ---
 
 
+### Ejemplo con class Usuario
+
+- Atributos:
+
+```
+-Nombres
+-Apellidos
+-Correo
+_Contraseña
+-Premium
+```
+
+- Metodos:
+
+```
+-iniciarSesion
+-cerrarSesion
+-editarPerfil
+-cambiarContraseña
+-pasarAPremium
+-publicarEnComunidad
+```
+
+---
+
+Obviamente en el proceso podemos darnos cuenta que necesitamos también del atributo país, género, fecha de nacimiento y los agregamos. Ya tenemos la estructura y los agregamos sin problemas. Estos objetos se crean en código, obviamente, pero te imaginas que, para cada vez que un usuario quiera registrarse a la empresa, ¿llamemos al programador y lo pongamos a escribir código para el usuario? no sería eficiente. Tendríamos una cola de cientos de usuarios esperando que el programador termine con el actual, para pasar al siguiente.
+
+¿Cómo resolvemos este problema? usamos algo llamado clase.
+
+### ¿ Que es una clase ?
+
+La clase es una plantilla, un molde, que tiene esa estructura básica del objeto (atributos: datos y métodos: funcionalidad). En el ejemplo anterior, no creamos realmente el objeto-usuario, creamos la plantilla (la clase). Entonces, cada vez que una persona se registra en la empresa, realmente está usando la clase que ya creamos y que ya está en el código, para crear nuevos objetos (usuarios).
+
+Ese proceso de crear objetos a partir de una plantilla, llamada clase, se llama instanciar. Por eso es que cada uno de esos objetos, también se les llama instancia, y de esa manera, es que, con una sola clase, podemos crear decenas o cientos de usuarios sin tener que escribir código nuevamente. Solamente escribimos una vez la plantilla.
+
+En este punto, debes tener claro, que un objeto tiene datos (atributos) y funcionalidad (métodos ) y que a través de una clase, podemos crear varios objetos. ¿Cómo es el proceso de usar estos objetos en una aplicación real? Te lo mostraré con un ejemplo, para que nunca más tengas dudas.
+
+---
+
+
+
