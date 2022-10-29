@@ -40,11 +40,11 @@ PALABRA STATIC
 
 - Vamos a poner ne codigo el diagrama UML visto en la ultima clase.
 
--> {aca esta el ejercico en codigo}(https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8_9/Herencia)
+-> {aca esta el ejercico en codigo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2/clase7_8_9/Herencia)
 
 ---
 
-## POO
+## :star: POO
 
 #### ¿ Que es ?
 
@@ -93,4 +93,33 @@ Por ejemplo:
 Cada uno de estos elementos en los que vamos dividiendo el sistema, es un objeto, y los objetos, tienen datos y funcionalidades.
 
 ---
+
+- Con la Programación Orientada a Objetos pasamos de tener un código de arriba hacia abajo, en el que las funcionalidades están mezcladas y son difíciles de separar o escalar, a un sistema en el que tenemos los elementos (Objetos) separados y se comunican entre ellos:
+
+- El usuario se comunica con el producto para comprarlo.
+
+- El producto se comunica con el carrito para ser agregado.
+
+- El carrito se comunica con la pasarela de pago y con el usuario.
+
+- De esta manera es más fácil manejar y mantener un sistema y hacerlo crecer. Si luego necesitáramos otra funcionalidad, podemos agregar otro objeto, o incluso, agregarle atributos o funcionalidad a los objetos que ya existen.
+
+---
+
+### Atributos y metodos
+
+Como dije antes, los objetos tienen datos y funcionalidad y en la POO se les llama de esta manera:​
+
+Datos → **Atributos**
+
+Funcionalidad → **Métodos**
+
+Cada objeto tiene sus atributos y sus métodos. Te pondré un caso de vida real para que quede mucho más claro. Estamos programando la aplicación de cursos de una empresa, y queremos crear usuarios, entonces hacemos un proceso llamado abstracción. Significa pensar los atributos y métodos que debería de tener este usuario para la aplicación.
+
+Luego de la reflexión, llegamos a la conclusión de que nuestro usuario debe tener: nombres, apellidos, contraseñas y premium (sería un valor que puede ser verdadero o falso).
+
+A través de este mismo proceso de abstracción, definimos sus métodos: iniciar sesión, cerrar sesión, editar su perfil y contraseña, pasar a premium o publicar un artículo en la comunidad.
+
+---
+
 
