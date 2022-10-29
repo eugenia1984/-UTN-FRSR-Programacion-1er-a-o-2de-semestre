@@ -1,4 +1,4 @@
-### Clase 8
+### :star: Clase 8
 
 #### Contexto estatico y Contexto Dinamico
 
@@ -161,6 +161,92 @@ Ese proceso de crear objetos a partir de una plantilla, llamada clase, se llama 
 En este punto, debes tener claro, que un objeto tiene datos (atributos) y funcionalidad (métodos ) y que a través de una clase, podemos crear varios objetos. ¿Cómo es el proceso de usar estos objetos en una aplicación real? Te lo mostraré con un ejemplo, para que nunca más tengas dudas.
 
 ---
+
+
+### POO en una aplicacion real
+
+El siguiente esquema representa el proceso que tiene que seguir un usuario para convertirse en un estudiante premium de esta empresa.
+
+Tenemos al tío Alex, que para este ejemplo, no conoce la empresa. Un amigo le recomienda la aplicación, porque tiene cursos excelentes y puedes comenzar gratis. Él entra en la web de la empresa y decide registrarse. En el proceso de registro, invoca a la clase usuario y la instancia, y entonces crea su usuario. Ese nuevo usuario es el 528, que tiene como nombre Alex, y de apellido, Lomas.
+
+-> Registro (Class Usuario)
+
+-> Recogemos las propiedades del nuevo usuario (nombre, apellidos, contraseña, etc) y creamos el objeto → usuario_528.
+
+Este usuario comienza a consumir los cursos gratis de la empresa y le gustan mucho, pero se da cuenta que tendrá acceso a más de 200 cursos si pasa a premium, y no solo a las gratuitos. El usuario va a subir a premium y elige el plan que mejor se adapte a él e introduce sus datos de compra. En ese momento, está llamando a la clase orden de compra, que instancia a un objeto, asociado a este usuario.
+
+-> Pagar (Class Orden_de_compra)​
+
+Esta clase obtendrá las siguientes propiedades: Método de pago, id de usuario, etc y creará una instancia asociada a nuestro usuario_528 
+
+-> Orden_de_compra_528.
+
+Esta orden de compra se debe procesar, y si es correcto, se valida el pago. Entonces llama a otra clase, la clase premium, y se instancia en un objeto premium, también con el mismo ID del usuario.
+
+-> asar a premium (Class Premium)
+
+La clase premium tiene como propiedades: cursos, especialidades, clases en vivo, etc.
+
+Se crea el objeto 
+
+->  Premium_528 
+
+y se le asigna los beneficios al usuario_528
+
+Entonces, es importante que recuerdes que las clases ya están en el sistema. Los cubos grises de la imagen son las clases, que en el proceso, se instancian para crear objetos reales, como el usuario y orden de compra. Así es como funciona la programación orientada a objetos.
+
+Recuerda que las clases son las plantillas, y los objetos se crean a partir de esas plantillas. Por ejemplo, el plano de una casa sería el equivalente a una clase, porque a partir de ese plano puedes crear varios objetos. Y el proceso de crear varios objetos a partir de una clase, se llama instanciar.
+
+
+---
+
+### Pilares de la POO
+
+La programación orientada a objetos como paradigma, se basa en cuatro pilares fundamentales: abstracción, encapsulamiento, polimorfismo y herencia. Estos términos son la base de la POO y al comienzo, puede ser un poco confuso entenderlo.
+
+1. ABSTRACCION
+
+E. ENCAPSULAMIENTO
+
+3. POLIMORFISMO
+
+4. HERENCIA
+
+1. **ABSTRACCION** :
+
+De este término ya unos párrafos más arriba. ¿Te acuerdas? cuando queríamos crear un usuario. El proceso de abstracción es pensar que atributos y qué métodos iba a tener.
+
+Cuando creamos un sistema, tenemos que hacer una abstracción para todas las clases. Por ejemplo, en la empresa creada, serían: los cursos, las clases, las suscripciones, las publicaciones en la comunidad. Cada uno de estos elementos sería una clase, y tenemos que hacer ese proceso mental: qué atributos y qué métodos van a tener cada uno. Esos conceptos hay que llevarlos y convertirlos en clases.
+
+2. **ENCAPSULAMIENTO**:
+
+Como ya hemos visto, los objetos se comunican entre ellos. Esto podría traer problemas de seguridad si un objeto puede modificar los datos de cualquier otro. Por eso, se necesita proteger la información de manipulaciones no autorizadas. De esta manera, cuando se comunican los objetos, hay caminos que se pueden seguir y hay caminos que no, datos protegidos, datos privados o públicos, métodos para acceder a cierta información, entre otros. Así se mantiene organizado el sistema.
+
+Imagínate que cualquier objeto pueda acceder a cualquier información sin autorización, puede ocasionar cambios indebidos, que puede hacer que todo el sistema colapse y se caiga.
+
+3. **POLIMORFISMO**:
+
+Volvamos a recordar el esquema del tío Alex convirtiéndose en premium.​
+
+Cuando pasas a premium, se notifica vía tres canales en la empresa: slack, web y correo. La primera es privada para nuestro equipo, mientras que las últimas dos, es visible para el usuario, confirmándole que ya es premium.
+
+Si te das cuenta, es la misma funcionalidad (notificación), aunque internamente cada uno de esos métodos funciona diferente. Es decir, la notificación de Slack tiene su propia API, métodos y lógica, igual para la web y el correo. Pero en esencia, es la misma acción. Eso nos simplifica mucho el trabajo porque podemos dar ordenes coherentes a varios objetos sin preocuparnos cómo se ejecutarán.
+
+Por ejemplo, si le decimos al tío Alex y a mí que bailemos, cada uno lo hará de forma diferente, cada uno a su modo. Sin embargo, nos dieron una orden y la cumplimos, aunque a nuestra manera particular. Eso es el polimorfismo, poder darle la misma orden a diferentes objetos y que cada uno de ellos respondan a su propia manera.
+
+4. **HERENCIA**:
+
+Este pilar de la POO es, quizás, el más fácil de entender porque tiene relación con el mundo real. Por ejemplo, mis hijos han heredado muchas cosas de mí, tanto atributos como funcionalidades. En atributos, podemos decir que el color de ojos, el cabello o el color de piel. En la funcionalidad, el carácter o personalidad. Sin embargo, ninguno es una copia exacta de mí. Sobre esas cosas que han heredado, tienen sus propios atributos y funcionalidad.
+
+Es lo mismo que en la programación orientad a objetos. Tenemos una clase padre, y las clases hijas heredan funcionalidades y atributos, pero no son idénticas. Solamente aprovechan eso que ya existen y luego se le añaden nuevas cosas.
+
+Por ejemplo, si tenemos una clase para crear usuarios genéricos, pero luego necesitamos un usuario diferente, de staff, solamente para el equipo de la empresa y que tenga diferentes funcionalidades y atributos que un usuario normal ¿Qué podemos hacer? crear una nueva clase que herede de la clase padre, y esa sería el staff.​
+
+Si luego necesitamos otro usuario que sea profesor, entonces heredamos de la clase usuario y creamos la clase profesor, y de allí, creamos todos los usuarios de profesores del equipo. Ahora bien, si queremos meter invitados a la página, personas que sin pagar una suscripción puedan tener acceso a los sorteos o campañas, podemos crear un rol de invitados. Y así funciona la herencia en la POO.
+
+---
+
+
 
 
 
