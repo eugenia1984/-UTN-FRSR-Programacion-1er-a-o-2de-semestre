@@ -208,3 +208,28 @@ print(bicicleta1)
 ```
 
 ---
+
+## :star: Clase 9 Herencia multiple
+
+En Python tenemos **herencia ultiple**
+
+---
+
+-> Realizamos el diagrama UML:
+
+```
+----------------------    -----------------
+<<FiguraGeometrica>>        <<Color>>
+--------------------     ------------------
++alto                    +color
++ancho
+---------------------    -----------------
+       \                     / 
+         \                 /
+           \             /
+         --------------------
+            << Cuadrado>>
+         -------------------
+         +area()
+         --------------------   
+```
