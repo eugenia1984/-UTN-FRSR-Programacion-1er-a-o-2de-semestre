@@ -493,3 +493,23 @@ z = a--; // PosDecremento
 **>=** mayor o igual que ...
 
 ---
+---
+
+## :star: Clase 8 *  var, let y const
+
+---
+
+### &&
+
+-> si todo es true -> true
+
+-> si al menos uno es false -> false
+
+### OR ( || )
+
+-> Con que al menos uno sea true -> true
+
+
+
+---
+---
