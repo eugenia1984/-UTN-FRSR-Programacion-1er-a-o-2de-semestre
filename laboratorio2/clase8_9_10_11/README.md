@@ -235,3 +235,21 @@ En Python tenemos **herencia ultiple**
 ```
 
 -> Creamos las clases el [leccion9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/leccion9)
+
+---
+
+### MRO Method Resolution Order
+
+-> Nos permite conocer la gerarquia de las clases frente a la clase actual que estamos utilizando.
+
+```Python
+print(Cuadrado.mro())
+```
+
+---
+
+-> Agregamos a nuestro UML la nueva clase Resctangulo
+
+-> Agregamos los getters, setters y _ _str_ _ a todas als clases padres y a las hijas (Cuadrado y Rectangulo solo el _ _str_ _)
+
+---

@@ -1,10 +1,25 @@
-<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>40</x><y>80</y><w>170</w><h>70</h></coordinates><panel_attributes>&lt;&lt; FiguraGeometrica &gt;&gt;
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>40</x><y>10</y><w>170</w><h>140</h></coordinates><panel_attributes>&lt;&lt; FiguraGeometrica &gt;&gt;
 --
 +alto
-+ancho</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>280</x><y>80</y><w>190</w><h>70</h></coordinates><panel_attributes>&lt;&lt; Color &gt;&gt;
++ancho
 --
-+color</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>150</x><y>250</y><w>190</w><h>70</h></coordinates><panel_attributes>&lt;&lt; Cuadrado  &gt;&gt;
++get_alto()
++set_alto(alto)
++get_ancho
++set_ancho(ancho)
++__str__()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>280</x><y>40</y><w>190</w><h>110</h></coordinates><panel_attributes>&lt;&lt; Color &gt;&gt;
 --
-+area()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>120</x><y>140</y><w>130</w><h>130</h></coordinates><panel_attributes>lt=&lt;.
-&lt;&lt;instanceOf&gt;&gt;</panel_attributes><additional_attributes>10;10;70;110</additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>140</y><w>130</w><h>130</h></coordinates><panel_attributes>lt=&lt;.
-&lt;&lt;instanceOf&gt;&gt;</panel_attributes><additional_attributes>70;10;10;110</additional_attributes></element></diagram>
++color
+--
++get_color()
++set_color(color)
++__str__()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>160</x><y>260</y><w>140</w><h>70</h></coordinates><panel_attributes>&lt;&lt; Cuadrado  &gt;&gt;
+--
++area()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>120</x><y>140</y><w>140</w><h>140</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;instanceOf&gt;&gt;</panel_attributes><additional_attributes>10;10;80;120</additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>140</y><w>130</w><h>140</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;instanceOf&gt;&gt;</panel_attributes><additional_attributes>60;10;10;120</additional_attributes></element><element><id>UMLClass</id><coordinates><x>350</x><y>260</y><w>210</w><h>70</h></coordinates><panel_attributes>&lt;&lt; Rectangulo &gt;&gt;
+--
++area()
++__Str__()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>150</y><w>120</w><h>120</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;instanceOf&gt;&gt;</panel_attributes><additional_attributes>10;10;50;100</additional_attributes></element><element><id>Relation</id><coordinates><x>190</x><y>140</y><w>190</w><h>140</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;instanceOf&gt;&gt;</panel_attributes><additional_attributes>10;10;170;120</additional_attributes></element></diagram>
