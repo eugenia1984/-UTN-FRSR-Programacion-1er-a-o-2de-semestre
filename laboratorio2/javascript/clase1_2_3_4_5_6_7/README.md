@@ -474,7 +474,7 @@ z = a--; // PosDecremento
 
 ---
 
-##Distinto y estrictamente distinto
+## Distinto y estrictamente distinto
 
 **!=** Comprueba valor sin revisar el tipo
 
