@@ -95,3 +95,14 @@ if(edadAChequear >= 18) {
 } else {
   alert("Eres menor de edad");
 }
+
+// Ejecicio dentro de un rango
+let dentroRango = 5; // vamos a ir cambiando para ver si estamos en el rango
+let valorMinimo = 0;
+let valorMaximo = 10;
+
+if(dentroRango>= valorMinimo && dentroRango<= valorMaximo) {
+  console.log("esta dentro del rango");
+} else {
+  console.log("Esta fuera del rango");
+}
