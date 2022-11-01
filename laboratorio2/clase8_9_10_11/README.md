@@ -233,3 +233,5 @@ En Python tenemos **herencia ultiple**
          +area()
          --------------------   
 ```
+
+-> Creamos las clases el [leccion9]
