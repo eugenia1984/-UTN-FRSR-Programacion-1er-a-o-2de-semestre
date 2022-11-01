@@ -106,3 +106,50 @@ if(dentroRango>= valorMinimo && dentroRango<= valorMaximo) {
 } else {
   console.log("Esta fuera del rango");
 }
+
+/******* var, let, const ******/
+/*
+Con var podes reasignar en cualquier momento 
+este forma parte del ambito global
+Un error es que se sobreescriba
+*/
+var nombre10 = "Ariel";
+nombre10 = "Osvalso";
+console.log(nombre10); // Osvaldo
+
+function saludar() {
+  var nombre10 = "Natalia";
+  console.log(nombre10);
+}
+console.log(nomrbe10); // Osvaldo, no lee Natalia, el ambito global sobreescribe y pisa el ambito local de la funcion
+
+if(true) {
+  var edad10 = 34;
+  console.log(edad10); // 34
+}
+console.log(edaad10); // en la funcion esta ok, en la estructura if fallo
+
+/*
+let: este puede ser reasignada en cualquier momento
+la diferencia es que su ambito es de bloque,
+solo disponible dentro de un bloque de llaves
+o dentro de una funcion
+*/
+function saludar2() {
+  let nombre11 = "Ariel";
+  console.log(nombre11);
+}
+console.log(nombre11); // nombre11 is not defined
+
+if(true) {
+  let edad11 = 33;
+  console.log(edad11);
+}
+console.log(edad11);
+
+/*
+const se utiliza para valores constantes que no pueden ser reasignados
+*/
+const fechaDeNacimeinto = 2006;
+console.log(fechaDeNacimeinto); // 2006
+}
