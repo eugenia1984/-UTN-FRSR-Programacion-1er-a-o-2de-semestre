@@ -440,7 +440,7 @@ nombre+=apellido;
 
 ## :star: Clase 7
 
-###Similitudes con Java y JavaSCript
+### Similitudes con Java y JavaScript
 
 - Las palabras reservadas:
 
