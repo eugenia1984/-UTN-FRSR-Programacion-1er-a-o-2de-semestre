@@ -505,11 +505,35 @@ z = a--; // PosDecremento
 
 -> si al menos uno es false -> false
 
+---
+
 ### OR ( || )
 
 -> Con que al menos uno sea true -> true
 
 
+---
+
+### var, let y const
+
+-> var esta deprecado.
+
+-> se utiliza **let** y **const**.
+
+```JavaScript
+nombre2 = "Pedro";
+console.log(nombre2); // any porque no fue declarada ni con var, ni let ni const
+```
+
+-> Siempre hay que declararlas con let o const
+
+```JavaScript
+const apellido2 = "Lepes";
+// apellido2 = "Costes"; 
+// me da error porque no puedo reasignar valor a una constante
+```
+
+Las constantes se declaran y asignan valor al mismo tiempo, y luego no se le puede reasignar un valor.
 
 ---
 ---
