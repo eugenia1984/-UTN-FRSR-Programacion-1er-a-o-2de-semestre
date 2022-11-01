@@ -234,4 +234,4 @@ En Python tenemos **herencia ultiple**
          --------------------   
 ```
 
--> Creamos las clases el [leccion9]
+-> Creamos las clases el [leccion9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/leccion9)
