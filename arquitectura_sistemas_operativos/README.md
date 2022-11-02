@@ -23,6 +23,6 @@
 
 - [Clase 10 (26/10) : **Metodo Scrum - Artefactos**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase10)
 
-- [Clase 11 (2/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase11)
+- [Clase 11 (2/11) : **Metodo Scrum**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase11)
 
 ---
