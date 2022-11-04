@@ -42,29 +42,29 @@
 
 #### POO
 
-- [Clase 8, 9, 10 y 11 **POO**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11) : 
+- [Clase 8, 9, 10, 11 y 12 **POO**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12) : 
 
--[Creacion de una clase Persona - persona.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/persona.py)
+-[Creacion de una clase Persona - persona.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12/persona.py)
 
--[Creacion de objetos con argumentos y modificar atributos de un objeto- persona2.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/Persona2.py)
+-[Creacion de objetos con argumentos y modificar atributos de un objeto- persona2.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12/Persona2.py)
 
--[creacion de UML](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/README.md)
+-[creacion de UML](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12/README.md)
 
--[Métodos de instancia: Definimos un método - persona3.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/Persona3.py)
+-[Métodos de instancia: Definimos un método - persona3.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12/Persona3.py)
 
--[clase ARitmetica con la suma, resta, multiplicacion y division](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Aritmetica.py)
+-[clase ARitmetica con la suma, resta, multiplicacion y division](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/Aritmetica.py)
 
--[clase Rectangulo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Rectangulo.py)
+-[clase Rectangulo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/Rectangulo.py)
 
--[clase Cubo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Cubo.py)
+-[clase Cubo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/Cubo.py)
 
--[Método init Dunder con argumentos variables, Encapsulamiento](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Persona4.py)
+-[Método init Dunder con argumentos variables, Encapsulamiento](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/Persona4.py)
 
--[Métodos: setter and getter, Atributos read-only (solo lectura)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Perros.py)
+-[Métodos: setter and getter, Atributos read-only (solo lectura)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/Perros.py)
 
--[uso de clases , modulos , Comprobación del módulo principal en ejecución y Eliminacion de Objetos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/PruebaPersona2.py)
+-[uso de clases , modulos , Comprobación del módulo principal en ejecución y Eliminacion de Objetos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/PruebaPersona2.py)
 
--[herencia multiple - leccion 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/leccion9)
+-[herencia multiple - leccion 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/leccion9)
 
 
 ---
@@ -80,8 +80,8 @@
 - [Clase 1 , 2 , 3 , 4 , 5 , 6 , 7 y 8](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3_4_5_6_7):
 
 ```
--Caracteristicas de Java Script
--Variables
+-caracteristicas de Java Script
+-variables
 -console.log
 -alert()
 -sintaxis de los comentarios

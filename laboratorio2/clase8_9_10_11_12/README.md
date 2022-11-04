@@ -45,7 +45,7 @@ Como aca estamos en Pyhon, solo se pone el nombre del atributo, no es necesario 
 
 - Vamos a tener la clase **Persona** con los atributos : **nombre** y **edad**. Y la clase **Empleado** que va a heredar de persona y ademas va a tener su propio atributo **sueldo**.
 
--> Esta dentro de la carpeta [**poo**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/poo/Persona.py)
+-> Esta dentro de la carpeta [**poo**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/poo/Persona.py)
 
 
 ```Python
@@ -75,7 +75,7 @@ Crear otro objeto, pasar los datos para nombre, edad y sueldo.
 
 Mostrar estos datos, luego modificar nuevamente.
 
--> Realizada en [**poo/Persona2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/poo/Persona2.py)
+-> Realizada en [**poo/Persona2.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/poo/Persona2.py)
 
 ```Python
 class Persona:
@@ -132,7 +132,7 @@ def __str__(self):
   return (f"Persona: {self._nombre} {self._edad}")
 ```
 
-Y en la clase EMpleado:
+Y en la clase Empleado:
 
 ```Python
 def __Str__(self):
@@ -170,7 +170,7 @@ La clase padre debe tener los siguientes atributos y metodos:
 
 -> armar el diagrama UML
 
--> Lo resuelvo todo dentro de [**herencia**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/herencia)
+-> Lo resuelvo todo dentro de [**herencia**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12/herencia)
 
 ```Python
 class Vehiculo:
@@ -234,7 +234,51 @@ En Python tenemos **herencia ultiple**
          --------------------   
 ```
 
--> Creamos las clases el [leccion9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/leccion9)
+-> Creamos las clases el [leccion9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12/leccion9), con los archivos:
+
+**FiguraGeometrica.py**:
+```Python
+class FiguraGeometrica:
+  def __init__(self, ancho, alto):
+    self.ancho = ancho
+    self.alto = alto
+```    
+
+**Cuadrado.py**:
+```Python
+from FiguraGeometrica import FiguraGeometrica
+from Color import Color
+
+class Cuadrado(FiguraGeometrica, Color):
+  def __init__(self, lado, color):
+    # super.__init__(lado)
+    FiguraGeometrica.__init__(self, lado, lado)
+    Color.__init__(self, color)
+
+  def calcular_area(self):
+    return self.alto * self.ancho
+```
+
+**Color.py**:
+```Python
+class Color:
+  def __init__(self, color):
+    self.color = color
+```
+
+**prueba.py**:
+```Python
+from Cuadrado import Cuadrado
+
+cuadrado1 = Cuadrado(5, "Azul")
+print(f"El ancho dle cuadrado es: {cuadrado1.ancho}")
+print(f"El alto del cuadrado es: {cuadrado1.ancho}")
+print(f"El area es: {cuadrado1.calcular_area()}")
+
+# MRO 
+print(Cuadrado.mro()) 
+```
+
 
 ---
 
