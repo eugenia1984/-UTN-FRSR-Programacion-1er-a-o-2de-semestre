@@ -40,8 +40,31 @@
 
 - [Toda la teoria de Colecciones](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase1_2_3/README.md)
 
+#### POO
 
-- [Clase 8, 9, 10 y 11 **POO**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11) : [Creacion de una clase Persona - persona.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/persona.py), [Creacion de objetos con argumentos y modificar atributos de un objeto- persona2.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/Persona2.py), [creacion de UML](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/README.md), [Métodos de instancia: Definimos un método - persona3.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/Persona3.py), [clase ARitmetica con la suma, resta, multiplicacion y division](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Aritmetica.py),  [clase Rectangulo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Rectangulo.py), [clase Cubo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Cubo.py), [Método init Dunder con argumentos variables, Encapsulamiento](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Persona4.py), [Métodos: setter and getter, Atributos read-only (solo lectura)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Perros.py), [uso de clases , modulos , Comprobación del módulo principal en ejecución y Eliminacion de Objetos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/PruebaPersona2.py), [herencia multiple - leccion 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/leccion9)
+- [Clase 8, 9, 10 y 11 **POO**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11) : 
+
+-[Creacion de una clase Persona - persona.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/persona.py)
+
+-[Creacion de objetos con argumentos y modificar atributos de un objeto- persona2.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/Persona2.py)
+
+-[creacion de UML](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/README.md)
+
+-[Métodos de instancia: Definimos un método - persona3.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11/Persona3.py)
+
+-[clase ARitmetica con la suma, resta, multiplicacion y division](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Aritmetica.py)
+
+-[clase Rectangulo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Rectangulo.py)
+
+-[clase Cubo](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Cubo.py)
+
+-[Método init Dunder con argumentos variables, Encapsulamiento](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Persona4.py)
+
+-[Métodos: setter and getter, Atributos read-only (solo lectura)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/Perros.py)
+
+-[uso de clases , modulos , Comprobación del módulo principal en ejecución y Eliminacion de Objetos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/PruebaPersona2.py)
+
+-[herencia multiple - leccion 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11/leccion9)
 
 
 ---
@@ -54,8 +77,26 @@
 ## Clases
 
 
-- [Clase 1 , 2 , 3 , 4 , 5 , 6 , 7 y 8](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3_4_5_6_7): Caracteristicas de Java Script, variables, console.log, alert(), sintaxis de los comentarios, tipos de datos (String, Number, Object, Booleans, Function, Symbol), reutilizar variables, creacion del archivo index.html, definir un tipo de clase, tipo de dato Undefined, Array y Empty String, similitudes entre JavaScript y Java. Concatenar cadenas (String). Operador de aumento y decremento . Distinto y estrictamente distinto. Operadores relacionales. Var, Let y Const.
+- [Clase 1 , 2 , 3 , 4 , 5 , 6 , 7 y 8](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3_4_5_6_7):
 
+```
+-Caracteristicas de Java Script
+-Variables
+-console.log
+-alert()
+-sintaxis de los comentarios
+-tipos de datos (String, Number, Object, Booleans, Function, Symbol)
+-reutilizar variables
+-creacion del archivo index.html
+-definir un tipo de clase
+-tipo de dato Undefined, Array y Empty String
+-similitudes entre JavaScript y Java
+-concatenar cadenas (String)
+-operador de aumento y decremento
+-distinto y estrictamente distinto
+-operadores relacionales
+-var, let y const
+```
 
 ---
 
