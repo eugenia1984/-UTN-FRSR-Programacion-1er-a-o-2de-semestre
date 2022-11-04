@@ -297,3 +297,80 @@ print(Cuadrado.mro())
 -> Agregamos los getters, setters y _ _str_ _ a todas als clases padres y a las hijas (Cuadrado y Rectangulo solo el _ _str_ _)
 
 ---
+
+### Modificamos el ejercico de leccion9
+
+-> Encapsulamos a FiguraGeometrica.py agregando los **guiones bajos**.
+
+-> Agregamos los **getters** y **setters**.
+
+Quedandonos:
+
+**FiguraGeometrica.py**:
+```Python
+class FiguraGeometrica:
+  def __init__(self, ancho, alto):
+    self._ancho = ancho
+    self._alto = alto
+
+  @property
+  def ancho(self):
+    return self._ancho
+
+  @ancho.setter
+  def ancho(self, ancho):
+    self._ancho = ancho
+
+  @property
+  def alto(self):
+    return self._alto
+
+  @alto.setter
+  def alto(self, alto):
+    self._alto = alto
+
+  def __str__(self):
+    return f"FiguraGEometrica: ancho: {self._ancho} - alto: {self._alto}"
+```
+
+**Color.py**:
+```Python
+class Color:
+  def __init__(self, color):
+    self.color = color
+
+  @property
+  def color(self):
+    return self._color
+
+  @color.setter
+  def color(self, color):
+    self._color = color
+
+  def __str__(self):
+    return f"Color: color : {self._color}"   
+```
+
+En **Cuadrado.py** agrego el metodo _ _ str_ _
+
+```Python
+from FiguraGeometrica import FiguraGeometrica
+from Color import Color
+
+class Cuadrado(FiguraGeometrica, Color):
+  def __init__(self, lado, color):
+    # super.__init__(lado)
+    FiguraGeometrica.__init__(self, lado, lado)
+    Color.__init__(self, color)
+
+  def calcular_area(self):
+    return self.alto * self.ancho
+
+  def __str__(self):
+    return f"{FiguraGeometrica.__str__(self)} {Color.__str__(self)}"  
+```
+
+Aohra hago las pruebas en **prueba.py**
+
+
+---
