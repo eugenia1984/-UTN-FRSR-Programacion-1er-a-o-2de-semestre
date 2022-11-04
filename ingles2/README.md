@@ -59,6 +59,6 @@ Código de acceso: 123321
 
 ---
 
-- Aprobacion directa con el 75 % con 6 o más.
+- Aprobacion directa con el 75 % con 6 o más. -> cumplido -> <img src="https://img.icons8.com/emoji/48/null/party-popper.png"/>**aprobación directa**<img src="https://img.icons8.com/emoji/48/null/party-popper.png"/>
 
 ---
