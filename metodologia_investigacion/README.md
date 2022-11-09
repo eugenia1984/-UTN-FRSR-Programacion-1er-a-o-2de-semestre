@@ -41,3 +41,7 @@
 - [Clase 10 (26/10)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase10) : MySQL
 
 ---
+
+- [Clase 11 (02/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase11)
+
+---
