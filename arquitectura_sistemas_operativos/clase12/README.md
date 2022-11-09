@@ -54,3 +54,108 @@ PARA <UNA RAZÓN>
 5. Debe incluir una sección de Preguntas y Respuestas
 
 ---
+
+## LA LISTA DE PRODUCTO AÚN NO ESTA TERMINADA
+
+Se crearán y refinar aun más elementos de este product backlog durante los siguientes sprints a medida que se aprenda más sobre el producto.​
+
+
+Si bien el dueño de producto es responsable del contenido y del orden de la lista de producto.
+
+
+Esto no significa que el equipo de desarrollo no puede escribir elementos de la lista de producto o historias de usuarios también y discutirlos con el dueño de producto.
+
+---
+
+
+### AÑADIR HISTORIA DE USUARO AL SPRINT1 REALIZADO EN LA CLASE ANTERIOR
+
+![image](https://user-images.githubusercontent.com/72580574/200956100-f65bbb38-0bf1-4f03-96d3-4feae1473b73.png)
+
+
+EL Dueño de Producto Puede Ir Y Editar Cada Elemento Individual En La Lista Y Agregarles Más Detalle.
+
+Los Elementos Del Product Backlog O En Este Caso La Historia Del Usuario, Tendrán Una Descripción Y También Una Descripción De Prueba, y Lo Mismo Ocurre Con Todos Los Demás Elementos.
+
+![image](https://user-images.githubusercontent.com/72580574/200956168-b61bddb6-3d86-4910-8698-0278ea93a928.png)
+
+
+---
+
+## DATOS TRANSPARENTES
+
+- Como puedes observar desde el principio, cualquiera que esté involucrado en la creación del sitio web​
+
+- Puede ver la lista de producto en JIRA en el estado en que se encuentre.​
+
+- Por lo tanto, este product backlog ahora es transparente.
+
+
+---
+
+## SEGUIMOS COMPLETANDO LA HISTORIA DE USUARIO
+
+
+Ahora las historias tienen:
+
+- una descripción
+
+-una descripción de prueba
+
+- un valor 
+
+- un orden, ya que son el primer y el segundo elemento de la lista de producto.
+
+---
+
+
+## REFINAMIENTO DEL PRODUCT BACKLOG
+
+PARA ACLARAR LOS DETALLES, AGREGAR ORDEN Y OBTENER UNA ESTIMACIÓN.
+
+## EN ESTA REUNIÓN DE REFINAMIENTO
+
+- SE LLEVARÁ A CABO ENTRE EL DUEÑO DE PRODUCTO (PRODUT OWNER) Y LOS DESARROLLADORES (DEVELOPERS)​
+
+- SE PLANTEAN NUEVAS PREGUNTAS AL DUEÑO DE PRODUCTO COMO CAMBIO DE NUEMEROS TELEFÓNICOS  O CAMBIO DE LA HISTORIA PARA REFLEJAR NUEVA INFORMACIÓN
+
+---
+
+##  ESTIMACIÓN DE LOS ELEMENTOS DE LA LISTA DE PRODUCTOS
+
+- Una estimación en el sentido más habitual es una expectativa acerca del esfuerzo necesario para llevara cabo una tarea determinada, como por ejemplo, un elemento de la lista de producto.
+
+- Es una suposición aproximada, no un compromiso.
+
+---
+
+## PLANNING  POKET:
+
+ Es una técnica de estimación donde el intervalo entre los números va haciendo cada vez mayor y nos obliga a ajustar nuestra estimación,​ ya sea subiendo o bajando.
+
+## AÑADIMO UNA STORI POIT ESTIMADA A CADA ELEMENTO DE LA LISTA DE PRODUCTO
+
+![image](https://user-images.githubusercontent.com/72580574/200956572-dd613b45-dec0-4a42-acd4-c87ed47458de.png)
+
+
+Nos Figurará El tiempo De Estimación Del Desarrollo De Nuestro Producto
+
+![image](https://user-images.githubusercontent.com/72580574/200956615-4c232d16-f4dd-42c2-9e63-242381291d1f.png)
+
+
+---
+
+###  ACTIVIDAD:
+
+
+
+1- Realizar Cuestionario para la asistencia de 19 a 21hs.
+
+2- Añadir una descripción a cada elemento de la lista de producto 
+
+3- Añadir una descripción de prueba.
+
+4- Añadir tiempo estimado en el desarrollo de nuestro elemento de la lista de producto
+
+
+---
