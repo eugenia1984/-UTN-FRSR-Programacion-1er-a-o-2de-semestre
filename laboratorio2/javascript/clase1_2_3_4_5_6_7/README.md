@@ -514,7 +514,7 @@ z = a--; // PosDecremento
 
 ---
 
-### var, let y const
+### var, let y const ( 01 / 11)
 
 -> var esta deprecado.
 
@@ -538,7 +538,7 @@ Las constantes se declaran y asignan valor al mismo tiempo, y luego no se le pue
 ---
 ---
 
-## :star: Clase 9 
+## :star: Clase 9 ( 08/11)
 
 ### Operador or: Ejercicio, Si el padre puede asistir al juego de su hijo
 
