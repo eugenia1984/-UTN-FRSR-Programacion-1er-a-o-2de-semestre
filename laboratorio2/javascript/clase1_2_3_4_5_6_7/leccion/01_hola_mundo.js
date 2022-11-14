@@ -153,3 +153,32 @@ const se utiliza para valores constantes que no pueden ser reasignados
 const fechaDeNacimeinto = 2006;
 console.log(fechaDeNacimeinto); // 2006
 }
+
+/*
+Hacer un ejercicio que ya realizamos en Java
+Si el padre puede ver a su hijo dependiendo de si es su dia de descanzo y 
+si es fin de semana
+*/
+// lo hago implementando el operador ternario
+let vacaciones = false;
+let diaDescanso = false;
+( vacaciones || diaDescanso )? console.log("El padre puede asistir") : console.log("El padre no puede asistir")
+
+/*** Operador ternario: Ejercicio Par Impar ***/
+let NumeroParOImpar = 9;
+( numeroParOImpar % 2 === 0)? console.log("Es numero par") : console.log("es numero impar")
+
+/***  Función Number: Ejercicio, es mayor de edad (convertir a String) ***/
+let miNumero = "10";
+console.log(typeof miNumero); // string
+miNumero = Number(miNumero);
+console.log(typeof miNumero); // number
+// Hacemos el ejercicio de si es mayor de edad puede votar
+(miNumero >=18)? console.log("Puede votar") : console.log("Es menor de edad, no puede votar")
+
+/*** NaN ***/
+if( !isNan(miNumero) ) {
+  console.log("Es un numero")
+} else {
+  console.log("Es un numero")
+}
