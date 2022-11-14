@@ -77,7 +77,7 @@
 ## Clases
 
 
-- [Clase 1 , 2 , 3 , 4 , 5 , 6 , 7 y 8](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3_4_5_6_7):
+- [Clase 1 , 2 , 3 , 4 , 5 , 6 , 7, 8 y 9 ](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3_4_5_6_7):
 
 ```
 -caracteristicas de Java Script
@@ -96,6 +96,10 @@
 -distinto y estrictamente distinto
 -operadores relacionales
 -var, let y const
+-Operador or: Ejercicio, Si el padre puede asistir al juego de su hijo
+-Operador ternario: Ejercicio Par Impar
+-Función Number: Ejercicio, es mayor de edad (convertir a String)
+-Función isNaN: is not number
 ```
 
 ---
