@@ -542,9 +542,19 @@ Las constantes se declaran y asignan valor al mismo tiempo, y luego no se le pue
 
 ### Operador or: Ejercicio, Si el padre puede asistir al juego de su hijo
 
+A diferencia de **AND** con **OR** si al menos una de las condiciones en **true** -> es **true**
+
+
 ### Operador ternario: Ejercicio Par Impar
 
+```(condicion)? si es true : si es false```
+
+Es como el **if-else** pero simplificado en un solo renglon
+
+
 ### Función Number: Ejercicio, es mayor de edad (convertir a String)
+
+Sirve para castear, para pasar de String a Number
 
 ### Función isNaN: is not number
 
