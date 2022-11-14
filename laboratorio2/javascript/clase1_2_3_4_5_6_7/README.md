@@ -537,3 +537,18 @@ Las constantes se declaran y asignan valor al mismo tiempo, y luego no se le pue
 
 ---
 ---
+
+## :star: Clase 9 
+
+### Operador or: Ejercicio, Si el padre puede asistir al juego de su hijo
+
+### Operador ternario: Ejercicio Par Impar
+
+### Función Number: Ejercicio, es mayor de edad (convertir a String)
+
+### Función isNaN: is not number
+
+Es para verificar si el dato es un numero, se usa porque en generlal los input guardan String, y si necesitamos Number debemos castearlos.
+
+---
+---
