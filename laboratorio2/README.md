@@ -77,7 +77,7 @@
 ## Clases
 
 
-- [Clase 1 , 2 , 3 , 4 , 5 , 6 , 7, 8 y 9 ](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3_4_5_6_7):
+- [Clase 1 , 2 , 3 , 4 , 5 , 6 , 7, 8 , 9 y 10 ](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/javascript/clase1_2_3_4_5_6_7):
 
 ```
 -caracteristicas de Java Script
@@ -100,6 +100,9 @@
 -Operador ternario: Ejercicio Par Impar
 -Función Number: Ejercicio, es mayor de edad (convertir a String)
 -Función isNaN: is not number
+-Ejercicio 1: Calcular estación del año
+-Ejercicio 2: Hora del día
+- Estructura switch con el break
 ```
 
 ---
