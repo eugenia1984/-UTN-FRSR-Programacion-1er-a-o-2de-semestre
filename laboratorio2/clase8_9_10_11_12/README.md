@@ -209,7 +209,7 @@ print(bicicleta1)
 
 ---
 
-## :star: Clase 9 Herencia multiple
+## :star: Clase 12 Herencia multiple
 
 En Python tenemos **herencia ultiple**
 
@@ -391,3 +391,11 @@ class Rectangulo(FiguraGeometrica, Color):
 ```
 
 ---
+---
+
+## :star:  Clase 13 Abstract y StaticLección
+
+---
+---
+
+##:star: Clase 14  Diseño, Constante y contexto estáticoLección
