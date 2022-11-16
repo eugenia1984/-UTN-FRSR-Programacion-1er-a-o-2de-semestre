@@ -32,3 +32,18 @@ switch (mes) {
 console.log(`El valor que corresponde a la estación es: ${estacion}`);
 
 /*** Ejercicio hora del dia ***/
+let horaDia = 9;
+let mensaje = "";
+
+if(horaDia>06 && horaDia<=11) {
+  mensaje="Buen día";
+} else if(horaDia>=12 && horaDia <=16) {
+  mensaje= "Buenas tardes"
+} else if(horaDia>017 && horaDia <=19) {
+  mensaje= "Buen atardecer";
+} else if(horaDia <=20 && horaDia<=23) {
+   mensaje="Buenas noches";
+} else {
+  mensaje="Valor incorrecto";
+}
+console.log(mensaje);
