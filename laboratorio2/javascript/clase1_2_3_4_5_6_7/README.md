@@ -563,7 +563,7 @@ Es para verificar si el dato es un numero, se usa porque en generlal los input g
 ---
 ---
 
-##:star: Clase 10 (15/11) 
+## :star: Clase 10 (15/11) 
 
 ### Ejercicio 1: Calcular estación del año
 
