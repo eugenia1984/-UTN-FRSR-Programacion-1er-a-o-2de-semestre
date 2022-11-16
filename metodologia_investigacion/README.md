@@ -42,6 +42,10 @@
 
 ---
 
-- [Clase 11 (02/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase11)
+- [Clase 11 (02/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase11): Base de datos relacionales
+
+---
+
+- [Clase 12 (00/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase11): Comandos
 
 ---
