@@ -1,198 +1,179 @@
-# :star: Clase 11 
+# :star: Clase 12 * Comandos
 
 ---
 
-## MySQL
+## LENGUAJE SQL
 
-### ELEMENTO FUNDAMENTAL DE UNA BASE DE DATOS RELACIONAL
+Los orígenes del SQL nos llevan a la década de 1970, cuando en IBM se creó un software de base de datos, llamada  System R . Para gestionar los datos almacenados en System R se creó el lenguaje SQL.
 
-- El elemento fundamental del método racional de una base de datos, es una tabla relacional.
+Es un lenguaje que nos permite maniobrar, crear, modificar y gestionar bases de datos. En ese entonces no se las mensionaba como base de datos sino como base de almacenamiento.
 
-#### TABLA:
+Es un lenguaje de computación para trabajar con conjunto de datos y las relaciones entre ellas.
 
-![image](https://user-images.githubusercontent.com/72580574/200966727-86227679-64f1-4244-8e38-0d2acb93a0ad.png)
+### ¿ Que nos permite ?
 
-- VA A SER EL ESPAPCIO DODNE VOY A ORGANIZAR LA INFORMACIÓN DENTRO DE MI BASE DE DATOS.
+Cuando nosotros hablamos de SQL nos estamos refiriendo a algo relacional.
 
-- VA A CONTENER COLUMNA Y FILAS 
+Al ser un modelo relacional, necesitamos entidades, tablas, columnas.
 
-#### TABLA RELACIONAL
+Necesitamos que todo tenga relación entre así, que la información tenga sentido en conjunto y no por separado.
 
-![image](https://user-images.githubusercontent.com/72580574/200966806-fed1832d-be31-4266-a0d3-e3f709e84646.png)
+### ¿ Para que se utiliza ?
 
-Es una representación extencional de una relación definida sobre un cierto dominio, decodificado o dividido en varias tablas.
+SQL se utiliza para describir conjuntos de datos que pueden ayudarle a responder preguntas.
 
-#### Entidad
+Al usar ese lenguaje se  debe usar la sintaxis correcta.
 
-![image](https://user-images.githubusercontent.com/72580574/200966873-ed78716e-74f0-4335-a09d-de507c0b2d2a.png)
+### Sintaxis:
 
+Sintaxis en la forma en que se escribe un comando. Son las reglas que se deben de seguir para dar órdenes.
 
-- Una entidad es la representación de un objeto o concepto del mundo real que se describe en una base de datos. Son datos referentes.
+La sintáxis SQL se basa en la sintaxis del idioma inglés y usa mucho de los mismos elementos de Visual Basic.
 
-- Ejemplos de nombres de entidades: Alumno, Empleado, Artículo, Noticia, etc.
+### Elemento SQL:
 
-- Las entidades se describen en la estructura de la base de datos empleando un modelo de datos.
+![image](https://user-images.githubusercontent.com/72580574/202307743-4ab5f830-7a05-41c7-9662-f17ffd80ef7b.png)
 
-![image](https://user-images.githubusercontent.com/72580574/200967018-19bd2fab-eafd-4cee-9132-aad8751dfbc4.png)
+### Linea de comandos
 
-- Cada entidad está constituida por uno o más atributos.
+Todos los comandos necesarios en los sistemas de gestión se ejecutan a través de una interfaz específica llamada línea de comandos SQL (Command- line interface o CLI)
 
-#### Atributos
+### Query (conusltas)
 
-- Un atributo representa una propiedad de interés de una entidad.
+Es una sentencia que va a dar  una orden o una indicación.
 
-- Los atributos se describen en la estructura de la base de datos empleando un modelo de datos.
+Va a recuperar los datos en base a un criterio dado, trayendo datos de una base de datos o de una tabla.
 
+### Consulta SQL
 
-#### Atributos representados de forma gráfica
+Son también sentencias que nos da estados de cada uno de los componentes de la base de datos y de cómo están las querys, si se ejecutan o si no se ejecuta.
 
-![image](https://user-images.githubusercontent.com/72580574/200967081-c9035832-2ea8-4e49-a503-324dbbe6c906.png)
+Todas las cláusulas van a realizar siempre una función.
 
-#### TUPLAS:( filas)
+Se ve error de sintaxis, entre otras cosas.
 
-![image](https://user-images.githubusercontent.com/72580574/200967118-88032bef-5f8c-4651-8378-2bf2d02224e0.png)
+![image](https://user-images.githubusercontent.com/72580574/202307935-ebc8200a-a637-450a-9f20-43abdb592ea3.png)
 
-
-Se la define como una función que asocia univocamente los nombre de los atributos de una relación con los valores de la misma.
-
-Es una fila de una tabla realcional
-
-
-
-#### Clave Primaria:
-
-![image](https://user-images.githubusercontent.com/72580574/200967143-615419a6-b5db-4239-9e1d-2a4f9582cf27.png)
-
-• Cada entidad tiene una clave primaria , campo llave o llave que identifica de forma única el conjunto de datos.
-
-• La llave primaria es un dato, el cual es único y no se repite de lo que vendría siendo una tabla ouna entidad.
-
-• Me va permitir relacionar datos.
-
-#### Clave Foránea:
-
-• Es cuando en una entidad figura la clave primaria de otra entidad , esta se denomina clave foranea o clave ajena.
-
-• Las entidades se realcionan entre si por medio de las claves foranea
-
-####  Metadatos:
-
-• Son Datos sobre los datos  presentes en la Base de Datos.
-
-• Hace referencia al tipo de Dato que vamos a almacenar ( texto, nuemro, fechas, etc.)
-
-• También el nombre que va a recibir cada dato (nombre, apellido, fecha, edad, etc.)
-
-#### Operadores Lógicos:
-
-•Los operadores lógicos nos van a permitir definir sentencias así como también  llamar datos.
-
-
-![image](https://user-images.githubusercontent.com/72580574/200967251-a6491a87-d16a-4c47-8dd7-6c0a878066ba.png)
-
-#### Función que realiza el operador:
-
-Una función de operador se centra en uno y tres argumentos y devuelve un valor.
-
-Cuando una sentencia SQL contiene un operador, el Servido de bases de Datos, invoca automáticamente la función del operador asociado.
-
----
----
-
-### OPERACIONES FUNDAMENTALES
-
-1. SELECCIÓN
-
-2. PROYECCIÓN
-
-3. SELECCIÓN
 
 ---
 
-### SELECCIÓN:
+###  COMANDOS (SENTENCIAS)
 
-• Me va atraer todos los datos de la tabla en general.
 
-• Se va a ocupar de seleccionar filas
-   
+Se utilizan para el envío de consultas desde un programa cliente a un servidor donde se almacenan las bases de datos.
 
-En la ventana de comandos nos arrojada los datos de la tabla ya sean generales o solo los que seleccionemos.
+Un comando es una sentencia u orden, es una indicación que se le da a partir de una nomenclatura propia de SQL.
 
-```SQL
-SELECT * FROM (nombre de tabla);
+---
+
+###  TIPOS DE COMANDOS:
+
+### EXISTEN DOS TIPOS DE COMANDOS SQL :
+
+- **DDL**  (DATA DEFINITION LANGUAJE)
+
+Nos va a permitir y crear nuevas bases de datos, campos e índices.
+
+Un campo es un espacio en el que va a ir un dato, mientras que un índice es un espacio donde se va a agrupar un dato.
+
+Estos tres comandos que son:
+
+**CREATE**: sirve para eso, para crear nuevos campos, ya sean nuevas bases de datos, nuevas tablas, nuevos campos, nuevos índices 
+
+**DROP**:  sirve para eliminar tablas e índices.
+
+**ALTER**:  es utilizado para modificar las tablas agregando campos o cambiando la definición de los mismos.
+
+- **DML** (DATA MANIPULATION LANGUAJE)
+
+Su función es la manipulación de Datos, a través de él podemos insertar, eliminar y actualizar datos.
+
+También generar consultas para ordenar, filtrar y extraer datos de la base de datos.​
+
+Comandos DML:
+
+**INSERT**: Es utilizado para cargar lotes de datos de una base de datos en una única operación. Un insert va a introducir nuevos datos o conjunto de éstos en una base de datos (tabla).
+
+**UPDATE**: utilizado para modificar los valores de los campos y registros especificados.​
+
+**DELETE**: utilizado para eliminar registros de una tabla de base de datos . Se la eliminando uno a uno los registros.
+
+---
+
+### EXPRESIONES
+
+Las expresiones pueden producir valores escalares o tablas que consisten en columnas y filas de datos.
+
+Una expresión me va a traer como resultado distintas funciones, pero entre ellas la creación de columnas y tablas.
+
+### PREDICADOS:
+
+Los predicados especifican las condiciones que se utilizan para limitar los efectos de los comandos y las consultas o para cambiar el flujo del programa.
+
+Un predicado va a ser como un condicional que técnicamente le va a dar un alcance a un comando.
+
+**Instancia** : Nos permite conectarnos a una base de Datos
+
+En Workbenck vamos a crear una nueva instancia, haciendo click en el signo + , donde se nos abrirá una nueva ventana.
+
+![image](https://user-images.githubusercontent.com/72580574/202308657-cd54cfca-3249-4348-9364-5bb71bec3dd6.png)
+
+Escribimos El Nombre De La Nueva Conección En Este Caso colocaremos Metodología y hacer click en el boton Test connection, les pedirá la clave cuando abrieron workbench, introducen la clave y luego dan ok y listo
+
+![image](https://user-images.githubusercontent.com/72580574/202308685-6eb96d31-3961-4c5b-a955-d63a889faa72.png)
+
+Se Ha Creado Una Nueva Conección
+
+![image](https://user-images.githubusercontent.com/72580574/202308706-fb062f0f-883b-4355-b201-ed777ce68f1f.png)
+
+Ingresar A La Nueva Conección Creada
+
+![image](https://user-images.githubusercontent.com/72580574/202308733-79cc5c46-80b2-4aed-918a-acb6ac51708d.png)
+
+Creamos Una Base De Datos Desde La Ventana De Comandos con el comando:
+ 
+```Create database <Nombre de la base de Datos>;```
+
+Hacemos Click en el icono del rayo y automáticamente nos aparecerá debajo la confirmación que la base de dato a sido creada.
+
+![image](https://user-images.githubusercontent.com/72580574/202308859-2c1f7c64-ac5c-42c6-a271-c3a56fc8ecbb.png)
+
+Si REFRESCAMOS LA INFORMACIÓN NOS APARECERÁ LA BASE DE DATOS CREADA
+
+![image](https://user-images.githubusercontent.com/72580574/202308891-66399b74-74af-4ecc-9817-58146522675e.png)
+
+Creamos 2 Bases De Datos Más sin utilizar el ;(punto y coma) y seleccionado el 2ª icono de  rayo, refrescar para ver las bases creadas.
+
+![image](https://user-images.githubusercontent.com/72580574/202308914-9e879d73-5771-4278-962d-ea2807c3cb99.png)
+
+![image](https://user-images.githubusercontent.com/72580574/202308947-186bdc82-aa3b-415f-bd03-7fa065f24fbf.png)
+
+![image](https://user-images.githubusercontent.com/72580574/202308967-45c84857-9ee1-404f-9a26-0ec77893019f.png)
+
+
+---
+
+## :star: Actividad
+
+1. Realizar Cuestionario para la asistencia en el campus de 21 a 23hs.
+
+2. Crear una nueva conección con el nombre *Metodología*​
+
+3. Crear una base de Datos con el nombre *BASE1* desde la ventana de comandos 
+
+4. Creamos 2 bases de datos más (en total debe haber 3 bases de datos)
+
+5. dentro de cada base de datos ingresaremos los comando para crear una tabla.
+
+datos que debe contener la tabla:
+
 ```
+-id
+-nombre
+-apellido
+-correo
+````
 
-O 
-
-
-```SQL
-SELECT NOMBRE, EDAD FROM (NOMBRE DE TABLA)
-```
-
-
-
-```*FROM```, nos arrojará todos los datos de la tabla
-
-![image](https://user-images.githubusercontent.com/72580574/200967532-85f11e48-7db0-4321-9c81-c044efdf12f6.png)
-
-Si especificamos los datos, solo nos arrojará los solicitados.
-
-![image](https://user-images.githubusercontent.com/72580574/200967553-9caa465f-7e8c-45e1-b719-8ab0f5b80f88.png)
-
+las tablas de las base2 y base3 pueden ser otros datos
 
 ---
-
-### PROYECCIÓN:
-
-
-• Esta operación nos ayuda a seleccionar datos específicos.
-
-• Sólo traerá el campo específico que se le indique.
-
-• Se va  a ocupar de seleccionar columnas 
-
-```SQL
-SELECT nombre FROM estudiantes where Nombres ='nombre';
-```
-
-ó
-
-```SQL
-SELECT nombre, edad FROM estudiantes where Nombres='nombre';
-```
-
-![image](https://user-images.githubusercontent.com/72580574/200967735-62e18320-8b39-4555-90eb-fee013959fe8.png)
-
-![image](https://user-images.githubusercontent.com/72580574/200967747-d17a6d61-dc0f-4709-b550-093279f4b826.png)
-
-
-Como ingresamos datos en nuestras tablas:
-
-![image](https://user-images.githubusercontent.com/72580574/200967784-a5fb50da-5772-40f0-be65-433cde682213.png)
-
-![image](https://user-images.githubusercontent.com/72580574/200967794-c9f866ae-2678-433d-89b1-58d03ffea0ea.png)
-
-Para que me permita ingresar datos debemos ingresar nuevamente a la configuración de la tabla y seleccionar en la fila id estudiante  en la opción 
-
-AI (Auto Incrementable) y aplicamos.
-
-![image](https://user-images.githubusercontent.com/72580574/200967821-652a49ea-ec64-40e6-a90a-99e734d2cfe6.png)
-
-
----
-
-### Actividad
-
-1.   Responder cuestionario para la asistencia en el Campus.
-
-2. Realizar la siguiente actividad:
-
-A) ingresar datos en la tabla creada la clase anterior.
-
-B) utilizar los operadores para selección y proyección
-
----
-
-
-
-
