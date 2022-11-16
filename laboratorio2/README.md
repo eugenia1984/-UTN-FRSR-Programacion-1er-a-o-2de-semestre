@@ -66,6 +66,9 @@
 
 -[herencia multiple - leccion 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/leccion9)
 
+- Abstract y StaticLección
+
+-  Diseño, Constante y contexto estáticoLección
 
 ---
 ---
