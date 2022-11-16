@@ -562,3 +562,16 @@ Es para verificar si el dato es un numero, se usa porque en generlal los input g
 
 ---
 ---
+
+##:star: Clase 10 (15/11) 
+
+### Ejercicio 1: Calcular estación del año
+
+Se puede hacer con **if - else si - else** y con **switch**
+
+### Ejercicio 2: Hora del día
+
+Se realizo con **if - else if- else**
+
+---
+---
