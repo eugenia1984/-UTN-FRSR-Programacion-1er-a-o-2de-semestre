@@ -27,4 +27,6 @@
 
 - [Clase 12 (9/11) : **Historias de usuarios**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase12) 
 
+- Clase 13 (15/11)
+
 ---
