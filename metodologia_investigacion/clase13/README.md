@@ -2,13 +2,13 @@
 
 ---
 
-### Tablas
+###  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-table-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> TABLAS
 
 ![image](https://user-images.githubusercontent.com/72580574/202463952-21e1b2cb-c523-4e2d-8c40-3e9840321fc9.png)
 
 --
 
-### Use:
+### <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> Use:
 
 
 Nos permite posicionarnos en una base de datos : 
@@ -22,7 +22,7 @@ Use <nombre de la base>;
 
 ---
 
-### CARGAR DATOS EN LAS tablas :
+###  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> CARGAR DATOS EN LAS TABLAS :
 
 
 - Para cargar datos a nuestras tablas utilizaremos también una sentencia SQL propiamente del lenguaje a partir de palabras reservadas, en este caso utilizaremos: 
@@ -42,7 +42,7 @@ UNA VEZ QUE UTILIZAMOS LOS COMANDOS iNSER iNTO CON TODOS LOS VALORES DE NUESTRA 
 
 ---
 
-## SENTANCIA SELECT:
+##  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> SENTANCIA SELECT:
 
 UTILIZAREMOS LA SENTENCIA SELECT *FROM  PARA VISUALIZAR LOS DATOS INGRESADOS EN NUESTRA TABLA, EN ESTE CASO AL EJECUTAR LA SENTENCIA UTILIZAREMOS EL RAYO CON EL CURSOR , PARA EJECUTAR SÓLO LA ULTIMA LÍNEA 
 
@@ -60,7 +60,7 @@ Una vez ejecutado el comando, no aparecerá la tabla con los datos ingresados
 
 ---
 
-### Actividad
+### :star: Actividad
 
 Generamos datos para nuestras tablas creadas en cada base de dato de la clase nº12, añadiendo tres filas de datos a cada una de ellas.
 
@@ -78,7 +78,7 @@ Añadiendo más datos a las tablas creadas dentro de las bases de datOs de la cl
 
 ---
 
-## Sentencia Select 
+##  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> SENTENCIA SELECT 
 
 La sentencia SELECT es  para mostrar, para ver, para visualizar datos de una base de datos.
 
@@ -97,7 +97,7 @@ SELECT <COMULMNA1 , COLUMNA 3 , COLUMNA 5 FROM <NOMBRE DE LA BASE>.<NOMBRE DE LA
 
 ![image](https://user-images.githubusercontent.com/72580574/202465735-4405b8cd-7737-42d4-8871-f91122fcca3c.png)
 
-#### SELECT TAMBIÉN NOS PERMITE CAMBIAR EL NOMBRE A UNA COLUMNA
+#### S <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> ELECT TAMBIÉN NOS PERMITE CAMBIAR EL NOMBRE A UNA COLUMNA
 
 
 UTILIZAREMOS 
@@ -119,7 +119,7 @@ Select <Nombre de la columna A > AS <nuevo nombre de la columna A>, <nombre de c
 
 ---
 
-### Sentencia Where:
+###  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> Sentencia WHERE:
 
 
 Esta sentencia me traer datos escpecíficos según lo que se le especifique en la búsqueda​
@@ -133,7 +133,7 @@ SELECT * FROM base1.usuario where nombre = "Romina";
 
 ---
 
-###  Sentencia Distinct:
+###   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/> SENTENCIA DISTINCT:
 
 Esta sentencia me va a permitir mostrar datos distintos de  una sola columna, oviará los datos repetidos
 
@@ -141,9 +141,15 @@ Esta sentencia me va a permitir mostrar datos distintos de  una sola columna, ov
 
 
 ---
+
+## :star: Actividad  
  
+1. Responder el cuestionario para la asistencia en el campus​
 
+2. Realizar la Actividad nº 1 (no deben enviar captura)​
 
+3. Ejercitar las sentencias vista durante la clase
 
+---
 
 
