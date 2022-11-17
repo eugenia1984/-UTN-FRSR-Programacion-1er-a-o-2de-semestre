@@ -98,13 +98,22 @@ En Jaira o la Herramienta que esten utilizando realizaran el  sprint backlog, se
 
 ---
 
-##:star: Actividad
+## :star: Actividad
 
-1- Responder cuestionario para asistencia en el campus
+1. Responder cuestionario para asistencia en el campus
 
-2-Realizar el Sprint Backlog seleccionando algunos elementos de la lista de producto creada las clases anteriores.
+-> Ya realiado en el campus
 
-3-Enviar captura por grupo del Sprint Backlog 
+2. Realizar el Sprint Backlog seleccionando algunos elementos de la lista de producto creada las clases anteriores.
+
+![image](https://user-images.githubusercontent.com/72580574/202471199-e1ae4886-cdbe-4012-a95a-547400cbf9b9.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/202471121-5b23dd5f-c03d-4047-a4b3-21e9cf03d586.png)
+
+3. Enviar captura por grupo del Sprint Backlog 
+
+-> Enviado por email
 
 (fecha de entrega 23/11)
 
