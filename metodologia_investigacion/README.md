@@ -49,3 +49,7 @@
 - [Clase 12 (08/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase11): Comandos
 
 ---
+
+- [Clase 13 (15/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase13): Tablas
+
+---
