@@ -2,34 +2,31 @@
 
 ---
 
-### Gestor de Base de Datos:
+### <img src="https://img.icons8.com/ios/40/null/delete-database.png"/> Gestor de Base de Datos:
 
-Un sistema gestor de bases de datos es un conjunto de programas que permiten el almacenamiento, modificación​ y extracción de la información en una base de datos.
+Un sistema gestor de bases de datos es un conjunto de programas que permiten el almacenamiento, modificación y extracción de la información en una base de datos.
 
 Es un software que nos permite a nosotros  gestionar lo que es una base de datos, ya sea ingresar, crear, eliminar o modificar lo que son datos o la base de datos en sí.
 
 ---
 
-### Gestores :
+###  <img src="https://img.icons8.com/ios/20/null/delete-database.png"/> Gestores :
 
 
 Algunos gestores que podemos encontrar son:
 
- Microsoft Access 
-
+```
+icrosoft Access 
  Microsoft SQL Server
-
 MySQL
-
 Oracle Data Base
-
 Orient DB
-
 Mongo DB
+```
 
 ---
 
-### Base de Datos:
+###  <img src="https://img.icons8.com/ios/20/null/delete-database.png"/> Base de Datos:
 
 Es en sí en lo que almacena la información, en este caso como las bases relacionales
 
@@ -47,7 +44,7 @@ Puedes ser relacionales o no relacionales:
 
 ---
 
-### Diferencia entre ambos gestores:
+### <img src="https://img.icons8.com/ios/20/null/delete-database.png"/>  Diferencia entre ambos gestores:
 
 
 - gestor de bases de datos relacional está solo centrado a ese tipo de base de datos.
@@ -58,7 +55,7 @@ Así que hay que tener mucho cuidado con esos conceptos y los gestores que hayam
 
 ---
 
-### ¿Qué es un dato?
+###  <img src="https://img.icons8.com/ios/20/null/delete-database.png"/>  ¿Qué es un dato?
 
 - Es una representación de una variable que puede ser cuantitativa o cualitativa.
 
@@ -82,7 +79,7 @@ Así que hay que tener mucho cuidado con esos conceptos y los gestores que hayam
 
 ---
 
-### Tablas:
+### <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-computer-science-flaticons-lineal-color-flat-icons.png"/> Tablas:
 
 Pues una tabla es el espacio donde se organiza la información.
 
@@ -90,7 +87,7 @@ Así de sencillo.
 
 -> La tabla se divide o consta de? Columnas, filas, y en esto consiste  una base de dato relacional 
 
-### ENTIDAD
+###  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-computer-science-flaticons-lineal-color-flat-icons.png"/>ENTIDAD
 
 Una entidad es todo aquello a lo cual interesa guardar datos, por ejemplo clientes, facturas y o agencias.
 
@@ -99,7 +96,7 @@ Por ejemplo al dando un ejemplo, entonces las entidades son todas aquellos datos
 Y en estos yo puedo simbolizar un dato como quien lo dice, por ejemplo cliente es un dato, es unaentidad.
 
 
-### Registros o datos sellados primarios.
+###  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-computer-science-flaticons-lineal-color-flat-icons.png"/> Registros o datos sellados primarios.
 
 
 Son una llaves que identifican a la entidad y son llaves únicas o son datos únicos y no repetibles.
@@ -118,7 +115,7 @@ Si yo quiero combinar o relacionar lo que vendrían siendo, las vendría siendo 
 
 ---
 
-### Creamos una Base de Datos : con el nombre Datos
+###  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/null/external-table-computer-science-flaticons-lineal-color-flat-icons.png"/> Creamos una Base de Datos : con el nombre Datos
 
 ![image](https://user-images.githubusercontent.com/72580574/198162049-825a995d-c6ae-4ef5-8d34-e429ab83b512.png)
 
@@ -152,7 +149,7 @@ Nos aparecerá la tabla creada dentro de la base de datos
 
 ---
 
-### Actividades:
+### :star: Actividades:
 
 1. Realizar el cuestionario para la asistencia en el campus
 
