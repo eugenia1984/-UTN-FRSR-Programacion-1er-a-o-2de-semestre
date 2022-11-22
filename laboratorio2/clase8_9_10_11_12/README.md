@@ -438,6 +438,74 @@ class FiguraGeometrica:
 
 ###  Método encapsulado y setter
 
+Como no tengo todo encapsulado puedo alterar los valores, por ejemplo:
+
+```Python
+# instancio un objeto Rectangulo
+print("Creacion de objeto clase Rectangulo".center(50, "_"))
+rectangulo1 = Rectangulo(3, 8, "verde")
+rectangulo1.ancho = 15 # hacemos la reasignacion porque no esta encapsulado
+print(f"El area es: {rectangulo1.calcular_area()}")
+print(rectangulo1)
+```
+
+-> En **FiguraGeometricas** creo el método **_validar_valores** como tiene el _ está encapsulado, solo se puede usar dentro de esa clase.
+
+```Python
+  def _validar_valores(self, valor):
+    return True if 0 < valor < 10 else False
+```
+
+Y sigue insisitiendo en validar que este entre 0 a 10, en vez de que sea numero positivo.
+
+
+Entonces puedo modificar aca:
+
+```Python
+class FiguraGeometrica:
+  def __init__(self, ancho, alto):
+    if 0 < ancho < 10:
+      self._ancho = ancho
+    else:
+      self._ancho = 0
+    if 0 < alto < 10:  
+      self._alto = alto
+    else:
+      self._alto = 0
+```
+
+Para usar el nuevo método:
+
+```Python
+  def __init__(self, ancho, alto):
+    if self._validar_valores(ancho):
+      self._ancho = ancho
+    else:
+      self._ancho = 0
+      print(f"Valor erroneo para el ancho: {ancho}")
+    if self._validar_valores(alto):  
+      self._alto = alto
+    else:
+      self._alto = 0
+      print(f"Valor erroneo para el alto: {alto}")
+```
+
+Estas validaciones tambien se pueden utilizar en el método **setter**:
+
+```Python
+@ancho.setter
+def ancho(self, ancho):
+  if self._validar_valores(ancho):
+    self._ancho = ancho
+```
+
+```Python
+@alto.setter
+def alto(self, alto):
+  if self._validar_valores(alto):
+    self._alto = alto
+```
+
 ###  Explicación de validaciones setter
 
 ### Clases abstractas: Diagrama de clases UML, teoría y practica
