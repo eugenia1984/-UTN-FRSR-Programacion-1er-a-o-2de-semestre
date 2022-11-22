@@ -42,7 +42,7 @@
 
 #### POO
 
-- [Clase 8, 9, 10, 11 y 12 **POO**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12) : 
+- [Clase 8 , 9 , 10 , 11 , 12 y 13 : **POO**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12) : 
 
 -[Creacion de una clase Persona - persona.py](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2/clase8_9_10_11_12/persona.py)
 
@@ -64,9 +64,9 @@
 
 -[uso de clases , modulos , Comprobación del módulo principal en ejecución y Eliminacion de Objetos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/PruebaPersona2.py)
 
--[herencia multiple - leccion 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/leccion9)
+-[herencia multiple - leccion 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/leccion9): UML teoria, creamos las clases padres, creamos la clase hija Cuadrado, creamos la clase para testear el codigo, debug, método MRO ( Method Resolution Order).
 
-- Abstract y StaticLección
+- Clase 13: **Abstract y Static** 
 
 -  Diseño, Constante y contexto estáticoLección
 

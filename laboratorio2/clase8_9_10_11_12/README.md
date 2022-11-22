@@ -393,7 +393,59 @@ class Rectangulo(FiguraGeometrica, Color):
 ---
 ---
 
-## :star:  Clase 13 Abstract y StaticLección
+## :star:  Clase 13 Abstract y Static
+
+
+### Validaciones en atributos
+
+Simplemente le agrego el print.
+
+```Python
+# instancio un objeto Rectangulo
+print("Creacion de objeto clase Rectangulo".center(50, "_"))
+rectangulo1 = Rectangulo(3, 8, "verde")
+print(f"El area es: {rectangulo1.calcular_area()}")
+print(rectangulo1)
+```
+
+Y en la clase **FiguraGeometrica** hizo una "validación" que nos ata a que estén entre ene rango de (0-10). 
+
+Mucho mejor es hacer la validación para que sean números positivos, no atarnos a un rango. 
+
+```Python
+class FiguraGeometrica:
+  def __init__(self, ancho, alto):
+    if 0 < ancho < 10:
+      self._ancho = ancho
+    if 0 < alto < 10:  
+      self._alto = alto
+```
+
+Después le agregó un else, peor igual seguimos atados a ese rango, mucho mejor validar que sean numero sy que sean positivos, sin atarlo a un rango.
+
+```Python
+class FiguraGeometrica:
+  def __init__(self, ancho, alto):
+    if 0 < ancho < 10:
+      self._ancho = ancho
+    else:
+      self._ancho = 0
+    if 0 < alto < 10:  
+      self._alto = alto
+    else:
+      self._alto = 0
+```
+
+###  Método encapsulado y setter
+
+###  Explicación de validaciones setter
+
+### Clases abstractas: Diagrama de clases UML, teoría y practica
+### Atributo Read-only y método mro
+
+###  Diagrama de clases UML con variables de clase: Teoría en carpeta Lección10
+
+###  Variables de clase: Practica en carpeta Lección10 
 
 ---
 ---
