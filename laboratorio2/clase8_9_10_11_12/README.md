@@ -508,6 +508,27 @@ def alto(self, alto):
 
 ###  Explicación de validaciones setter
 
+
+Agrego los else:
+
+```Python
+@ancho.setter
+def ancho(self, ancho):
+  if self._validar_valores(ancho):
+    self._ancho = ancho
+  else:
+    print(f"Valor erroneo : {ancho}")
+
+
+
+@alto.setter
+def alto(self, alto):
+  if self._validar_valores(alto):
+    self._alto = alto
+  else:
+    print(f"Valor erroneo: {alto}")
+```
+
 ### Clases abstractas: Diagrama de clases UML, teoría y practica
 ### Atributo Read-only y método mro
 

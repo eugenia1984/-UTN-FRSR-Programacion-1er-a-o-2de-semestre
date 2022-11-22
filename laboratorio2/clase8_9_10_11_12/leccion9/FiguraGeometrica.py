@@ -19,6 +19,8 @@ class FiguraGeometrica:
   def ancho(self, ancho):
     if self._validar_valores(ancho):
       self._ancho = ancho
+    else:
+      print(f"Valor erroneo : {ancho}")
 
   @property
   def alto(self):
@@ -28,6 +30,8 @@ class FiguraGeometrica:
   def alto(self, alto):
     if self._validar_valores(alto):
       self._alto = alto
+    else:
+      print(f"Valor erroneo: {alto}")
 
   def __str__(self):
     return f"FiguraGEometrica: ancho: {self._ancho} - alto: {self._alto}"
