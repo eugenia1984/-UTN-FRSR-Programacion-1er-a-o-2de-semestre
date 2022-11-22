@@ -66,7 +66,7 @@
 
 -[herencia multiple - leccion 9](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/blob/main/laboratorio2/clase8_9_10_11_12/leccion9): UML teoria, creamos las clases padres, creamos la clase hija Cuadrado, creamos la clase para testear el codigo, debug, método MRO ( Method Resolution Order).
 
-- Clase 13: **Abstract y Static** 
+- Clase 13: **Abstract y Static** : Validaciones en atributos, Método encapsulado y setter
 
 -  Diseño, Constante y contexto estáticoLección
 
