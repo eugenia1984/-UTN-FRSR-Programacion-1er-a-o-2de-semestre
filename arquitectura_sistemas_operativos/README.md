@@ -29,4 +29,6 @@
 
 - [Clase 13 (15/11) : **el producto**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase13)
 
+- [Clase 14 (23/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase14)
+
 ---
