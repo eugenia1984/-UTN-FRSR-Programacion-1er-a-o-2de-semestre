@@ -95,3 +95,34 @@ Durante el evento, el dueño de producto y el equipo de desarrollo van a acordar
 - Esta es una reunión clave de inspección y adaptación en Scrum el Daily Scrum ayuda al equipo de desarrollo a inspeccionar el progreso que lleva a completar el trabajo del sprint backlog y alcanzar el objetivo de sprint.
 
 ---
+
+## :star: Tablero Sprint
+
+EN NUESTRO TABLERO DEL SPRINT 1 ASIGNAREMOS A CADA UNO DE LOS MIEMBROS DEL GRUPO UNA TAREA SE LOS ELEMENTOS ELEGIDOS LA CLASE ANTERIOR
+
+![image](https://user-images.githubusercontent.com/72580574/203655309-ffb12ae4-58dc-4765-a65c-b3e32c585fd4.png)
+
+
+---
+
+
+## :star: Actividad
+
+1. Realizar cuestionario para la asistencia en el campus
+
+-> Realizado en el campus
+
+2. Integrador:
+ 
+- Trabajo en Grupo 
+
+- FECHA DE ENTREGA 07/12
+
+a) A partir del primer sprint realizado en la clase anterior, asignar una tarea a cada integrante en el tablero del sprint 1.
+
+b) tienen que añadir todos los integrantes del grupo
+ 
+c) poder realizar un 2 Sprint para añadir nuevas elementos al sprint 1 y asignar tareas a cada integrante. Enviar captura o enlace del trabajo realizado
+
+---
+ ---
