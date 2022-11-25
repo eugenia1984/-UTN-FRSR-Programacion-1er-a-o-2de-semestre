@@ -116,14 +116,95 @@ De esta manera sólo estaríamos eliminando datos específicos y no todos los da
 
 ---
 
-```SQL
+## NORMALIZACION
 
+La normalización es un proceso el cual los atributos de una tabla pasan a ser re organizados, evitando así la repetición de estos y ahorrar espacio en una base de datos.
+
+### ¿ Para que se utiliza ?
+
+La normalización es un proceso al cual el programador utiliza lo que es su lógica para evitar datos repetidos en una base de datos y así optimizar y ahorrar espacio y recursos en una empresa.
+
+### OBJETIVO:
+
+La normalización tiene como objetivo principal evitar la redundancia de datos en una base de datos y a su vez el ahorro de espacio en la misma. Muchas veces estarán limitados por la mismas empresas.
+
+#### Tres formas de Normalización:
+
+1. Primera forma:
+
+![image](https://user-images.githubusercontent.com/72580574/204039205-47b2061d-8690-4853-baf8-1e844dee90da.png)
+
+• Se encarga de eliminar los datos repetidos que tiene una tabla y separarlos.
+
+• Crea una tabla por separado por cada grupo de datos relacionado.
+
+• Identifica cada grupo de datos relacionados con una clave primaria
+
+
+2. Segunda forma :
+3. 
+![image](https://user-images.githubusercontent.com/72580574/204039232-27be1456-0c35-43a0-9bf8-6098f7514748.png)
+
+• Se cran tablas separadas para aquellos grupos de datos que se aplican a varios registros.
+
+• Las tablas se relacionan mediante una clave externa
+
+3. Tercera forma:
+
+![image](https://user-images.githubusercontent.com/72580574/204039298-cc67234c-b5bd-42cc-8bdd-8365395d65aa.png)
+
+• Es la relación y dependencia que tiene cada tabla.
+
+• Elimina todos aquellos campos que no dependan de una clave.
+
+Por ejemplo, si la tabla A, B y C. B depende de A, entonces  C depende de B y de A, pero si yo elimino B, C  sigue dependiendo de A.
+
+---
+
+## SELECCIONAR DATOS DE DIFERNETES TABLAS
+
+Utilizaremos el comando:
+
+```SQL
+SELECT * FROM  <nombre de tabla1> , <nombre de tabla 2>;
 ```
 
-```SQL
+![image](https://user-images.githubusercontent.com/72580574/204039383-324156f8-8d5d-4438-92a2-97c9982bc278.png)
 
+Para seleccionar datos específicos de tablas:
+
+Utilizaremos
+
+```SQL
+use base1;
+
+Select *from  <nombre de tabla 1>, <nombre de tabla 2>;
+
+SELECT * FROM usuario, serial ; select usuario.nombre, usuario.apellido , serial. n_serial from usuario, serial where usuario.idusuario=serial.idserial;
 ```
 
-```SQL
+![image](https://user-images.githubusercontent.com/72580574/204039449-baddc16d-b35b-461a-9972-4b3cde9a7342.png)
 
-```
+
+---
+
+## :star: Actividad
+
+
+
+1. Responder cuestionario para asistencia en el campus.
+
+2. Realizar ejercicios con sentencias vista durante la clase en las bases creadas en la clase anterior.
+
+
+### Trabajo Integrador Grupal 
+
+- Fecha de entrega 7/12
+
+1. Añadir datos completando con 5 o 6 usuarios.
+
+2. Crear una nueva tabla en la balse1 con el nombre Serial, añadir dos columnas (id, n_serial)
+
+3. Seleccionar datos de tabla usuario y Serial, seleccionar sólo 2 datos de usuario y 1 de serial.
+
+Enviar captura por grupo de lo realizado
