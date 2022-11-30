@@ -31,4 +31,6 @@
 
 - [Clase 14 (23/11) : **método scrum**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase14)
 
+- [Clase 15 (30/11) : **scrum**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos/clase15)
+
 ---
