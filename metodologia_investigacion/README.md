@@ -57,3 +57,7 @@
 - [Clase 14 (23/11)](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase14) : Sentencias
 
 ---
+
+- [Clase 15 (30/11](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion/clase_15): Sentencias
+
+---
