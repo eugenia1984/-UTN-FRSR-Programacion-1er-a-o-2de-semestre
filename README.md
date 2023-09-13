@@ -17,3 +17,7 @@ La cursada del 1er año - 2do semestre de la Tecnicatura Universitaria en Progra
 | [Estadistica](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado|
 
 ---
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+
+---
